@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/960px-Apple_logo_grey.svg.png" alt="NaLA logo" width="225" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/960px-Apple_logo_grey.svg.png" alt="NaLA logo" width="175" />
     <h1>APPLE JOBS ANALYSIS</h1>
     <h3>Kaggle Raw Data EDA Project</h3>
 
