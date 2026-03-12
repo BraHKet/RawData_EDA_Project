@@ -1,0 +1,2149 @@
+id,programming_languages,tools_and_technologies,years_experience_min,experience_level
+0,,"Software Development, Database Management",2.0,not specified
+1,Other,"Software Development, Other",,not specified
+2,"Java, Python, Shell, Ruby, Go","Cloud Computing, DevOps, Database Management, Other",3.0,mid
+3,"Java, Python, Shell, Ruby, Go","Cloud Computing, DevOps, Database Management, Other",3.0,mid
+4,,"Data Analytics, Cloud Computing, Machine Learning/Artificial Intelligence, Internet of Things (IoT), Other",,not specified
+5,,,,senior
+6,"Swift, Other","Human-Computer Interaction, Other, Networking, Mobile Development",,not specified
+7,"JavaScript, Scala, Java, Swift, Other","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+8,"Swift, Other","Human-Computer Interaction, Networking, Other",,not specified
+9,Other,Software Development,2.0,mid
+10,"Swift, Other",Mobile Development,,not specified
+11,Java,"DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",5.0,senior
+12,Other,Cloud Computing,,not specified
+13,,Cloud Computing,,not specified
+14,C++,"Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,not specified
+15,"Ruby, Perl, Shell, Python","DevOps, Software Development, Networking, Other",5.0,senior
+16,"Swift, Other","Software Development, Database Management, Other",3.0,not specified
+17,"C#, Java","Data Analytics, Cloud Computing, Database Management, Other",4.0,mid
+18,,,,not specified
+19,"JavaScript, PHP, Java, Swift, Python, Ruby, C++, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",7.0,senior
+20,"Java, Perl, Shell, Python, Other","Cybersecurity, Software Development, Other",,not specified
+21,"Ruby, Python","Web Development, Other",,not specified
+22,,"Other, Mobile Development",,not specified
+23,Python,"Web Development, Software Development",,not specified
+24,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",7.0,senior
+25,"C++, Other","Software Development, Other",3.0,not specified
+26,Other,"Other, Cybersecurity, Mobile Development",,senior
+27,"Python, C++","Web Development, Software Development",5.0,senior
+28,"C++, Other","Software Development, Other",2.0,mid
+29,"Go, C++, Python","DevOps, Cloud Computing, Software Development, Web Development, Networking, Other",5.0,senior
+30,"C++, C#, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+31,Python,"Web Development, Cloud Computing",5.0,senior
+32,"JavaScript, PHP, Other","Web Development, Software Development, Database Management",,not specified
+33,"Swift, C++, Other","Software Development, Mobile Development",3.0,mid
+34,"Other, C++, Java","Software Development, Database Management, Other",,senior
+35,"JavaScript, Python, C++, Other","DevOps, Database Management, Web Development, Internet of Things (IoT), Networking, Other",,not specified
+36,"Python, C++, Other","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Other",3.0,mid
+37,"JavaScript, Swift, Python, Perl, C++, Other","Other, DevOps, Mobile Development",3.0,mid
+38,Other,"Cybersecurity, Software Development, Other",5.0,senior
+39,"JavaScript, Swift, Other","Web Development, Software Development, Database Management, Other",3.0,mid
+40,"JavaScript, Python, Shell, Other","Other, Software Development, Networking, Mobile Development",,not specified
+41,"JavaScript, PHP, Other","Web Development, Data Analytics, Database Management, Other",10.0,senior
+42,"Swift, Other","Software Development, Database Management, Other",3.0,mid
+43,"JavaScript, TypeScript, Other","Web Development, Database Management",,not specified
+44,"Python, Shell, Go, C++, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,not specified
+45,"C++, Other","Mobile Development, Other",,not specified
+46,"Swift, Other","Other, Mobile Development",,senior
+47,,"Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+48,Python,"Software Development, Networking, Other",3.0,mid
+49,Java,"Database Management, Cloud Computing, Software Development, Web Development, Other",4.0,senior
+50,"C++, Other","Software Development, Other",5.0,senior
+51,"Swift, Other","Mobile Development, Other",,senior
+52,"C++, Other","Web Development, Cybersecurity",10.0,senior
+53,"Swift, Other","Cloud Computing, Software Development, Cybersecurity",4.0,senior
+54,Other,Web Development,2.0,not specified
+55,Other,"Software Development, Other",,not specified
+56,"Shell, Python, C++, Java",Networking,8.0,senior
+57,"Python, C++, Perl, Other","DevOps, Software Development, Other",3.0,mid
+58,"Other, C++, Java","Software Development, Database Management, Other",,not specified
+59,"Swift, Other","Software Development, Database Management, Other",3.0,mid
+60,Java,"Web Development, Data Analytics",5.0,senior
+61,"Swift, C++, Python, Other","Other, Software Development, Networking, Mobile Development",,not specified
+62,Python,"Data Analytics, Database Management, Other",5.0,senior
+63,Python,DevOps,,not specified
+64,"JavaScript, Swift, Other","Web Development, Software Development, Database Management, Other",3.0,mid
+65,,,,not specified
+66,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+67,Java,"Web Development, Software Development, Database Management, Other",,senior
+68,"JavaScript, Python","AR/VR (Augmented Reality/Virtual Reality), Other",5.0,senior
+69,"Perl, Python, Go, C++, Other","Software Development, Networking, Other",8.0,senior
+70,"C++, Other","DevOps, Database Management, Software Development, Web Development, Other",3.0,not specified
+71,"C++, Other","Web Development, Software Development",2.0,mid
+72,"Perl, Shell, Python, Swift, C++, Other","Internet of Things (IoT), Software Development, Other",5.0,senior
+73,"C++, C#","Software Development, Database Management, Other",,not specified
+74,"JavaScript, Python, Perl","Mobile Development, Other",5.0,senior
+75,"Swift, Other",Other,,not specified
+76,Java,"Web Development, Database Management, Software Development, Networking",5.0,senior
+77,Other,"Mobile Development, Other",,mid
+78,"Other, C++, Java","Database Management, Other",,not specified
+79,"Python, Shell, Perl, Ruby, Other","Software Development, Other",,not specified
+80,"JavaScript, PHP, Other","Web Development, Software Development, Database Management",,not specified
+81,,"Mobile Development, Software Development, Database Management, Other",,not specified
+82,Java,"Web Development, Database Management, Software Development, Networking",5.0,senior
+83,"Python, Shell, Other, Java","Web Development, Human-Computer Interaction, Software Development, Database Management",5.0,mid
+84,Java,"Web Development, Data Analytics, Networking, Other",,senior
+85,"C++, Other","Software Development, Other",,not specified
+86,,"DevOps, Cloud Computing, Cybersecurity, Software Development, Web Development",,not specified
+87,"C++, Other","Cloud Computing, Software Development, Networking, Other",10.0,senior
+88,"Python, C++",Machine Learning/Artificial Intelligence,,senior
+89,Other,,5.0,senior
+90,"C++, Other",Other,3.0,not specified
+91,,"Networking, Other",4.0,mid
+92,"Python, Shell, Perl, Java","DevOps, Database Management, Cybersecurity, Web Development, Networking",,not specified
+93,"Python, Shell, Swift, C++, Other","DevOps, Software Development, Mobile Development, Other",,not specified
+94,"C++, Other",Software Development,,not specified
+95,"Python, C++","Web Development, Software Development",5.0,senior
+96,"Other, C++, Java","Software Development, Database Management, Other",,not specified
+97,Other,,5.0,senior
+98,"Other, Scala, Java","DevOps, Database Management, Machine Learning/Artificial Intelligence, Software Development, Web Development, Other",4.0,senior
+99,"Python, C++, Other",Other,3.0,mid
+100,C++,"Internet of Things (IoT), Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+101,"Swift, Other","Other, Mobile Development",,not specified
+102,"Swift, Other","Mobile Development, Other",,not specified
+103,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Database Management",,not specified
+104,,,5.0,senior
+105,JavaScript,,,not specified
+106,,"Other, Software Development, Mobile Development",,not specified
+107,"Python, Shell, Perl",Software Development,,not specified
+108,"JavaScript, Python, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",10.0,senior
+109,Java,"Data Analytics, Other",,senior
+110,"Ruby, Python, Swift, JavaScript","Software Development, Other",3.0,not specified
+111,"C++, Other","Software Development, Other",7.0,senior
+112,"Python, C++",Machine Learning/Artificial Intelligence,,not specified
+113,"JavaScript, Python, Swift, Ruby, C++, Other","DevOps, Other",3.0,mid
+114,"JavaScript, TypeScript, C++",Web Development,,not specified
+115,"C++, Other","Web Development, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",6.0,senior
+116,"C++, C#","Software Development, Database Management, Other",,not specified
+117,"Python, Swift, Java","Other, Cloud Computing, Mobile Development",6.0,senior
+118,"Python, Shell, Perl, Ruby, C++, Other","Software Development, Other",,not specified
+119,"Python, Shell, Swift, C++, Other","DevOps, Software Development, Mobile Development, Other",,not specified
+120,Other,Software Development,,not specified
+121,"Python, C++, Other","Cybersecurity, Software Development, Networking, Other",3.0,mid
+122,"C++, Other","Software Development, Networking, Other",2.0,mid
+123,C++,Internet of Things (IoT),3.0,mid
+124,"Shell, Python, C++, Java","Data Analytics, Software Development, Networking, Other",8.0,senior
+125,"Other, C++, Java","Database Management, Other",,senior
+126,"Python, Java","Data Analytics, Database Management",10.0,senior
+127,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+128,,,,not specified
+129,,"Software Development, Other",,senior
+130,"Java, Perl, Shell, Python, Other","Cybersecurity, Software Development, Other",,not specified
+131,"Swift, Other","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+132,"JavaScript, PHP, Other","Web Development, Software Development, Database Management",,not specified
+133,"JavaScript, Python, C++, Other","Other, Software Development, Networking, Mobile Development",,mid
+134,"Python, Swift, C++, Other","Software Development, Other",,not specified
+135,,,,not specified
+136,,,,not specified
+137,"C++, Other",Software Development,,not specified
+138,C++,"Internet of Things (IoT), Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+139,"JavaScript, Swift, Java, Other","Other, Mobile Development",,not specified
+140,"Python, C++, Perl, Other","Software Development, Other",,not specified
+141,"Python, Other","DevOps, Software Development",3.0,mid
+142,"Swift, C++, Python, Other","Other, Software Development, Mobile Development",,not specified
+143,Java,"Web Development, Database Management, Other",5.0,senior
+144,"Other, Java","Web Development, Software Development, Database Management, Other",5.0,mid
+145,"C++, Other","Internet of Things (IoT), Networking, Other",5.0,senior
+146,C++,"Web Development, Software Development, Other",,not specified
+147,"Python, C++, Java","Web Development, Cloud Computing",5.0,senior
+148,"Other, C++, Java","Web Development, Software Development",5.0,senior
+149,"Python, Other",Other,,not specified
+150,Other,"Cybersecurity, Software Development, Other",,not specified
+151,"Swift, C++, Other","Other, Mobile Development",,not specified
+152,"JavaScript, Python, Perl, Go, C++, Other","Networking, Software Development, Mobile Development, Other",3.0,mid
+153,Java,"Web Development, Other",,senior
+154,Other,,,not specified
+155,"C++, Other","Internet of Things (IoT), Networking, Other",5.0,senior
+156,Java,"Networking, Database Management, Other",,senior
+157,"Python, C++, Other",,,not specified
+158,,,,not specified
+159,"JavaScript, Java, Swift, Python, Other","Other, Software Development, Mobile Development",3.0,mid
+160,Other,"Software Development, Other",,not specified
+161,"Python, C++","Software Development, Other",3.0,senior
+162,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",,senior
+163,Java,"Web Development, Software Development",,not specified
+164,"Swift, C++","Mobile Development, Other",3.0,mid
+165,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+166,Other,"DevOps, Software Development, Other",5.0,senior
+167,Other,"Cloud Computing, Software Development, Other",,not specified
+168,Other,"Web Development, Software Development, Other",3.0,mid
+169,"Python, R","Data Analytics, Database Management",2.0,mid
+170,Java,"Web Development, Software Development, Networking, Other",5.0,senior
+171,"C++, Other",Other,,not specified
+172,"C++, Other","Internet of Things (IoT), Networking, Other",3.0,mid
+173,"C++, Other","Networking, Other",,not specified
+174,,"Web Development, Data Analytics, Cloud Computing, Database Management",5.0,senior
+175,"Swift, Other","Web Development, Software Development, Cybersecurity",2.0,mid
+176,"JavaScript, TypeScript","Web Development, DevOps, Database Management, Other",3.0,mid
+177,"C++, Other",Software Development,6.0,senior
+178,"C++, Other","Internet of Things (IoT), Networking, Other",5.0,senior
+179,,,,not specified
+180,,"Software Development, Other",5.0,senior
+181,"Python, Shell, Perl, C++, Other","Software Development, Other",,not specified
+182,"Python, C++, Other","DevOps, Software Development, Machine Learning/Artificial Intelligence, Other",7.0,senior
+183,"Python, C++, Other","Mobile Development, Software Development, Other",3.0,mid
+184,"Shell, Other","Other, Mobile Development",3.0,not specified
+185,"Python, C++, Perl, Other","Software Development, Other",,not specified
+186,"JavaScript, Python, Shell","Internet of Things (IoT), Software Development",,not specified
+187,"Perl, Shell, Python","Software Development, Other",3.0,not specified
+188,Java,"Web Development, Software Development",,not specified
+189,"Ruby, Python, PHP","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",5.0,senior
+190,,"Cloud Computing, Software Development",,mid
+191,"JavaScript, Java, Python, Ruby, C++, Other","Web Development, Database Management",,not specified
+192,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+193,,"Networking, Other",3.0,not specified
+194,"Ruby, Python, Shell, Java",Software Development,3.0,mid
+195,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",5.0,senior
+196,"JavaScript, Python, Shell, Other",Software Development,,not specified
+197,"Python, C++",Software Development,4.0,mid
+198,"JavaScript, PHP, Python, Perl, Ruby, Other","Web Development, Cloud Computing, Database Management, Other",3.0,not specified
+199,"Python, C++, Swift, Other","Machine Learning/Artificial Intelligence, Software Development, DevOps, Other",,not specified
+200,Other,"Other, Machine Learning/Artificial Intelligence, Networking, Mobile Development",,not specified
+201,"Python, Scala, Java","Data Analytics, Database Management, Cloud Computing, Web Development, Other",3.0,mid
+202,"C++, Other","Software Development, Mobile Development",,not specified
+203,,Networking,5.0,senior
+204,"Python, Swift, Other, Java","DevOps, Database Management, Cybersecurity, Software Development, Web Development, Other",5.0,senior
+205,,"Software Development, Other",7.0,senior
+206,"C++, Other","Networking, Other",,not specified
+207,"C++, Other",Software Development,6.0,senior
+208,"Scala, Java, Python, Ruby, C++","Software Development, Other",4.0,mid
+209,"C++, Other",Other,,not specified
+210,"C++, Other","Other, Mobile Development",6.0,senior
+211,"C++, Other","Software Development, Networking, Other",3.0,mid
+212,"C++, Java","Cloud Computing, Software Development, Other",8.0,senior
+213,"Python, C++","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+214,"Swift, Python, Perl, Ruby, C++, Other","Mobile Development, Software Development, Other",,not specified
+215,"Python, Scala, Java","Data Analytics, Cloud Computing, Database Management",,not specified
+216,"Perl, Java","Web Development, Software Development, Database Management, Other",,not specified
+217,,,5.0,senior
+218,Python,"Software Development, Other",,not specified
+219,Java,Web Development,,not specified
+220,"Perl, Shell, Python, Go, C++, Other","Other, Software Development, Networking, Cybersecurity",8.0,senior
+221,"Swift, C++, Other","Web Development, Other",,not specified
+222,"Swift, Python, Other","Cloud Computing, Mobile Development, Software Development, Networking, Other",3.0,mid
+223,C++,"Software Development, Other",3.0,mid
+224,Other,"Software Development, Other",3.0,not specified
+225,"Swift, C++, Other","Software Development, Networking, Other",,not specified
+226,"Shell, Other","Software Development, Other",3.0,mid
+227,"JavaScript, Swift, C++, Other","DevOps, Mobile Development, Cybersecurity, Web Development, Other",5.0,senior
+228,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",5.0,senior
+229,"C++, Other","Software Development, Other",4.0,not specified
+230,"C++, Other","Software Development, Other",5.0,senior
+231,"Swift, Other","Mobile Development, Other",,mid
+232,"C++, Java","Machine Learning/Artificial Intelligence, Software Development",1.0,junior
+233,"Python, Other",Software Development,,not specified
+234,"JavaScript, Java","Web Development, Software Development, Database Management",,not specified
+235,Other,"Web Development, Software Development, Other",,not specified
+236,"Swift, Python, Perl, Ruby, C++, Other","Mobile Development, Software Development, Other",,not specified
+237,"Python, Scala, Java","Data Analytics, Cloud Computing, Database Management",,not specified
+238,"Shell, Go, C++, Python","Machine Learning/Artificial Intelligence, Cloud Computing, Software Development, Networking, Other",,not specified
+239,"C++, Other","Networking, Other",,not specified
+240,"Swift, C++, Python, Other","Software Development, Networking, Other",8.0,senior
+241,"C++, Other",Other,,mid
+242,Other,"Internet of Things (IoT), Software Development, Other",5.0,senior
+243,"C++, Other","DevOps, Software Development, Cybersecurity",5.0,senior
+244,"Python, C++, Perl, Other","Data Analytics, Software Development, Database Management, Other",5.0,senior
+245,"Python, C++, Other",Machine Learning/Artificial Intelligence,4.0,senior
+246,"Swift, Other","Software Development, Database Management, Other",,not specified
+247,,"Cloud Computing, Software Development, Other",,not specified
+248,"Python, C++, Other",,,not specified
+249,"Perl, Java","Web Development, Software Development, Database Management, Other",,senior
+250,"Python, C++, Perl, Other","Internet of Things (IoT), DevOps, Software Development, Other",3.0,mid
+251,Other,"Software Development, Other",,not specified
+252,"Python, Shell, C++, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",3.0,mid
+253,Other,"Internet of Things (IoT), Other",3.0,not specified
+254,"Ruby, Python, Shell","DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+255,"JavaScript, Swift, C++, Other","DevOps, Mobile Development, Cybersecurity, Web Development, Other",5.0,senior
+256,"C++, Other","Cloud Computing, Software Development, Networking, Other",3.0,not specified
+257,"C++, Other",Other,2.0,not specified
+258,"Python, C++, Perl, Other","Software Development, Other",,not specified
+259,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",4.0,mid
+260,"Python, Other","DevOps, Software Development",3.0,not specified
+261,"C++, Java, Other","Software Development, Networking",,not specified
+262,C++,"Software Development, Other",,not specified
+263,Other,"Web Development, Software Development",5.0,senior
+264,"JavaScript, C++, Other","Web Development, Other",2.0,mid
+265,,"Software Development, Other",,not specified
+266,,"Software Development, Other",5.0,senior
+267,"C++, Other","Networking, Other",2.0,mid
+268,Other,,5.0,senior
+269,Other,"Software Development, Other",5.0,senior
+270,"Shell, Python, C++, Other","Software Development, Networking, Other",5.0,senior
+271,"C++, Java",Machine Learning/Artificial Intelligence,1.0,junior
+272,JavaScript,Web Development,,not specified
+273,,,,not specified
+274,"Swift, Other",Software Development,,not specified
+275,Java,Web Development,,senior
+276,"C++, Java",Machine Learning/Artificial Intelligence,3.0,mid
+277,"Python, C++, Other",Software Development,,not specified
+278,"Python, C++, Other",Other,,not specified
+279,"Java, Python, Swift, Go, C++, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Networking, Other",,senior
+280,"Python, Other",Software Development,,not specified
+281,"JavaScript, Swift, Other","Mobile Development, Other",,not specified
+282,"C++, Other",Other,,not specified
+283,"Swift, Other","Web Development, Human-Computer Interaction, Mobile Development, Other",,not specified
+284,"C++, Other","Software Development, Mobile Development, Other",5.0,senior
+285,,Software Development,,not specified
+286,Java,"Networking, Database Management, Other",,senior
+287,"JavaScript, Scala, Java, Python, C++","Cloud Computing, Software Development, Machine Learning/Artificial Intelligence",,not specified
+288,"JavaScript, Java, Swift, TypeScript, C++, Other","Web Development, Mobile Development",,not specified
+289,"Swift, C++, Other","Other, AR/VR (Augmented Reality/Virtual Reality), Mobile Development",5.0,senior
+290,"C++, Other",Other,,not specified
+291,"C++, Other","Cloud Computing, Software Development, Other",5.0,senior
+292,"Swift, C++, Other","Data Analytics, Software Development, Other",,not specified
+293,"Python, Shell, Perl, C++, Other","DevOps, Software Development, Other",,not specified
+294,"C++, Java","Data Analytics, Cloud Computing, AR/VR (Augmented Reality/Virtual Reality), Software Development, Other",,not specified
+295,Java,"Web Development, Database Management",7.0,senior
+296,C++,Other,5.0,senior
+297,"Python, C++, Swift, Other","Software Development, Networking",,not specified
+298,"Shell, C++, Other","Data Analytics, Software Development, Other",8.0,senior
+299,"Python, Go","Database Management, Other",,not specified
+300,"Python, C++, R, Other","Software Development, Database Management",,senior
+301,"Java, Python, Shell, Perl, Other","Cybersecurity, Software Development, Database Management, Other",,not specified
+302,"JavaScript, Java, Python, TypeScript, Go","Cloud Computing, Software Development, Networking, Other",,not specified
+303,"JavaScript, Scala, Java, Perl, Shell, Python, Ruby, Other","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",,not specified
+304,"Python, C++, Other","Software Development, Other",,not specified
+305,"JavaScript, Other","Web Development, Software Development, Other",2.0,mid
+306,Other,Software Development,3.0,mid
+307,"C++, Other","Software Development, Other",,not specified
+308,Java,Web Development,,mid
+309,,Other,,not specified
+310,Java,Web Development,3.0,mid
+311,"JavaScript, Swift, Other","Mobile Development, Other",,not specified
+312,"C++, Other",Other,,not specified
+313,"Python, C++, Other",DevOps,,mid
+314,"C++, Other",Software Development,,not specified
+315,"JavaScript, Python, Swift","Cloud Computing, Mobile Development, Software Development, Web Development, Other",,not specified
+316,"Swift, C++, Other","Data Analytics, Database Management, Networking, Other",5.0,senior
+317,C++,"Internet of Things (IoT), Other, Mobile Development",,not specified
+318,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+319,Java,"Web Development, Other, Database Management, Cybersecurity",8.0,senior
+320,,"Data Analytics, Software Development, Mobile Development",,not specified
+321,,"Software Development, Other",,senior
+322,"JavaScript, Swift, Shell, Python, Other","Software Development, Other",,not specified
+323,,"Web Development, Cloud Computing, Software Development, Mobile Development",,not specified
+324,"Swift, Other","Software Development, Other",5.0,senior
+325,"JavaScript, Python","Other, Software Development, Mobile Development",,not specified
+326,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",5.0,senior
+327,"JavaScript, Scala, Java, Other","Web Development, Human-Computer Interaction, Software Development, Other",,not specified
+328,Other,Software Development,3.0,mid
+329,Java,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",3.0,mid
+330,"Perl, Shell, Python, Other","Internet of Things (IoT), Software Development, Other",3.0,mid
+331,Python,Software Development,,not specified
+332,Other,"Internet of Things (IoT), Data Analytics, Software Development, Other",,senior
+333,Other,Software Development,3.0,not specified
+334,Other,"Internet of Things (IoT), Software Development, Other",8.0,senior
+335,"C++, Other",Other,3.0,mid
+336,"Java, Python, Perl, C++, Other","Data Analytics, Database Management, Web Development, Networking, Other",,senior
+337,"C++, Java","Web Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+338,"C++, Other",Software Development,,not specified
+339,"Ruby, Python, JavaScript, Other","Human-Computer Interaction, Software Development",,not specified
+340,"Python, C++, Other","Software Development, Other",3.0,mid
+341,"Go, Scala, Python, Other","Cloud Computing, Software Development, Other",7.0,senior
+342,Java,"Data Analytics, Cloud Computing",5.0,senior
+343,Other,"Software Development, Other",,senior
+344,"C++, Other",Other,,senior
+345,,Other,7.0,senior
+346,C++,"Data Analytics, Other",,not specified
+347,"Python, Shell, Perl, C++, Other","Software Development, Other",5.0,senior
+348,"C++, Other","Software Development, Other",2.0,mid
+349,"Scala, Other, Java","DevOps, Cybersecurity, Software Development, Web Development, Other",5.0,senior
+350,,,,not specified
+351,"Python, C++, Other","Other, Software Development, Cybersecurity",,not specified
+352,"Swift, Other","Other, Cloud Computing, Mobile Development",,senior
+353,Java,"Data Analytics, Database Management, Cloud Computing, Web Development, Other",5.0,not specified
+354,Java,"Database Management, Mobile Development, Cybersecurity, Software Development, Web Development, Other",8.0,senior
+355,Other,"Machine Learning/Artificial Intelligence, Software Development",,not specified
+356,"Scala, Java",,,senior
+357,"JavaScript, Python, C#, Java","Web Development, Cloud Computing, Other",,not specified
+358,"C++, Other","Cloud Computing, Software Development, Networking, Other",10.0,senior
+359,"Other, C++, C#, Java","Web Development, Database Management",2.0,not specified
+360,"Python, Swift, Other, Java","Web Development, DevOps, Software Development, Cybersecurity",5.0,senior
+361,"C++, Other","Other, Software Development, Networking, Cybersecurity",,mid
+362,"JavaScript, Scala, PHP, Java, Python, Ruby, C++, Other","Web Development, Data Analytics, Software Development, Database Management",,not specified
+363,"Python, C++","Data Analytics, DevOps, Cloud Computing, Software Development, Other",5.0,senior
+364,"Swift, Other","Web Development, Networking, Other",5.0,senior
+365,Other,"Machine Learning/Artificial Intelligence, Software Development",,not specified
+366,"Python, Shell, Other, Java","Data Analytics, Other",3.0,mid
+367,"Scala, Java","Data Analytics, Cloud Computing",,not specified
+368,"Python, C++","Cybersecurity, Software Development, Other",3.0,not specified
+369,"Python, C++","Machine Learning/Artificial Intelligence, Other",3.0,senior
+370,"Swift, C++, Other","Other, Software Development, Networking, Mobile Development",5.0,senior
+371,Java,"Web Development, Cybersecurity, Database Management, Other",8.0,senior
+372,"C++, Other","Data Analytics, Software Development, Networking, Other",3.0,mid
+373,,Other,,not specified
+374,"JavaScript, Python, Swift","Web Development, Cloud Computing, Software Development, Mobile Development",,mid
+375,,Software Development,,not specified
+376,,Other,5.0,senior
+377,Other,Web Development,,not specified
+378,"C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+379,"Java, Swift, Python, Shell, Ruby, C++, Other","DevOps, Cloud Computing, Mobile Development, Software Development, Web Development, Other",3.0,mid
+380,Python,"Networking, Other",2.0,mid
+381,"Scala, Java, Perl, Python, Ruby","DevOps, Software Development, Other",4.0,mid
+382,"JavaScript, Python, Swift","Web Development, Cloud Computing, Software Development, Mobile Development",,not specified
+383,Other,"Software Development, Mobile Development",,not specified
+384,Other,,,not specified
+385,"Java, Python, Shell, Perl, C++, Other","Data Analytics, Database Management, Web Development, Networking, Other",,senior
+386,"Swift, Other","Human-Computer Interaction, Other, Software Development, Mobile Development",,not specified
+387,Swift,"Software Development, Mobile Development",,not specified
+388,"Python, Swift, Other, Java","Web Development, Cybersecurity, DevOps, Other",5.0,senior
+389,"Ruby, Python, Swift, Other","Web Development, Networking, Other",,not specified
+390,Java,"Database Management, Software Development, Web Development, Networking, Other",,senior
+391,"Java, Python, Ruby, C++, Other","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+392,"JavaScript, Python, Swift","Cloud Computing, Mobile Development, Software Development, Web Development, Other",,not specified
+393,,Other,7.0,senior
+394,"Python, C++",Other,,not specified
+395,Other,Other,,not specified
+396,"JavaScript, Java, Python, TypeScript, Go","Database Management, Cloud Computing, Networking, Other",,not specified
+397,"Scala, Java","Data Analytics, Cloud Computing",,not specified
+398,"C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+399,"JavaScript, Python, Shell","Internet of Things (IoT), Software Development",,not specified
+400,"JavaScript, Python, Swift","Web Development, Cloud Computing, Software Development, Mobile Development",,not specified
+401,"Python, Other",Software Development,5.0,senior
+402,"Other, C++, Java","DevOps, Software Development, Mobile Development",3.0,senior
+403,"Other, Scala, Java","Web Development, DevOps, Software Development, Other",5.0,senior
+404,"JavaScript, Scala, Java, Python, Shell","DevOps, Software Development",,not specified
+405,"Perl, Shell, Python, C++, Other","DevOps, Software Development, Other",,not specified
+406,Python,"Software Development, Database Management",3.0,not specified
+407,,Other,5.0,senior
+408,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+409,"Swift, C++, Java, Other","Software Development, Networking, Other",,not specified
+410,"Ruby, Python, Scala","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",,not specified
+411,Other,"Mobile Development, Software Development, Other",,not specified
+412,"JavaScript, Java, Python, Ruby, Other","Software Development, Other",,not specified
+413,,,,not specified
+414,Other,"Software Development, Other",,not specified
+415,"JavaScript, Other",Web Development,,mid
+416,"Scala, Java","Data Analytics, Cloud Computing, Database Management, Other",2.0,mid
+417,,"Data Analytics, Software Development, Mobile Development",,senior
+418,"Swift, C++, Other","Software Development, Other",,not specified
+419,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5.0,senior
+420,"Python, C++, Other","DevOps, Software Development",5.0,senior
+421,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+422,,"Cybersecurity, Software Development, Web Development, Networking, Other",,not specified
+423,"JavaScript, Other, Java","Other, Data Analytics, Software Development, Mobile Development",5.0,not specified
+424,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+425,"JavaScript, Other, Java","Mobile Development, Software Development, Other",1.0,not specified
+426,"JavaScript, Swift, Python","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Mobile Development, Software Development, Other",3.0,mid
+427,,,2.0,mid
+428,"Swift, C++, Java, Other","Software Development, Mobile Development",,not specified
+429,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+430,"JavaScript, Other","Web Development, Other",5.0,senior
+431,,"Networking, Other",5.0,senior
+432,"C++, Other","Software Development, Other",,not specified
+433,"Java, Python, Ruby, C++, Other","Web Development, Other",,senior
+434,"JavaScript, Swift, C++, Other",,,not specified
+435,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+436,"Scala, Java, Python, Ruby, Go, C++","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+437,Java,"Data Analytics, Database Management, Cloud Computing, Web Development, Other",5.0,senior
+438,"Python, Java","Data Analytics, Other",,senior
+439,Java,Web Development,3.0,mid
+440,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+441,"Swift, Other","Machine Learning/Artificial Intelligence, Software Development, Other",6.0,senior
+442,,"Internet of Things (IoT), Software Development, Other",5.0,senior
+443,Java,"Web Development, Data Analytics, Cloud Computing, Database Management",5.0,senior
+444,"C++, Other",Other,,not specified
+445,,"Other, Mobile Development",5.0,senior
+446,"JavaScript, Other, Java","Software Development, Mobile Development, Other",1.0,mid
+447,"Python, C++, Swift, Other","DevOps, Software Development, Other",,not specified
+448,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+449,Java,"Web Development, Software Development",5.0,not specified
+450,"Scala, Java, Python, Ruby, C++","Software Development, Other",4.0,senior
+451,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",3.0,senior
+452,"JavaScript, Other, Java","Mobile Development, Software Development, Other",4.0,mid
+453,Java,"DevOps, Database Management, Software Development, Web Development, Other",10.0,senior
+454,"Other, Java","Cloud Computing, Software Development, Database Management, Other",,not specified
+455,"Python, C++, Swift, Other","Software Development, Other",2.0,not specified
+456,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",,senior
+457,,"Machine Learning/Artificial Intelligence, Software Development",5.0,senior
+458,,Other,,senior
+459,"C++, Other",Other,3.0,mid
+460,,,,mid
+461,"Python, Perl, Shell, Ruby, C++, Other","Software Development, Networking, Other",7.0,senior
+462,"JavaScript, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+463,"Swift, C++, Other","Other, Mobile Development",,not specified
+464,"Swift, Other",Mobile Development,,not specified
+465,"Java, Other",Mobile Development,,not specified
+466,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5.0,senior
+467,"Python, Other","Networking, Mobile Development, Database Management, Other",3.0,mid
+468,Other,Software Development,,not specified
+469,,"Other, Mobile Development",,not specified
+470,Other,"Human-Computer Interaction, Software Development, Networking, Other",1.0,mid
+471,"Python, Other","Software Development, Other",,not specified
+472,"Python, Shell, Other",Other,5.0,senior
+473,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,mid
+474,"Python, Shell, Perl, Ruby, Go","DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+475,"Other, C++, Java","Database Management, Other",,senior
+476,Other,"Software Development, Networking, Other",5.0,senior
+477,"Ruby, Python, C++, Java","DevOps, Mobile Development, Software Development, Other",,not specified
+478,"C++, Other","Other, Mobile Development",,not specified
+479,"Scala, Java, Python, Ruby, C++","Software Development, Other",4.0,senior
+480,"JavaScript, Swift, Python","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Mobile Development, Software Development, Other",3.0,mid
+481,,"Web Development, Data Analytics, Mobile Development, Other",7.0,senior
+482,"Python, C++, Other","Software Development, Other",,not specified
+483,"C++, Java, Other","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Web Development, Networking",,not specified
+484,"Java, Python, Perl, Go, C++","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+485,"Go, Python, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,not specified
+486,"JavaScript, Other","DevOps, Database Management, Software Development, Web Development, Other",9.0,senior
+487,Java,"Web Development, Software Development, Mobile Development, Other",5.0,senior
+488,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5.0,senior
+489,"Scala, Java, Python, Ruby, Go, C++","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+490,"Scala, Java, Python, Ruby, Go, C++, Other","Data Analytics, Software Development, Database Management, Other",5.0,senior
+491,"Scala, Swift, Other, Java","Software Development, Other",5.0,senior
+492,"Python, Perl, Ruby, C++, Other","Software Development, Other",,not specified
+493,"C++, Other","Software Development, Other",,not specified
+494,,,,not specified
+495,"Swift, Other","Software Development, Other",,not specified
+496,"Python, Java","Web Development, Software Development, Mobile Development, Other",,not specified
+497,"JavaScript, Other, Java","Other, Data Analytics, Software Development, Mobile Development",5.0,mid
+498,"Swift, Other","Human-Computer Interaction, Other, Mobile Development",,not specified
+499,"Python, C++, Java, Other","Web Development, Software Development, Other",,not specified
+500,"C++, Other","Software Development, Networking, Other",4.0,senior
+501,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+502,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+503,,"Other, Blockchain, Cybersecurity",7.0,senior
+504,"JavaScript, Other, Java","Other, Data Analytics, Software Development, Mobile Development",5.0,not specified
+505,,Machine Learning/Artificial Intelligence,5.0,senior
+506,,,,not specified
+507,"Python, C++, Other","Software Development, Mobile Development, Other",,not specified
+508,"JavaScript, Python, Perl, C++, Other",DevOps,2.0,mid
+509,"Swift, Other","Data Analytics, Mobile Development, Software Development, Human-Computer Interaction, Other",,not specified
+510,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",5.0,senior
+511,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",5.0,senior
+512,C++,"Other, Software Development, Mobile Development",,not specified
+513,"JavaScript, Swift, TypeScript, Other",,,not specified
+514,Other,"Software Development, Networking, Other",5.0,senior
+515,Java,Web Development,3.0,mid
+516,"C++, Other","Cybersecurity, Software Development, Other",,not specified
+517,C++,Other,,not specified
+518,"Python, C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+519,"Python, C++, Other","Cybersecurity, Software Development, Networking, Other",3.0,not specified
+520,"Scala, Java, Python, Ruby, Go, C++, Other","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+521,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5.0,senior
+522,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",7.0,senior
+523,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",,not specified
+524,"JavaScript, Java, Python, Ruby, C++, Other","Data Analytics, Cloud Computing, Software Development",,not specified
+525,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+526,"Scala, Java, Python, Ruby, C++","Software Development, Other",4.0,not specified
+527,"JavaScript, Swift, Shell, Python, Other","Software Development, Other",5.0,senior
+528,Other,"Software Development, Database Management, Mobile Development",2.0,mid
+529,"Python, C++, Other","Internet of Things (IoT), Software Development, Other",,not specified
+530,"JavaScript, Python, Ruby, C++, Other",Software Development,2.0,mid
+531,Python,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+532,,"Web Development, Database Management",,not specified
+533,"Swift, Other","Web Development, Cloud Computing, Software Development",5.0,senior
+534,Java,"Data Analytics, Software Development, Database Management, Other",,senior
+535,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+536,Other,"Cloud Computing, Database Management, Other",,not specified
+537,Other,"Software Development, Other",,senior
+538,,"Machine Learning/Artificial Intelligence, Software Development, Networking, Other",,senior
+539,"Python, Other","Software Development, Other",,not specified
+540,Java,Web Development,5.0,senior
+541,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+542,,"Software Development, Other",,not specified
+543,"Scala, Python, Java","Data Analytics, Other",6.0,senior
+544,"Python, C++, Swift, Other","DevOps, Software Development, Other",,not specified
+545,"Scala, Java, Python, Ruby, Go, C++, Other","Data Analytics, Software Development, Database Management, Other",5.0,senior
+546,"JavaScript, PHP, Python, Perl, Ruby, Other","Web Development, Mobile Development, Other",,not specified
+547,"JavaScript, C++","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",2.0,mid
+548,,"Machine Learning/Artificial Intelligence, Mobile Development, Other",,not specified
+549,Other,"Software Development, Other",,senior
+550,"Swift, Java, Scala, Other","Web Development, Other, Software Development, Mobile Development",,mid
+551,"Swift, Other","Software Development, Other",5.0,senior
+552,Java,"Software Development, Mobile Development",5.0,senior
+553,,"Machine Learning/Artificial Intelligence, Other",,mid
+554,"Python, Java","Web Development, DevOps, Mobile Development, Other",7.0,senior
+555,"JavaScript, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Web Development",,senior
+556,"C++, Other","Mobile Development, Software Development, Other",,not specified
+557,"JavaScript, Python","Internet of Things (IoT), DevOps, Mobile Development",,not specified
+558,Java,"DevOps, Database Management, Software Development, Web Development, Other",,senior
+559,Java,"DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+560,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+561,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Other",5.0,not specified
+562,"Java, Python, Ruby, C++, Other","Web Development, Software Development, Other",,senior
+563,"Scala, Other, Java","Web Development, Data Analytics, DevOps, Database Management",5.0,senior
+564,"Swift, Java, Scala, Other","Data Analytics, Mobile Development, Software Development, Web Development, Other",,not specified
+565,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+566,,"Data Analytics, Machine Learning/Artificial Intelligence",,senior
+567,"Python, Scala, Other","Data Analytics, Database Management, Cloud Computing, Internet of Things (IoT), Other",,not specified
+568,Java,"Web Development, Cloud Computing, Software Development, Database Management",5.0,senior
+569,Java,Web Development,10.0,senior
+570,"Java, Python, Shell, Perl, Other","Software Development, Mobile Development, Other",2.0,mid
+571,Swift,"Mobile Development, Software Development, Database Management, Other",3.0,mid
+572,"Scala, Java, Python, Go, C++","Cloud Computing, Software Development",,not specified
+573,"Swift, Other","Web Development, Human-Computer Interaction",,not specified
+574,,,,not specified
+575,,"Web Development, Software Development, Other",5.0,senior
+576,"C++, Other","Internet of Things (IoT), Data Analytics, Other",,not specified
+577,,"Web Development, Software Development",,not specified
+578,"JavaScript, Swift, TypeScript, Other","Web Development, Software Development",,not specified
+579,"Scala, C#, Other, Java","Database Management, Software Development, Networking",5.0,senior
+580,"JavaScript, Java, Perl, Shell, Python","DevOps, Database Management, Mobile Development, Software Development, Web Development, Networking, Other",5.0,senior
+581,"C++, Other","Mobile Development, Other",5.0,senior
+582,,Other,,not specified
+583,JavaScript,"Web Development, Other",,not specified
+584,Other,Other,,senior
+585,"Scala, Java","Web Development, Software Development",5.0,senior
+586,"JavaScript, Java, Python, Shell, Perl","DevOps, Database Management, Mobile Development, Software Development, Web Development, Networking, Other",5.0,senior
+587,"Scala, Python, Java","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",3.0,mid
+588,"JavaScript, Scala, Other, Java","Web Development, Data Analytics, Software Development, Database Management",5.0,not specified
+589,,Other,10.0,senior
+590,"C++, Other","Other, DevOps, Software Development, Mobile Development",,not specified
+591,Other,Cybersecurity,3.0,mid
+592,"JavaScript, Scala, Java","Web Development, Data Analytics, Software Development, Database Management",5.0,senior
+593,"Swift, Other","Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,senior
+594,"Go, Other","Cloud Computing, DevOps, Software Development",,senior
+595,"C++, Other","Software Development, Networking, Other",,not specified
+596,"Swift, Other","Web Development, Human-Computer Interaction",,not specified
+597,"Scala, Python, Java","Web Development, Data Analytics, Cloud Computing, Database Management",6.0,senior
+598,"Java, Python, Shell, Perl, Other","Software Development, Mobile Development, Other",3.0,not specified
+599,"Python, C++, Other","Other, Mobile Development",,not specified
+600,Other,"Web Development, Database Management, Networking, Other",,not specified
+601,"Scala, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Database Management",5.0,senior
+602,"Scala, Java","Data Analytics, Software Development, Database Management",5.0,senior
+603,"Perl, Shell, Python",Software Development,,not specified
+604,"Scala, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",5.0,mid
+605,,"Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,mid
+606,Java,"Database Management, Cloud Computing, Software Development, Web Development, Other",5.0,senior
+607,,"Software Development, Other",,not specified
+608,,"Software Development, Other",6.0,senior
+609,"Scala, Java, Python, Ruby, Go, C++","Data Analytics, Software Development, Database Management, Other",5.0,senior
+610,Java,"Data Analytics, Other",,senior
+611,"Scala, Python, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",3.0,mid
+612,Java,"Web Development, Software Development",10.0,senior
+613,C++,"Other, Data Analytics, Software Development, Mobile Development",,not specified
+614,Java,"Cloud Computing, DevOps, Other",,not specified
+615,"Python, C++, Java, Other","Mobile Development, Software Development, Networking, Other",5.0,senior
+616,"Scala, Other, Java","Web Development, Data Analytics, DevOps, Other",5.0,senior
+617,"JavaScript, Swift, Other","Web Development, Software Development, Database Management, Other",3.0,mid
+618,"C++, Java","Cybersecurity, Cloud Computing, Database Management, Other",4.0,senior
+619,"Python, C++, Other","Other, Software Development, Mobile Development",,not specified
+620,"C++, Other","Other, DevOps, Software Development, Mobile Development",,not specified
+621,"C++, Other","Other, Mobile Development",6.0,senior
+622,"C++, Other","Software Development, Other",,not specified
+623,Other,"Internet of Things (IoT), Software Development, Other",,senior
+624,"C++, Other","Software Development, Other",,not specified
+625,"Python, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development, Web Development, Other",,senior
+626,"JavaScript, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development, Web Development",,not specified
+627,Java,"Cloud Computing, Database Management, Other",5.0,senior
+628,"Ruby, Perl, PHP, Python","Web Development, Software Development, Database Management",4.0,mid
+629,"JavaScript, Java","Web Development, Other",5.0,senior
+630,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, Other",,not specified
+631,Java,"Web Development, Software Development",,senior
+632,"JavaScript, Python, Java","DevOps, Cloud Computing, Software Development, Web Development, Other",,senior
+633,"Python, Java","Web Development, Software Development, Database Management, Other",5.0,senior
+634,Java,"Data Analytics, DevOps, Database Management, Software Development, Other",,senior
+635,Java,"Web Development, Software Development, Database Management, Other",,not specified
+636,"C++, Java","Cybersecurity, Cloud Computing, Database Management, Other",4.0,senior
+637,"Python, Other",Other,,not specified
+638,"C++, Java","Database Management, Cloud Computing, Cybersecurity, Web Development, Other",4.0,senior
+639,"Ruby, Python, Shell, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Other",,not specified
+640,"C++, Other","Software Development, Other",5.0,senior
+641,Java,"Web Development, Data Analytics, Software Development, Database Management",,not specified
+642,"Python, C++, Other","Software Development, Other",,not specified
+643,Java,"Web Development, Database Management, Software Development, Networking",,not specified
+644,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",5.0,senior
+645,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Web Development, Other",,not specified
+646,"Swift, Other",Cybersecurity,,not specified
+647,Other,Software Development,,not specified
+648,Java,Web Development,,not specified
+649,"Scala, Java, Perl, Python, Other","Data Analytics, Other",3.0,not specified
+650,"JavaScript, Python, Java","Database Management, Cloud Computing, Cybersecurity, Software Development, Web Development, Other",5.0,mid
+651,Java,"Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",5.0,senior
+652,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",8.0,senior
+653,"Python, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+654,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Web Development, Other",,senior
+655,"C++, Other","Software Development, Other",,not specified
+656,Java,"Database Management, Software Development, Web Development, Networking, Other",5.0,senior
+657,"Python, C++, Java, Other","DevOps, Software Development, Other",,not specified
+658,,,5.0,senior
+659,"JavaScript, Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",3.0,mid
+660,Java,Web Development,3.0,mid
+661,"JavaScript, Swift, C++, Other","Web Development, Other, Mobile Development, Cybersecurity",,not specified
+662,"JavaScript, Swift, TypeScript, Other","Data Analytics, Other",,senior
+663,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+664,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, Other",,not specified
+665,"Scala, C++, Java","Web Development, DevOps, Software Development, Cloud Computing",10.0,senior
+666,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+667,"Scala, Other, Java","Data Analytics, Cloud Computing, Database Management, Other",,senior
+668,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+669,"Java, Python, Ruby, C++, Other","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+670,"Ruby, Python, Shell, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",6.0,senior
+671,"Python, C++, Other","Cybersecurity, Other",,not specified
+672,Java,"Database Management, Software Development, Web Development, Networking, Other",5.0,senior
+673,"JavaScript, Python, Java","Database Management, Cloud Computing, Cybersecurity, Software Development, Web Development, Other",5.0,senior
+674,Java,"Web Development, Cloud Computing, Database Management",10.0,senior
+675,"Scala, Python, Java","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",3.0,mid
+676,,"Web Development, Cloud Computing, Database Management, Networking",5.0,mid
+677,"Python, Swift, Perl, Ruby, C++, Other","DevOps, Software Development, Human-Computer Interaction, Networking, Other",,not specified
+678,Java,"Web Development, Data Analytics",5.0,senior
+679,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",5.0,senior
+680,"Python, Swift, Perl, Ruby, C++, Other","DevOps, Software Development, Human-Computer Interaction, Networking, Other",,not specified
+681,"Python, Swift, Perl, Ruby, C++, Other","DevOps, Software Development, Web Development, Human-Computer Interaction, Networking, Other",,not specified
+682,Java,"Database Management, Software Development, Web Development, Networking, Other",5.0,senior
+683,Java,"Database Management, Software Development, Web Development, Networking, Other",5.0,senior
+684,"Python, Scala, Java","Data Analytics, Cloud Computing, Machine Learning/Artificial Intelligence, Other",,not specified
+685,"Python, C++, Other",Software Development,2.0,not specified
+686,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+687,,"Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+688,,"Cloud Computing, Software Development, Other",8.0,senior
+689,"Scala, Java","Data Analytics, Software Development, Database Management",5.0,senior
+690,Java,"Web Development, Cloud Computing",10.0,senior
+691,"Kotlin, Java","DevOps, Database Management, Software Development, Web Development, Other",,senior
+692,"Scala, Python, Java","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",3.0,mid
+693,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",5.0,senior
+694,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+695,"Python, C++, Other","Software Development, Other",,not specified
+696,"Swift, C++, Other","Other, Software Development, Networking, Mobile Development",,not specified
+697,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+698,"Scala, Java","Data Analytics, Software Development, Database Management",5.0,senior
+699,Python,"Software Development, Database Management",,not specified
+700,Other,"Internet of Things (IoT), Other",3.0,not specified
+701,,"Web Development, Software Development, Networking, Other",8.0,senior
+702,"Scala, Java","Web Development, Data Analytics, Database Management, Other",5.0,senior
+703,"Ruby, JavaScript, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Networking, Other",7.0,senior
+704,"Scala, Java","Web Development, Data Analytics, Database Management, Other",5.0,senior
+705,"Scala, C++, Java",Data Analytics,,senior
+706,"Swift, C++, Other","Other, Software Development, Networking, Mobile Development",,not specified
+707,"Shell, Python, C++, Other","Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Mobile Development, Software Development, Other",5.0,senior
+708,Other,"Data Analytics, Software Development, Database Management, Other",10.0,senior
+709,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+710,,"Database Management, Other",,not specified
+711,,Machine Learning/Artificial Intelligence,4.0,not specified
+712,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+713,"Scala, Java","Data Analytics, Cloud Computing",,not specified
+714,"Other, Java","Web Development, Database Management, Other",,senior
+715,,"Data Analytics, Other",,not specified
+716,,"Mobile Development, Software Development, Networking, Other",,not specified
+717,,Other,10.0,senior
+718,"Swift, Other",Software Development,5.0,senior
+719,"Swift, Other","Software Development, Other",5.0,senior
+720,,Other,3.0,mid
+721,"Python, Shell, Other","Software Development, Mobile Development, Other",,not specified
+722,"Ruby, Python, Other",Data Analytics,,not specified
+723,"JavaScript, Python, Scala","Software Development, Mobile Development, Other",,not specified
+724,C++,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+725,Shell,"Software Development, Other",,not specified
+726,"Java, Other","Software Development, Other",,not specified
+727,JavaScript,"Web Development, DevOps, Software Development, Other",,not specified
+728,JavaScript,"Web Development, DevOps, Software Development, Other",,not specified
+729,"Python, Shell, Java",Data Analytics,10.0,senior
+730,Swift,"Web Development, Other, Software Development, Mobile Development",,not specified
+731,C++,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+732,"C++, C#, Other","Data Analytics, Other",5.0,senior
+733,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+734,"Swift, Other","Data Analytics, DevOps, Mobile Development, Cybersecurity, Software Development, Web Development, Other",6.0,senior
+735,C++,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+736,,"Networking, Other",6.0,senior
+737,,Other,,not specified
+738,"JavaScript, PHP, Perl, Shell, Python, Ruby, Other","Web Development, DevOps, Software Development, Other",5.0,senior
+739,"JavaScript, Scala, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+740,,,5.0,senior
+741,,Other,,not specified
+742,"Scala, Other","Web Development, Database Management, Other",,not specified
+743,"C++, Other",,,not specified
+744,Other,Other,,not specified
+745,"JavaScript, Python, Shell","Internet of Things (IoT), Software Development",,not specified
+746,,"Software Development, Other",5.0,senior
+747,"JavaScript, Python, Ruby, Other","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Networking, Other",,not specified
+748,"Python, C++, Other","Machine Learning/Artificial Intelligence, Software Development, DevOps, Other",,senior
+749,,"Internet of Things (IoT), Cybersecurity, Blockchain, Other",,senior
+750,"JavaScript, Other","Web Development, Software Development, Other",7.0,senior
+751,"Python, Other, Scala, Java","Cloud Computing, Database Management, Other",,not specified
+752,Other,Other,,not specified
+753,"Python, Swift, C++","Software Development, Other",,not specified
+754,"Python, C++, Other","DevOps, Database Management",5.0,senior
+755,,Other,5.0,senior
+756,"JavaScript, Scala, R, Java, Perl, Shell, Python, C++","Data Analytics, Database Management",3.0,not specified
+757,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+758,"Swift, Other","Other, Software Development, Mobile Development",,not specified
+759,"Python, Other, Scala, Java","Cloud Computing, DevOps, Database Management, Other",,not specified
+760,"JavaScript, Python, Shell, Swift, Other",Software Development,,not specified
+761,"C++, Other","Web Development, Other",,not specified
+762,"Python, R, Other","Data Analytics, Machine Learning/Artificial Intelligence",2.0,not specified
+763,"Python, R","Data Analytics, Other",,senior
+764,Other,"Web Development, Data Analytics, Other",5.0,mid
+765,Other,"Other, Software Development, Cybersecurity",,not specified
+766,"Python, Other",Other,,not specified
+767,"Other, C++, C#, Java","Other, Software Development, Mobile Development",,not specified
+768,Other,"Internet of Things (IoT), Other",3.0,not specified
+769,"Other, Java","Software Development, Other",,not specified
+770,"Other, Java","Database Management, Cybersecurity, Software Development, Networking, Other",,not specified
+771,"C++, Other","Internet of Things (IoT), Software Development, Other",,not specified
+772,,Software Development,5.0,senior
+773,"Python, R","Data Analytics, Cloud Computing, Database Management",,senior
+774,"Perl, Shell","Mobile Development, Software Development, Other",,not specified
+775,"C++, Other","Software Development, Other",,not specified
+776,"C++, Other","Software Development, Other",,not specified
+777,"Python, Other",Other,,not specified
+778,Other,"Software Development, Other",,not specified
+779,"C++, Other","Web Development, Cloud Computing, Other",,not specified
+780,"Ruby, Python, Shell, Go","DevOps, Software Development, Other",,senior
+781,Java,"Cybersecurity, Software Development, Networking, Other",,not specified
+782,,Software Development,5.0,senior
+783,"Other, Java","DevOps, Database Management, Software Development, Web Development, Other",5.0,senior
+784,"Python, C++",Other,,not specified
+785,"Python, R","Database Management, Other",,senior
+786,"C++, Other","Internet of Things (IoT), Other",,not specified
+787,,Other,,not specified
+788,Other,"Internet of Things (IoT), Software Development, Other",3.0,not specified
+789,"Python, C++, Other","Software Development, Mobile Development, Other",,not specified
+790,"Ruby, Perl, Python","Other, Software Development, Mobile Development",,not specified
+791,"Perl, C++, Python, Other","Cybersecurity, Other",5.0,senior
+792,Other,"Web Development, Other, Cybersecurity",,not specified
+793,,Other,8.0,senior
+794,Other,"DevOps, Software Development, Other",,not specified
+795,"C++, Other","Software Development, Other",5.0,mid
+796,,"Mobile Development, Software Development, Other",1.0,not specified
+797,,"Software Development, Other",3.0,senior
+798,"Python, C++, Other","Software Development, Mobile Development, Other",,not specified
+799,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+800,JavaScript,"Web Development, Data Analytics, Cloud Computing, Software Development",,not specified
+801,"Ruby, Python, Shell, Perl","DevOps, Software Development",,not specified
+802,"Python, Java","Data Analytics, Database Management, Software Development, Web Development, Other",,not specified
+803,"C++, Other","Software Development, Other",,not specified
+804,"Perl, Python, Ruby, C++, Other","Web Development, Cybersecurity, Software Development, Other",5.0,senior
+805,"JavaScript, Java","Data Analytics, Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+806,,Software Development,5.0,senior
+807,Python,Other,,mid
+808,"C++, Other",Other,3.0,mid
+809,"Python, Java","Data Analytics, DevOps, Database Management, Mobile Development, Software Development, Other",4.0,senior
+810,"C++, Other","Internet of Things (IoT), Other",3.0,mid
+811,"Python, C++, Java, Other","Machine Learning/Artificial Intelligence, Networking, Other",5.0,senior
+812,"JavaScript, Python, Shell, Ruby, C++, Other","DevOps, Software Development, Other",,not specified
+813,"JavaScript, Python, Swift, Ruby, C++, Other",Software Development,,not specified
+814,"Python, C++, Swift, Other","Machine Learning/Artificial Intelligence, Software Development",,not specified
+815,Other,"DevOps, Software Development",,not specified
+816,,Other,5.0,senior
+817,,"Software Development, Other",,mid
+818,"Python, Shell","DevOps, Software Development, Other",3.0,mid
+819,Other,"Software Development, Other",,not specified
+820,Other,"Software Development, Other",,not specified
+821,"JavaScript, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",8.0,senior
+822,"C++, Other","Software Development, Other",,not specified
+823,Python,"Web Development, Machine Learning/Artificial Intelligence, Software Development",,not specified
+824,Other,"Web Development, Cybersecurity, Other",,not specified
+825,"Python, Shell, Perl, C++, Other","DevOps, Software Development, Other",,not specified
+826,,"DevOps, Software Development, Other",7.0,senior
+827,"Swift, C++, Java, Other","Other, Cloud Computing, Software Development, Mobile Development",,not specified
+828,Other,Other,5.0,senior
+829,,Other,5.0,senior
+830,,Software Development,,not specified
+831,"Python, C++, Other","Software Development, Other",,not specified
+832,C++,"Cloud Computing, Software Development, Other",,mid
+833,,"Software Development, Other",4.0,not specified
+834,"C++, Other","Software Development, Other",,not specified
+835,Python,"Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+836,"Python, Java","Data Analytics, Software Development, Database Management, Other",,not specified
+837,"C++, Other",Other,,not specified
+838,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+839,,"Blockchain, Other",,not specified
+840,,"Web Development, Other",6.0,senior
+841,"Ruby, Python, Shell, Go","DevOps, Other",,senior
+842,"Python, Shell, Other","Data Analytics, DevOps, Cloud Computing, Software Development, Other",,senior
+843,,"Machine Learning/Artificial Intelligence, Other",5.0,senior
+844,"C++, Other","Mobile Development, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",6.0,senior
+845,,,,not specified
+846,"PHP, Java, Swift, Python, Perl, Shell, Ruby, C++, Other","Web Development, Other, Cloud Computing, Cybersecurity",10.0,senior
+847,"Java, Python, Perl, Ruby, Go","Cloud Computing, DevOps, Software Development, Other",5.0,senior
+848,"C++, Other","Software Development, Other",,senior
+849,"Python, Other","Other, Software Development, Cybersecurity",,not specified
+850,"Python, C++",Other,,not specified
+851,"JavaScript, Java","Web Development, Software Development, Database Management, Other",5.0,senior
+852,Other,"Cybersecurity, Software Development, Other",,not specified
+853,,"Internet of Things (IoT), Software Development, Other",,not specified
+854,C++,Other,5.0,senior
+855,Python,"Software Development, Networking, Other",7.0,senior
+856,"Java, Swift, Python, C++, Other","Networking, Other",2.0,mid
+857,"C++, Other","Software Development, Mobile Development, Other",,not specified
+858,Python,"DevOps, Software Development",,senior
+859,,"DevOps, Software Development",3.0,mid
+860,"Python, C++, Go, Java","Data Analytics, Software Development, Other",,not specified
+861,"Perl, Shell, Python, C++, Other","Software Development, Other",,mid
+862,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+863,"Ruby, Python, JavaScript, Other","Other, Cybersecurity",,not specified
+864,"Swift, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+865,"JavaScript, Python, Java, Other","Web Development, DevOps, Software Development, Other",4.0,mid
+866,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+867,"JavaScript, Python, Go","Data Analytics, Database Management, Software Development, Web Development, Other",,senior
+868,Shell,"Cloud Computing, DevOps, Other",5.0,senior
+869,"Perl, Shell, Python, C++, Other",Other,,not specified
+870,"Python, C++","Data Analytics, Machine Learning/Artificial Intelligence, Other",3.0,mid
+871,C++,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+872,,"Web Development, Other",4.0,senior
+873,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+874,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development",,senior
+875,"Python, Swift, C++, Other","Software Development, Other",,not specified
+876,"Swift, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+877,"C++, Java","Web Development, Data Analytics, Software Development, Other",,not specified
+878,"C++, Java","Web Development, Data Analytics, Software Development, Other",,senior
+879,"Swift, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+880,"JavaScript, Java, PHP, Other","Web Development, Other",3.0,mid
+881,Shell,"Cloud Computing, DevOps, Other",5.0,mid
+882,,"Data Analytics, Other",,not specified
+883,"Python, C++, Other","Software Development, Other",,not specified
+884,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",5.0,senior
+885,"C++, Other","Software Development, Other",,not specified
+886,"Python, C++, Perl, Java","Data Analytics, Machine Learning/Artificial Intelligence, Database Management, Other",5.0,senior
+887,,"Data Analytics, Other",,not specified
+888,"Java, Perl, Shell, Python, C++","Web Development, Other, Software Development, Mobile Development",5.0,senior
+889,Other,"Software Development, Other",,not specified
+890,"Python, Shell, Perl, C++","DevOps, Software Development, Networking, Other",,senior
+891,,Networking,,senior
+892,"Python, C++, Java","Data Analytics, Other",3.0,not specified
+893,"C++, Other","Software Development, Other",3.0,not specified
+894,"JavaScript, Other","Web Development, Other",,not specified
+895,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+896,"C++, Other","Internet of Things (IoT), Cybersecurity, Other",,senior
+897,"Swift, C++, Other","Web Development, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",5.0,senior
+898,"JavaScript, Python, Ruby, C++, Other","DevOps, Software Development, Networking",,not specified
+899,,Software Development,5.0,senior
+900,"C++, Other","Software Development, Other",,not specified
+901,"Python, C++, Other","Software Development, Other",,not specified
+902,"Perl, Python, Ruby, C++, Other","Software Development, Other",5.0,senior
+903,"Swift, C++, Python, Other",Other,,not specified
+904,,,5.0,senior
+905,,"Cloud Computing, Database Management, Other",5.0,senior
+906,"C++, Other","Internet of Things (IoT), Other, Software Development, Cybersecurity",,senior
+907,"C++, Other","Software Development, Other",,not specified
+908,"JavaScript, Python","Web Development, DevOps, Software Development, Other",3.0,mid
+909,"Python, Java","Database Management, Software Development, Networking, Other",,not specified
+910,,"Mobile Development, Software Development, Human-Computer Interaction, Networking, Other",3.0,senior
+911,"Python, C++, Other","Software Development, Other",5.0,senior
+912,,,,not specified
+913,"C++, Other","Cybersecurity, Other",3.0,not specified
+914,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",3.0,not specified
+915,,Other,5.0,senior
+916,,Networking,5.0,senior
+917,,"Networking, Other",,not specified
+918,"Python, Perl, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",,not specified
+919,"Python, Perl, Other, Java","Data Analytics, DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+920,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",3.0,not specified
+921,"Swift, Other","Other, AR/VR (Augmented Reality/Virtual Reality), Mobile Development",,not specified
+922,,"Software Development, Other",,senior
+923,,"Software Development, Mobile Development",8.0,senior
+924,Python,"Software Development, Other",,not specified
+925,,"Human-Computer Interaction, Software Development",,senior
+926,"C++, Other","Software Development, Other",,senior
+927,"Perl, C++, Python, Other",Other,,not specified
+928,,"Networking, Other",,not specified
+929,Other,"Software Development, Other",,senior
+930,,Networking,,senior
+931,C++,Other,,not specified
+932,"Perl, Python","Networking, Other",8.0,senior
+933,,,,not specified
+934,"C++, Other","Software Development, Other",3.0,mid
+935,Other,Software Development,3.0,mid
+936,"Swift, Other","Software Development, Other",2.0,senior
+937,"Java, Perl, Shell, Python, C++","Web Development, Other, Software Development, Mobile Development",2.0,mid
+938,"Swift, Other","Human-Computer Interaction, Other, Mobile Development",,not specified
+939,"Scala, Java","Data Analytics, Database Management, Other",,not specified
+940,"JavaScript, Python","Software Development, Other",3.0,mid
+941,"Swift, Shell, Python, Other","DevOps, Software Development",2.0,mid
+942,Other,Networking,,senior
+943,,Machine Learning/Artificial Intelligence,,not specified
+944,"Python, Perl, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+945,Other,"Software Development, Mobile Development",,not specified
+946,"Swift, Other","Other, Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,not specified
+947,,Software Development,3.0,mid
+948,,"Mobile Development, Other",,not specified
+949,,,2.0,mid
+950,"Perl, C++, Python, Other",Other,,not specified
+951,"C++, Other",Networking,,not specified
+952,"Python, Perl, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+953,"Python, Perl, Other, Java","Web Development, Data Analytics, DevOps, Other",,not specified
+954,"Python, Perl, Other, Java","Data Analytics, DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+955,Python,"Networking, Other",5.0,senior
+956,"JavaScript, Scala, Java, Python, Go","Web Development, Software Development, Database Management, Other",,mid
+957,"Swift, C++, Python, Other","Other, Software Development, Mobile Development",,not specified
+958,,"Software Development, Other",,not specified
+959,"C++, C#","Web Development, Database Management, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+960,"Python, Other","Software Development, Other",,not specified
+961,,,,not specified
+962,"C++, Other","Internet of Things (IoT), Networking, Other",3.0,mid
+963,Java,"Web Development, Software Development",,senior
+964,"Python, Other","Software Development, Other",,not specified
+965,"C++, Other",Other,,not specified
+966,"Swift, Other","Software Development, Database Management, Other",3.0,mid
+967,,Other,,not specified
+968,"C++, Other","Software Development, Other",,not specified
+969,,"Software Development, Mobile Development, Other",,not specified
+970,Python,"DevOps, Software Development, Mobile Development, Other",2.0,mid
+971,"Swift, C++, Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+972,"Perl, C++, Python, Other",Other,5.0,senior
+973,,Other,,not specified
+974,,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+975,"Perl, C++, Python, Other",Networking,,not specified
+976,"JavaScript, Other",Web Development,,not specified
+977,"C++, Other","Other, Mobile Development",,not specified
+978,,"Software Development, Other",8.0,senior
+979,,Other,8.0,senior
+980,"Python, Shell","DevOps, Software Development, Mobile Development, Other",2.0,mid
+981,"R, Python, Perl, C++, Other",Other,,not specified
+982,"R, Python, Perl, C++, Other",Other,,not specified
+983,Other,"Web Development, Software Development",,not specified
+984,,,2.0,not specified
+985,"Python, Java",Other,7.0,senior
+986,,"Other, Mobile Development",,not specified
+987,"C++, Other","Mobile Development, Software Development, Other",8.0,senior
+988,,Other,,not specified
+989,"C++, Other","Software Development, Mobile Development, Other",,mid
+990,"Python, Shell, Perl","Software Development, Other",,not specified
+991,"PHP, Perl, Shell, Python, Other","Data Analytics, Database Management, Software Development, Web Development, Other",5.0,senior
+992,"Python, Scala, Java","Other, Cloud Computing, Software Development, DevOps",,senior
+993,,,8.0,senior
+994,"Python, C++, Other",Other,,not specified
+995,"Ruby, Python","Web Development, Software Development, Database Management, Other",,not specified
+996,,Other,8.0,senior
+997,"Python, Shell, Perl, C++","Data Analytics, Other",,not specified
+998,"Python, C++","Data Analytics, Other",5.0,senior
+999,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+1000,"Python, C++","Software Development, Other",,mid
+1001,"JavaScript, Swift, Other","Other, Mobile Development",,not specified
+1002,C++,"Software Development, Other",,not specified
+1003,Other,Other,,senior
+1004,,"Networking, Other",5.0,senior
+1005,,Other,5.0,senior
+1006,Other,"Data Analytics, Software Development",5.0,senior
+1007,"Python, Swift, Other, Java","Web Development, DevOps, Database Management, Other",5.0,senior
+1008,Other,"Mobile Development, Other",,not specified
+1009,,"Web Development, Data Analytics",,not specified
+1010,"Java, Python, Shell, Perl, Ruby",Software Development,5.0,senior
+1011,"Perl, Other",Other,,senior
+1012,"C++, Other","Software Development, Other",5.0,senior
+1013,"C++, Other","Web Development, Software Development, Mobile Development",6.0,senior
+1014,"Swift, Other","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Mobile Development",2.0,mid
+1015,"C++, Other","Web Development, Software Development, Other",,senior
+1016,,"Web Development, Software Development",,not specified
+1017,Other,Mobile Development,5.0,senior
+1018,,,6.0,senior
+1019,,"Human-Computer Interaction, Other",,not specified
+1020,,"Machine Learning/Artificial Intelligence, Other",,not specified
+1021,"PHP, Perl, Shell, Python, Other","Data Analytics, Database Management, Software Development, Web Development, Other",5.0,senior
+1022,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1023,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1024,"C++, Other","Internet of Things (IoT), Software Development, Other",3.0,not specified
+1025,Other,Other,,not specified
+1026,"Swift, C++, Other",,,not specified
+1027,"JavaScript, TypeScript, Other","Web Development, Other",4.0,mid
+1028,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+1029,Python,Machine Learning/Artificial Intelligence,,senior
+1030,Python,"Software Development, Other",5.0,senior
+1031,,Other,,not specified
+1032,,"Software Development, Other",8.0,senior
+1033,"Python, C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1034,"Swift, C++","Software Development, Other",,not specified
+1035,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",7.0,senior
+1036,"C++, Other","Mobile Development, Other",5.0,senior
+1037,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",7.0,senior
+1038,"Python, Other","Networking, Other",,not specified
+1039,"Python, Other",Other,,not specified
+1040,"Java, Python, Perl, C++, Other","Data Analytics, Software Development, Internet of Things (IoT), Networking, Other",5.0,senior
+1041,,"Networking, Other",,not specified
+1042,"Python, C++","Software Development, Other",,not specified
+1043,"Scala, Python, Java","Data Analytics, Database Management",,not specified
+1044,Python,"Mobile Development, Software Development, Networking, Other",,not specified
+1045,Other,"Software Development, Other",,not specified
+1046,"C++, Other","Mobile Development, Other",,not specified
+1047,,,3.0,mid
+1048,,"Software Development, Other",15.0,senior
+1049,"Python, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,mid
+1050,"Ruby, Python, Perl","Other, DevOps, Software Development, Mobile Development",,not specified
+1051,"Python, C++","Machine Learning/Artificial Intelligence, Other",,not specified
+1052,,"Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+1053,,"Data Analytics, Other",,not specified
+1054,"Python, C++, Perl",Other,7.0,senior
+1055,Shell,Software Development,2.0,not specified
+1056,Java,"Cloud Computing, Software Development, Other",,senior
+1057,"Python, C++, Other",Other,,not specified
+1058,,"Data Analytics, Software Development, Other",7.0,senior
+1059,"C++, Other","Internet of Things (IoT), Software Development, Other",,mid
+1060,"C++, Other","Internet of Things (IoT), Networking, Other",8.0,senior
+1061,"C++, Other","Internet of Things (IoT), Mobile Development, Software Development, Other",,not specified
+1062,,,10.0,senior
+1063,"Swift, Other",,,senior
+1064,,"Software Development, Other",,senior
+1065,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1066,,Other,7.0,senior
+1067,"JavaScript, Ruby, Other","Web Development, Software Development, Other",,not specified
+1068,"Perl, Other","Internet of Things (IoT), Other",,senior
+1069,,"Internet of Things (IoT), Software Development",5.0,senior
+1070,,"Other, Mobile Development",,not specified
+1071,"C++, Other","Networking, Other",8.0,senior
+1072,"Java, Python, Shell, Perl, Ruby","DevOps, Software Development",7.0,senior
+1073,"Python, C++, Other",Other,,not specified
+1074,"Swift, Other","Mobile Development, Software Development, Other",5.0,senior
+1075,,,5.0,senior
+1076,"C++, Other","Web Development, Software Development, Networking",,not specified
+1077,"JavaScript, Ruby, Other",Other,3.0,mid
+1078,"C++, Other","Software Development, Networking",,not specified
+1079,,"Networking, Other",5.0,not specified
+1080,"C++, Other","Data Analytics, Other",5.0,senior
+1081,"C++, Other","Software Development, Other",,not specified
+1082,"Swift, C++, Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1083,"C++, Other","Web Development, Software Development, Mobile Development",5.0,senior
+1084,"Swift, Java","Other, Software Development, Mobile Development",,not specified
+1085,"Swift, Other","DevOps, Software Development, Other",3.0,mid
+1086,"JavaScript, Python","Cloud Computing, Mobile Development, Machine Learning/Artificial Intelligence, Other",4.0,mid
+1087,"C++, Other",Other,5.0,senior
+1088,"JavaScript, Python, Shell",Software Development,,not specified
+1089,,Other,,not specified
+1090,Other,"Data Analytics, DevOps, Software Development, Other",,not specified
+1091,"JavaScript, Python, Swift, Ruby, C++, Other","Software Development, Other",3.0,mid
+1092,"Perl, C++, Python, Other","Other, Networking, Cybersecurity",,not specified
+1093,"Python, Shell",Other,3.0,mid
+1094,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1095,"Java, Python, Shell, Perl, Ruby","DevOps, Other",,not specified
+1096,"C++, Java","Cloud Computing, Software Development, Other",8.0,senior
+1097,,"Data Analytics, Other",,not specified
+1098,"Python, C++","DevOps, Software Development, Other",3.0,mid
+1099,"Python, Other",,3.0,mid
+1100,"Java, Python, Perl, Ruby, Go","Web Development, Cloud Computing, DevOps, Other",,not specified
+1101,"C++, Other","Software Development, Other",,not specified
+1102,"Swift, Other","Other, Software Development, Mobile Development",,not specified
+1103,"Python, Shell, Perl, Other","Data Analytics, Software Development, Database Management, Other",,senior
+1104,"C++, Other","Internet of Things (IoT), Software Development, Other",,not specified
+1105,,Other,7.0,senior
+1106,,Other,10.0,senior
+1107,JavaScript,Web Development,,not specified
+1108,Python,"DevOps, Software Development, Other",6.0,senior
+1109,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+1110,Other,Other,3.0,mid
+1111,Other,Other,3.0,not specified
+1112,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1113,,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+1114,"Python, C++","Software Development, Other",,not specified
+1115,"C++, Other",Machine Learning/Artificial Intelligence,5.0,senior
+1116,C++,Other,,not specified
+1117,C++,"Software Development, Mobile Development, Other",,mid
+1118,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,not specified
+1119,,"Machine Learning/Artificial Intelligence, Other",,not specified
+1120,"Python, C++, Perl, Other","Data Analytics, Other",5.0,senior
+1121,"Python, C++","Machine Learning/Artificial Intelligence, Other",,not specified
+1122,Other,Other,3.0,mid
+1123,,Other,5.0,senior
+1124,,,,not specified
+1125,,"Other, Software Development, Mobile Development",7.0,senior
+1126,,"Networking, Other",,not specified
+1127,"Ruby, Perl, Go, Python","Data Analytics, DevOps, Database Management, Other",10.0,senior
+1128,"Python, Other",Other,,not specified
+1129,"C++, Other","Software Development, Networking, Other",3.0,mid
+1130,"Python, Shell, Swift","Other, Software Development, Mobile Development",2.0,not specified
+1131,Python,Other,,not specified
+1132,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Cloud Computing, Software Development, Networking, Other",5.0,senior
+1133,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1134,"C++, Other","Software Development, Other",,senior
+1135,"JavaScript, Python, Go","Web Development, DevOps, Software Development, Other",,senior
+1136,Other,Data Analytics,,not specified
+1137,,"Data Analytics, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",,not specified
+1138,"Python, C++, Java","Data Analytics, Cloud Computing",3.0,not specified
+1139,"Java, Python, Shell, Perl, Ruby","DevOps, Other",,not specified
+1140,"C++, Other","Web Development, Software Development, Other",2.0,mid
+1141,"JavaScript, Perl, Python, Go, Other","DevOps, Cloud Computing, Cybersecurity, Networking, Other",5.0,senior
+1142,"JavaScript, Perl, Shell, Python, Ruby","Other, Software Development, Networking, Mobile Development",2.0,mid
+1143,,Other,3.0,mid
+1144,Python,"Data Analytics, Database Management",,not specified
+1145,,Web Development,,not specified
+1146,"Python, C++, Other",Other,,not specified
+1147,"Swift, C++, Other",Other,,not specified
+1148,"C++, Other","Software Development, Other",5.0,senior
+1149,"JavaScript, Other",Web Development,8.0,senior
+1150,"C++, Other","DevOps, Software Development",,not specified
+1151,"Swift, Other",Other,,not specified
+1152,"Ruby, Python, JavaScript","DevOps, Software Development",,not specified
+1153,,Machine Learning/Artificial Intelligence,,not specified
+1154,,"Internet of Things (IoT), Data Analytics, Other",10.0,senior
+1155,"C++, Java, Other","Mobile Development, Software Development, Internet of Things (IoT), Networking, Other",5.0,senior
+1156,,"Software Development, Other",5.0,senior
+1157,Other,Other,,not specified
+1158,Python,"DevOps, Mobile Development, Software Development, Other",4.0,senior
+1159,Other,"Data Analytics, Other",,not specified
+1160,"C++, Other","Software Development, Other",,senior
+1161,Python,"Data Analytics, Machine Learning/Artificial Intelligence",2.0,not specified
+1162,C++,"Data Analytics, Software Development, Other",,mid
+1163,,,5.0,senior
+1164,"C++, Other","Web Development, Software Development, Other",5.0,senior
+1165,"C++, Other",Other,5.0,senior
+1166,"C++, Other","Software Development, Networking",,not specified
+1167,,"Web Development, Other",,not specified
+1168,"C++, Other",Other,8.0,senior
+1169,,"Data Analytics, Database Management, Other",3.0,mid
+1170,"Python, Shell, Perl, Ruby, C++, Other","Web Development, DevOps, Software Development, Other",,senior
+1171,"Scala, R, Java, Python, Other","Data Analytics, Machine Learning/Artificial Intelligence, Networking, Other",5.0,senior
+1172,,"Data Analytics, Database Management, Other",3.0,mid
+1173,"Python, C++, Other",Other,1.0,not specified
+1174,"Python, C++, Other",Other,1.0,junior
+1175,"Scala, Python, Java","Web Development, Data Analytics, DevOps, Software Development",,not specified
+1176,"Swift, Other","Other, Software Development, Mobile Development",3.0,mid
+1177,"Python, C++, Perl, Other",Other,,not specified
+1178,"Python, C++","Cloud Computing, Data Analytics, Machine Learning/Artificial Intelligence, Other",3.0,senior
+1179,,Other,3.0,mid
+1180,,"Mobile Development, Other",3.0,mid
+1181,"Ruby, Python, Java","DevOps, Cloud Computing, Software Development, Networking, Other",4.0,senior
+1182,,Other,,not specified
+1183,"Ruby, Python, Shell, Other","Cloud Computing, Mobile Development, Cybersecurity, Software Development, Web Development, Networking, Other",5.0,senior
+1184,,"Internet of Things (IoT), Networking, Other",5.0,senior
+1185,"Perl, Other",Other,2.0,not specified
+1186,"Python, Swift, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1187,"Other, C++, Java","Machine Learning/Artificial Intelligence, Mobile Development, Other",3.0,mid
+1188,,"Software Development, Other",5.0,mid
+1189,"Go, C++, Python","DevOps, Software Development, Web Development, Networking, Other",5.0,senior
+1190,,Cybersecurity,,not specified
+1191,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development",,not specified
+1192,,"Web Development, Software Development, Other",5.0,senior
+1193,,"Human-Computer Interaction, Internet of Things (IoT), Other",5.0,senior
+1194,,"Internet of Things (IoT), Data Analytics, Other",10.0,senior
+1195,,,5.0,senior
+1196,,,5.0,senior
+1197,Other,Other,,not specified
+1198,,"Web Development, Other, Mobile Development",8.0,senior
+1199,Other,Other,,not specified
+1200,,"Networking, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",15.0,senior
+1201,"Python, Other",Data Analytics,3.0,mid
+1202,,"Networking, Mobile Development",,mid
+1203,,"Networking, Other",8.0,senior
+1204,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",3.0,not specified
+1205,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Software Development, Web Development, Networking, Other",,not specified
+1206,Other,Other,,not specified
+1207,"Perl, Shell, Python","Internet of Things (IoT), Other",5.0,senior
+1208,"Python, Shell, Perl","Other, Software Development, Networking, Mobile Development",3.0,not specified
+1209,"Python, Shell, Ruby, C++, Other","Web Development, Networking, Other",,not specified
+1210,"Python, Shell, Ruby, C++, Other","Web Development, Networking, Other",,not specified
+1211,,Other,7.0,senior
+1212,"Python, C++","Software Development, Other",5.0,senior
+1213,Other,Other,5.0,senior
+1214,"JavaScript, Swift, Other",Software Development,8.0,senior
+1215,"Python, Java","DevOps, Software Development, Other",4.0,mid
+1216,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,junior
+1217,"Python, Java","Machine Learning/Artificial Intelligence, Other",,senior
+1218,"Perl, Shell, Python, Ruby, Go","Data Analytics, DevOps, Database Management, Other",10.0,senior
+1219,"C++, Other","Software Development, Other",,not specified
+1220,,Other,,not specified
+1221,"JavaScript, Perl, Python, Ruby, Other","DevOps, Mobile Development, Other",5.0,senior
+1222,"C#, Java, Python, Perl, Other","Software Development, Other",2.0,mid
+1223,,"Software Development, Other",,not specified
+1224,C++,Software Development,,not specified
+1225,"C++, Other","Software Development, Other",,not specified
+1226,,,,not specified
+1227,,,5.0,senior
+1228,"Swift, Other","Mobile Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1229,"Swift, C++, Other","Mobile Development, Other",,not specified
+1230,"JavaScript, Python, Perl, C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+1231,,"Internet of Things (IoT), Cloud Computing, Software Development, Other",10.0,senior
+1232,Other,,,senior
+1233,"C++, Other","Software Development, Other",,not specified
+1234,,"Software Development, Other",5.0,senior
+1235,,Other,5.0,senior
+1236,,"Cybersecurity, Other",,not specified
+1237,"C++, Other","Software Development, Other",,not specified
+1238,"C++, Other","Human-Computer Interaction, Software Development",,not specified
+1239,"Python, C++","Machine Learning/Artificial Intelligence, Software Development, Other",3.0,mid
+1240,"Python, C++","Software Development, Other",3.0,mid
+1241,"Python, C++","Software Development, Other",3.0,senior
+1242,"Python, Perl, Java, Other","Data Analytics, Database Management",8.0,senior
+1243,,,10.0,senior
+1244,"C++, Other",,,senior
+1245,,"Cloud Computing, Networking, Other",3.0,not specified
+1246,,Other,7.0,senior
+1247,"Swift, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1248,"Swift, C++, Other",,3.0,not specified
+1249,,"Data Analytics, Other",3.0,mid
+1250,"Python, Shell, Perl","Other, Software Development, Networking, Mobile Development",3.0,mid
+1251,"Python, C++, Other",Other,3.0,mid
+1252,,"Other, Mobile Development",,not specified
+1253,"Python, C++","Software Development, Database Management, Other",5.0,senior
+1254,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",,not specified
+1255,,"Cloud Computing, Other",,senior
+1256,"Java, Python, Perl, Ruby, Go","DevOps, Cloud Computing, Software Development, Web Development, Other",,senior
+1257,Python,Other,,junior
+1258,"Python, Shell, Perl, Other","Data Analytics, Software Development, Database Management, Other",5.0,senior
+1259,,Other,,not specified
+1260,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+1261,"JavaScript, Python, Java","Other, Data Analytics, Mobile Development, Cybersecurity",,not specified
+1262,"Ruby, Python, JavaScript",DevOps,,not specified
+1263,"JavaScript, Other",Web Development,3.0,mid
+1264,Other,Other,4.0,senior
+1265,"Python, Swift, Other, Java","Software Development, Other",6.0,senior
+1266,"Python, Shell","Data Analytics, DevOps, Database Management, Cloud Computing, Networking, Other",5.0,senior
+1267,,"Machine Learning/Artificial Intelligence, Software Development, Other",10.0,senior
+1268,"Python, Java","Database Management, Software Development, Networking, Other",,not specified
+1269,,Other,7.0,senior
+1270,,Other,7.0,senior
+1271,"Shell, Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1272,"C++, Other","Web Development, Software Development, Networking, Other",3.0,mid
+1273,,,10.0,senior
+1274,"Ruby, Python, Go, JavaScript","Web Development, Cloud Computing, Database Management, Other",,senior
+1275,"Ruby, Python, Go, JavaScript","Web Development, Software Development, Database Management, Other",,senior
+1276,"Shell, Other","DevOps, Web Development, Internet of Things (IoT), Networking, Other",,not specified
+1277,Other,Cybersecurity,5.0,senior
+1278,"JavaScript, PHP, Python, Shell, Perl, Ruby","Software Development, Other",2.0,mid
+1279,,"Networking, Other",,not specified
+1280,"C++, Other","Machine Learning/Artificial Intelligence, Other",,mid
+1281,"C++, Other","Machine Learning/Artificial Intelligence, Other",,not specified
+1282,"Swift, C++, Other","Other, Cloud Computing, Software Development, Mobile Development",,not specified
+1283,"C++, Other","Software Development, Networking, Other",,not specified
+1284,,Other,,not specified
+1285,Other,"Data Analytics, Cloud Computing, Database Management, Other",5.0,senior
+1286,"Java, Python, Perl, Ruby, Other","Cloud Computing, DevOps, Networking, Other",,senior
+1287,,"Internet of Things (IoT), Other",10.0,senior
+1288,,"Data Analytics, Other",10.0,senior
+1289,"Python, R","Data Analytics, Machine Learning/Artificial Intelligence, Database Management, Other",3.0,mid
+1290,"Swift, Other","Cloud Computing, Software Development",,mid
+1291,"C++, Other","Web Development, Software Development, Other",5.0,not specified
+1292,"C++, Other","Software Development, Other",,not specified
+1293,,Other,5.0,senior
+1294,,"Cybersecurity, Cloud Computing, Networking, Other",5.0,senior
+1295,,"Software Development, Networking, Other",7.0,senior
+1296,,,,not specified
+1297,,Other,10.0,senior
+1298,"C++, Other","DevOps, Software Development, Networking, Other",,senior
+1299,"Python, Other",Other,,mid
+1300,Other,"Mobile Development, Other",,not specified
+1301,"JavaScript, Python, Java","Software Development, Other",3.0,mid
+1302,,"Other, Cybersecurity",7.0,senior
+1303,,"Human-Computer Interaction, Software Development, Other",,not specified
+1304,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",,mid
+1305,"Python, C++, Java",Cloud Computing,,not specified
+1306,"Perl, Other","Web Development, Other",,not specified
+1307,"Python, Other",Other,,not specified
+1308,Other,Other,8.0,senior
+1309,Other,Other,8.0,senior
+1310,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Mobile Development, Software Development, Other",,not specified
+1311,"Perl, C++, Python, Other",Other,,not specified
+1312,"Swift, Other","Other, Software Development, Mobile Development",5.0,senior
+1313,"Shell, Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1314,"JavaScript, Python, C++, Other","Other, Software Development, Mobile Development",,not specified
+1315,Other,"Software Development, Mobile Development",,not specified
+1316,Other,"DevOps, Database Management, Mobile Development, Software Development, Web Development, Other",3.0,senior
+1317,Other,"Web Development, DevOps, Database Management, Other",3.0,mid
+1318,,,,not specified
+1319,"C++, Other","Internet of Things (IoT), Software Development, Networking, Other",4.0,mid
+1320,"Perl, Other","Web Development, Other",,senior
+1321,"Python, Shell, Perl","DevOps, Software Development, Other",,not specified
+1322,"Python, C++, Scala, Java",Machine Learning/Artificial Intelligence,,not specified
+1323,,Software Development,,not specified
+1324,"Perl, C++, Python, Other","Software Development, Other",,not specified
+1325,Python,Other,6.0,senior
+1326,,"Human-Computer Interaction, Software Development, Networking, Other",5.0,senior
+1327,"Swift, Other","Human-Computer Interaction, Mobile Development",2.0,senior
+1328,"Python, Java, PHP, Other","DevOps, Other",,senior
+1329,Other,"Data Analytics, Software Development, Other",,not specified
+1330,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1331,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1332,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+1333,"Python, C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, Other",3.0,senior
+1334,"Java, Python, Perl, Ruby, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,mid
+1335,"Python, C++, Other","Mobile Development, Other",5.0,senior
+1336,"Java, Python, Perl, Ruby, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,mid
+1337,,"Software Development, Database Management, Other",3.0,not specified
+1338,,"Database Management, Other",5.0,senior
+1339,,"DevOps, Other",,not specified
+1340,"C++, Other",Software Development,,not specified
+1341,"Perl, C++, Python, Other",,,not specified
+1342,"Python, Other","Internet of Things (IoT), Data Analytics, Other",,not specified
+1343,"JavaScript, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+1344,,"Software Development, Other",3.0,not specified
+1345,"Scala, Java, Python, Shell, Ruby","Data Analytics, Database Management, Cloud Computing, Web Development, Other",,not specified
+1346,"C++, Other","Software Development, Other",,senior
+1347,"Perl, Other",Other,,not specified
+1348,Python,"Data Analytics, Machine Learning/Artificial Intelligence",4.0,senior
+1349,,"Data Analytics, Database Management, Other",3.0,mid
+1350,"Swift, Other","Mobile Development, Other",5.0,mid
+1351,,"Web Development, Database Management",2.0,mid
+1352,"Perl, Python, Ruby, C++, Other",Other,7.0,senior
+1353,Other,,2.0,mid
+1354,,"Data Analytics, Cloud Computing, Database Management, Other",3.0,mid
+1355,,"Cybersecurity, Other",5.0,senior
+1356,"JavaScript, Python, Other, Java","Other, Software Development, Mobile Development",,not specified
+1357,"JavaScript, Python, Perl, Shell, Go, C++, Other","DevOps, Database Management, Other",,mid
+1358,"C++, Other","Internet of Things (IoT), Other",,not specified
+1359,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1360,,"Software Development, Other",5.0,senior
+1361,"Python, Shell, Perl, Ruby, Go","DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+1362,"Perl, Other","Web Development, Software Development, Other",,not specified
+1363,"JavaScript, C++, Other","Web Development, Software Development",5.0,senior
+1364,Other,Mobile Development,,not specified
+1365,"Swift, Other","Software Development, Other",,not specified
+1366,"Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development",,not specified
+1367,"Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development",,not specified
+1368,"Scala, Java","Data Analytics, Cloud Computing, Database Management, Other",,not specified
+1369,Other,"Machine Learning/Artificial Intelligence, Networking, Other",,not specified
+1370,,"Software Development, Other",3.0,mid
+1371,Python,"DevOps, Software Development, Other",3.0,mid
+1372,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1373,,Other,,not specified
+1374,"Python, C++, Perl, Other","Data Analytics, Other",5.0,senior
+1375,Other,Other,10.0,senior
+1376,,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,senior
+1377,,"AR/VR (Augmented Reality/Virtual Reality), Other",1.0,junior
+1378,"Python, Other",Other,,not specified
+1379,"Swift, Shell, Python, Other","DevOps, Software Development, Other",,not specified
+1380,Other,"Other, Networking, Mobile Development",,not specified
+1381,"C++, Other",Machine Learning/Artificial Intelligence,,not specified
+1382,Other,"Data Analytics, Database Management, Other",4.0,senior
+1383,"Python, Other",Other,,not specified
+1384,,"Internet of Things (IoT), Mobile Development, Other",8.0,senior
+1385,"C++, Other",Other,,not specified
+1386,"JavaScript, R, PHP, Java, Python, Perl, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",3.0,mid
+1387,"Python, C++, Other","DevOps, Software Development, Networking, Mobile Development",,not specified
+1388,,"Data Analytics, Other",,not specified
+1389,,"AR/VR (Augmented Reality/Virtual Reality), Other",1.0,junior
+1390,Other,"Data Analytics, DevOps, Cloud Computing, Cybersecurity, Networking, Other",,senior
+1391,,"Cloud Computing, Software Development, Machine Learning/Artificial Intelligence",,senior
+1392,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1393,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1394,Other,Software Development,,not specified
+1395,"C++, Other","Software Development, Other",,mid
+1396,"C++, Other","Software Development, Other",,not specified
+1397,"JavaScript, Other","Web Development, Other",3.0,senior
+1398,"Perl, C++, Python, Other",Other,,not specified
+1399,,"Software Development, Other",5.0,senior
+1400,,"Data Analytics, Database Management, Other",3.0,mid
+1401,Other,Mobile Development,,not specified
+1402,"Python, Scala, Java","Data Analytics, Cloud Computing, Software Development, Machine Learning/Artificial Intelligence",,senior
+1403,,"Software Development, Other",5.0,senior
+1404,"Swift, C++, Other","Human-Computer Interaction, Mobile Development, Software Development, Internet of Things (IoT), Networking, Other",,not specified
+1405,Other,,2.0,mid
+1406,Python,"DevOps, Software Development, Other",1.0,not specified
+1407,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1408,,"Data Analytics, Database Management, Other",3.0,not specified
+1409,,"AR/VR (Augmented Reality/Virtual Reality), Other",4.0,mid
+1410,Other,"Web Development, Software Development, Other",,not specified
+1411,"Perl, Shell, Other",Other,5.0,senior
+1412,"Perl, Other","Cybersecurity, Software Development, Other",5.0,mid
+1413,,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1414,,,4.0,mid
+1415,"Perl, Other","Cybersecurity, DevOps, Software Development, Other",5.0,mid
+1416,"JavaScript, Swift, Other",,,not specified
+1417,,"Web Development, Software Development, Other",4.0,mid
+1418,"Python, Shell",Software Development,,not specified
+1419,C++,"Machine Learning/Artificial Intelligence, Other",,not specified
+1420,"C++, Other","Software Development, Other",5.0,senior
+1421,,"Software Development, Other",5.0,senior
+1422,,"Web Development, Machine Learning/Artificial Intelligence, Other",,not specified
+1423,"Python, C++, Other",Other,1.0,mid
+1424,"Python, C++, Perl","Data Analytics, Other",,junior
+1425,"Swift, Other",Other,,not specified
+1426,"Perl, Python, Ruby, C++, Other",Other,7.0,senior
+1427,Other,"Data Analytics, Software Development, Database Management, Other",4.0,senior
+1428,Other,"Data Analytics, Database Management, Other",4.0,senior
+1429,Other,"Data Analytics, Database Management, Networking, Other",4.0,senior
+1430,"R, Python, Perl, C++, Other",Other,3.0,senior
+1431,,,10.0,senior
+1432,,"Mobile Development, Software Development, Networking, Other",,senior
+1433,"Swift, Other","Machine Learning/Artificial Intelligence, Software Development",,not specified
+1434,,Other,,not specified
+1435,"Go, C++, Python, Java",Cloud Computing,5.0,senior
+1436,"C++, Other","Internet of Things (IoT), Other",,not specified
+1437,,"Software Development, Other",,senior
+1438,"C++, Other","Software Development, Other",,not specified
+1439,"C++, Other","Software Development, Networking, Other",2.0,mid
+1440,Shell,"Mobile Development, Other",,not specified
+1441,Shell,"Mobile Development, Other",,not specified
+1442,"Swift, Other",Mobile Development,,not specified
+1443,"C++, Other",Networking,,not specified
+1444,"JavaScript, Python, Other, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Other",4.0,mid
+1445,"JavaScript, Other","Web Development, Software Development, Other",7.0,senior
+1446,Python,"Data Analytics, Machine Learning/Artificial Intelligence, Database Management",,not specified
+1447,,"Internet of Things (IoT), Software Development, Networking",5.0,senior
+1448,"Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development",,senior
+1449,,"Software Development, Other",,not specified
+1450,"Python, Other",Other,,not specified
+1451,Other,Other,2.0,mid
+1452,Java,"Networking, Database Management, Other",,senior
+1453,"JavaScript, Python",Other,3.0,mid
+1454,Other,"Internet of Things (IoT), Data Analytics, AR/VR (Augmented Reality/Virtual Reality), Other",2.0,mid
+1455,"Python, C++, Java",Machine Learning/Artificial Intelligence,,not specified
+1456,Python,Data Analytics,,not specified
+1457,"JavaScript, Python, C#, Go","Data Analytics, DevOps, Database Management, Software Development, Other",,not specified
+1458,"C++, Other","Software Development, Networking",,mid
+1459,Python,"Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",,not specified
+1460,,Other,,not specified
+1461,,Other,5.0,mid
+1462,,"Cybersecurity, Other",10.0,senior
+1463,Other,"Internet of Things (IoT), Software Development, Networking, Other",5.0,senior
+1464,"R, Other","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",2.0,mid
+1465,Java,"Cloud Computing, Database Management, Other",5.0,senior
+1466,"Perl, Shell, Python, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development",,not specified
+1467,Swift,Software Development,,not specified
+1468,,"Networking, Other",8.0,senior
+1469,,"Data Analytics, Software Development, Database Management, Other",3.0,mid
+1470,,"Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1471,"JavaScript, Python, Shell, Ruby","Web Development, Software Development, Mobile Development, Other",,not specified
+1472,"Swift, Other","Other, Software Development, AR/VR (Augmented Reality/Virtual Reality), Mobile Development",3.0,mid
+1473,"Other, C++, Java","DevOps, Software Development, Other",,not specified
+1474,"Swift, C++, Java, Other","Web Development, Networking",,not specified
+1475,,Other,5.0,senior
+1476,"Swift, C++, Other","Human-Computer Interaction, AR/VR (Augmented Reality/Virtual Reality)",,senior
+1477,Java,"Web Development, Software Development, Database Management",7.0,senior
+1478,"C++, Other",Other,,senior
+1479,"Scala, C++, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1480,Python,Other,8.0,senior
+1481,"JavaScript, Python, Java","Web Development, Database Management, Other",5.0,senior
+1482,"JavaScript, Other","Web Development, Other",,not specified
+1483,"Python, C++, Java",Machine Learning/Artificial Intelligence,,senior
+1484,Python,"Internet of Things (IoT), Networking, Other",,not specified
+1485,"C++, Other","Internet of Things (IoT), Other",,not specified
+1486,"Python, C++","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Database Management",,not specified
+1487,"Python, C++",Machine Learning/Artificial Intelligence,,not specified
+1488,"Java, Python, Shell, Perl, C++","Software Development, Other",6.0,senior
+1489,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+1490,"Python, C++","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+1491,"Swift, C++, Java, Other","Web Development, Networking",,not specified
+1492,"Python, Go, Other","Cloud Computing, Database Management, DevOps",,not specified
+1493,,"Data Analytics, AR/VR (Augmented Reality/Virtual Reality), Other",5.0,senior
+1494,,Other,7.0,senior
+1495,,"Other, Networking, Mobile Development",,not specified
+1496,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",,not specified
+1497,"Python, Shell","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",,mid
+1498,"C++, Other","Web Development, Machine Learning/Artificial Intelligence, Software Development",5.0,senior
+1499,,Other,,mid
+1500,"Swift, C++, Other","Internet of Things (IoT), Other",,not specified
+1501,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Networking, Other",3.0,mid
+1502,,"Software Development, Other",,not specified
+1503,"Swift, C++, Other","Software Development, Other",,not specified
+1504,"Swift, C++, Other","Cloud Computing, Software Development, Other",,not specified
+1505,,Networking,,not specified
+1506,,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1507,"Perl, C++, Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",5.0,senior
+1508,"C++, Other","Networking, Other",4.0,mid
+1509,Other,"Mobile Development, Software Development, Other",4.0,senior
+1510,Other,"Mobile Development, Other",,not specified
+1511,Java,"Data Analytics, Cloud Computing, Database Management",5.0,senior
+1512,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1513,"Python, Java","Web Development, Software Development, Database Management, Other",,senior
+1514,,"Mobile Development, Other",5.0,senior
+1515,,"Data Analytics, Other",,not specified
+1516,"JavaScript, Swift, Other","Software Development, Other",,not specified
+1517,"Python, Swift, Other","DevOps, Software Development, Machine Learning/Artificial Intelligence",2.0,mid
+1518,"Python, C++, Scala, Java",Data Analytics,,not specified
+1519,"Other, Java","Data Analytics, Software Development",,not specified
+1520,"Scala, Other, Java","Cloud Computing, Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1521,,"Machine Learning/Artificial Intelligence, Software Development",4.0,not specified
+1522,Java,"Data Analytics, Software Development, Database Management",,not specified
+1523,"C++, Other","Software Development, Networking, Other",,not specified
+1524,,"Software Development, Other",5.0,senior
+1525,"C++, Other","Internet of Things (IoT), Other",,not specified
+1526,,,10.0,senior
+1527,"C++, Other","Web Development, Software Development, Networking",,not specified
+1528,,"Networking, Other",8.0,senior
+1529,"JavaScript, Python, Java",Web Development,2.0,mid
+1530,"Swift, C++, Other","Cloud Computing, Software Development, Other",,not specified
+1531,"JavaScript, Python","Data Analytics, Database Management",5.0,senior
+1532,,,,senior
+1533,"JavaScript, PHP, Other",Database Management,,not specified
+1534,"Python, Java","Blockchain, Cloud Computing, Database Management, Other",,not specified
+1535,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Other",5.0,senior
+1536,"JavaScript, TypeScript, Other",Other,,not specified
+1537,,,,junior
+1538,,"Networking, Other",,senior
+1539,,,,not specified
+1540,,,,not specified
+1541,"Python, C++, C#, Other","Cloud Computing, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Software Development, Other",3.0,mid
+1542,"JavaScript, Python, C++, Other","Mobile Development, Software Development, Networking, Other",,not specified
+1543,Other,"Software Development, Mobile Development, Other",4.0,senior
+1544,Other,"Data Analytics, Other",3.0,not specified
+1545,,"Web Development, Cloud Computing, Database Management",8.0,senior
+1546,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",3.0,mid
+1547,Other,"Data Analytics, Other",3.0,senior
+1548,"Python, Scala","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",5.0,senior
+1549,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",5.0,senior
+1550,"Go, Python","DevOps, Database Management, Cloud Computing, Web Development, Networking, Other",,not specified
+1551,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",3.0,mid
+1552,"JavaScript, Other, C++, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",8.0,senior
+1553,"Python, Perl, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",5.0,senior
+1554,"Python, C++, Other","Machine Learning/Artificial Intelligence, Software Development, DevOps, Other",,not specified
+1555,Java,"Web Development, Software Development",,not specified
+1556,,Software Development,,not specified
+1557,"Other, Java","Web Development, Data Analytics, Database Management, Other",,not specified
+1558,"Perl, Shell, PHP, Python","DevOps, Cloud Computing, Software Development, Web Development, Networking, Other",,senior
+1559,"C++, Other",Other,,not specified
+1560,,"Internet of Things (IoT), Other",,not specified
+1561,,"Cloud Computing, Software Development, Networking, Other",10.0,senior
+1562,,Machine Learning/Artificial Intelligence,3.0,senior
+1563,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",5.0,senior
+1564,,Other,15.0,senior
+1565,,Other,,not specified
+1566,Other,Web Development,5.0,senior
+1567,C++,"Software Development, Other",,not specified
+1568,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",4.0,mid
+1569,"PHP, Java, Swift, Ruby, Other","Web Development, Data Analytics, Software Development, Other",5.0,senior
+1570,,Other,,not specified
+1571,"C++, Other","Internet of Things (IoT), Machine Learning/Artificial Intelligence, Other",,not specified
+1572,"JavaScript, Python, Shell","DevOps, Software Development",2.0,mid
+1573,,Other,10.0,senior
+1574,,"AR/VR (Augmented Reality/Virtual Reality), Other",5.0,senior
+1575,"Java, Python, Shell, Go, C++, Other","Data Analytics, DevOps, Database Management",,not specified
+1576,"Swift, Other","Software Development, Other",,not specified
+1577,Java,"Data Analytics, DevOps, Cloud Computing, Software Development, Other",,not specified
+1578,"Swift, C++, Other",,,not specified
+1579,,Other,2.0,mid
+1580,"JavaScript, Python, Shell, Perl, Ruby, C++, Other","Software Development, Networking, Other",2.0,mid
+1581,,Other,4.0,mid
+1582,"C++, Other","Internet of Things (IoT), Machine Learning/Artificial Intelligence, Other",,not specified
+1583,"JavaScript, Other","Web Development, Software Development, Other",,not specified
+1584,"Python, C++, Other","Software Development, Networking, Other",,not specified
+1585,"Perl, Shell, Python","Software Development, Other",3.0,mid
+1586,"Perl, Shell, Python","Software Development, Networking, Other",3.0,mid
+1587,"Ruby, Python, Shell, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",5.0,senior
+1588,,"Data Analytics, Other",,not specified
+1589,"JavaScript, Swift, Other, Java","Cloud Computing, Database Management",,not specified
+1590,"Perl, Python, Other","Networking, Other",10.0,senior
+1591,"Java, Python, Perl, Ruby, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,senior
+1592,,Other,,not specified
+1593,"Perl, C++, Python, Other",Other,10.0,senior
+1594,,,,not specified
+1595,"Swift, C++, Other",Machine Learning/Artificial Intelligence,5.0,senior
+1596,,Other,,not specified
+1597,,"Networking, Other",5.0,senior
+1598,"Swift, C++, Other",,5.0,senior
+1599,,Other,,not specified
+1600,"Swift, C++, Other",,2.0,not specified
+1601,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+1602,,,10.0,senior
+1603,"Python, Shell, Perl, Other",Other,,not specified
+1604,Other,Other,15.0,senior
+1605,,,3.0,not specified
+1606,,"Data Analytics, Other",,not specified
+1607,"Other, Shell, Scala, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+1608,Python,"Networking, Other",2.0,junior
+1609,,"Other, Cloud Computing, Software Development, Mobile Development",,not specified
+1610,Shell,"Data Analytics, DevOps, Software Development, Networking, Other",5.0,senior
+1611,,"AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+1612,,"AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+1613,,"AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+1614,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1615,,"Data Analytics, Other",2.0,mid
+1616,,"Data Analytics, Other",,mid
+1617,,Other,5.0,senior
+1618,,Other,5.0,senior
+1619,"JavaScript, Python","Web Development, Software Development, Database Management, Other",,not specified
+1620,Other,Other,5.0,senior
+1621,Java,"Data Analytics, Cloud Computing, Database Management",5.0,senior
+1622,"Python, C++, Java","Web Development, Cloud Computing, Software Development, Networking",,not specified
+1623,"Scala, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",4.0,senior
+1624,,Other,5.0,senior
+1625,,"Cloud Computing, Other",,not specified
+1626,,"Data Analytics, Other",,senior
+1627,Python,Other,,not specified
+1628,Python,"Data Analytics, Database Management, Other",3.0,mid
+1629,"Python, C++",Machine Learning/Artificial Intelligence,3.0,mid
+1630,"Python, Other","Data Analytics, Other",3.0,mid
+1631,"JavaScript, TypeScript, C++, Other",Web Development,7.0,senior
+1632,"JavaScript, Java, Python, C++, Other","Database Management, Machine Learning/Artificial Intelligence, Cloud Computing, Software Development, Other",7.0,senior
+1633,,Other,5.0,senior
+1634,"Python, C++",Machine Learning/Artificial Intelligence,3.0,senior
+1635,"Python, Swift, Other","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+1636,"Perl, C++, Python, Other",Other,10.0,senior
+1637,"Shell, Python, C++","Internet of Things (IoT), Software Development, Networking, Other",,not specified
+1638,JavaScript,"Web Development, Data Analytics, Database Management",5.0,mid
+1639,"C++, Other","Internet of Things (IoT), Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",,not specified
+1640,,"Machine Learning/Artificial Intelligence, Database Management, Other",,not specified
+1641,"Python, C++, Other","Cybersecurity, Other",,senior
+1642,Java,"Web Development, Software Development, Other",3.0,mid
+1643,,"Networking, Other",10.0,senior
+1644,Java,"Web Development, Software Development, Other",3.0,mid
+1645,,"Data Analytics, Other",5.0,senior
+1646,"Perl, C++, Python, Other",Other,,not specified
+1647,"JavaScript, Java, Python, Go, Other","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1648,,AR/VR (Augmented Reality/Virtual Reality),,not specified
+1649,"Python, C++","Software Development, Other",3.0,not specified
+1650,,Other,3.0,mid
+1651,"Python, Shell, Perl, C++","DevOps, Software Development, Networking, Other",,senior
+1652,"Swift, C++, Other",Mobile Development,2.0,mid
+1653,"Python, Other","Internet of Things (IoT), Other",,not specified
+1654,"C++, Other",Machine Learning/Artificial Intelligence,,not specified
+1655,Python,"Data Analytics, Database Management, Other",3.0,mid
+1656,Other,"Internet of Things (IoT), Networking, Other",8.0,senior
+1657,"Swift, Other","Mobile Development, Software Development, Other",,not specified
+1658,,"Networking, Other",5.0,senior
+1659,,"Cloud Computing, Networking, Other",5.0,senior
+1660,,"Software Development, Database Management, Other",5.0,senior
+1661,"JavaScript, Python, Shell, C++","DevOps, Other",,not specified
+1662,,,,not specified
+1663,Java,"Cybersecurity, Cloud Computing, Networking, Other",3.0,mid
+1664,,Other,3.0,not specified
+1665,,,4.0,mid
+1666,,"Networking, Other",5.0,senior
+1667,,Other,4.0,mid
+1668,,Other,6.0,senior
+1669,,Machine Learning/Artificial Intelligence,,not specified
+1670,,Machine Learning/Artificial Intelligence,,not specified
+1671,"JavaScript, PHP, Python, Ruby, Other","Data Analytics, Database Management, Software Development, Web Development, Other",,not specified
+1672,,"Software Development, Other",5.0,senior
+1673,"Ruby, Go, Python, Java","Cloud Computing, DevOps, Software Development, Other",5.0,senior
+1674,Java,"Software Development, Mobile Development",,not specified
+1675,"Other, Java","Data Analytics, DevOps, Database Management, Other",5.0,senior
+1676,"Ruby, Python, Shell","DevOps, Networking, Other",8.0,senior
+1677,,,5.0,senior
+1678,,"Internet of Things (IoT), Other",5.0,senior
+1679,,"Data Analytics, Other",5.0,senior
+1680,,,2.0,not specified
+1681,,"Software Development, Other",4.0,senior
+1682,,"Database Management, Other",2.0,mid
+1683,,"Web Development, Other, Mobile Development",,senior
+1684,,"Software Development, Other",3.0,mid
+1685,"Python, Go, Scala, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Other",,senior
+1686,,"Data Analytics, Other",,not specified
+1687,,Other,2.0,mid
+1688,,"Networking, Database Management, Other",10.0,senior
+1689,,Other,,not specified
+1690,,,7.0,senior
+1691,"Swift, Other","Mobile Development, Other",,not specified
+1692,Other,Other,4.0,senior
+1693,Other,Other,5.0,senior
+1694,"Python, Shell, Perl, C++, Other","DevOps, Software Development, Other",3.0,mid
+1695,,"Data Analytics, Database Management, Other",3.0,mid
+1696,,,5.0,not specified
+1697,"Go, Python","DevOps, Database Management, Cloud Computing, Software Development, Other",2.0,senior
+1698,,Other,5.0,mid
+1699,"Perl, C++, Python, Other","Software Development, Other",,not specified
+1700,"JavaScript, Swift",DevOps,,not specified
+1701,,"Other, Cybersecurity",5.0,senior
+1702,"JavaScript, Scala, Python, Java",Data Analytics,,not specified
+1703,,,5.0,senior
+1704,"Python, Shell","DevOps, Software Development, Other",,not specified
+1705,"Python, Shell","DevOps, Software Development, Other",,not specified
+1706,"TypeScript, C++, Java","Web Development, Other, Software Development, Mobile Development",3.0,mid
+1707,"Python, Other","Software Development, Other",5.0,senior
+1708,,Other,5.0,senior
+1709,"Ruby, JavaScript, Other","Web Development, Software Development, Database Management",3.0,mid
+1710,"JavaScript, C#, PHP, Java, Python, Swift, Ruby, Other","Data Analytics, DevOps, Database Management, Web Development, Other",3.0,mid
+1711,"Perl, C++, Python, Other",Other,5.0,senior
+1712,"Perl, Shell, Python, Other","Internet of Things (IoT), Data Analytics, Software Development, Other",,not specified
+1713,"JavaScript, Python, Swift, Ruby, C++, Other",Other,3.0,mid
+1714,,"Other, Mobile Development",1.0,junior
+1715,"Perl, Shell, Python, Other","Internet of Things (IoT), Data Analytics, Other",,not specified
+1716,,Machine Learning/Artificial Intelligence,,not specified
+1717,,Machine Learning/Artificial Intelligence,,not specified
+1718,,Other,5.0,senior
+1719,Other,"Networking, Other",5.0,senior
+1720,Java,"DevOps, Database Management, Other",3.0,mid
+1721,"Python, R, Other",Data Analytics,,not specified
+1722,"Perl, C++, Python, Other",Other,5.0,senior
+1723,,"Internet of Things (IoT), Software Development, Other",,not specified
+1724,"JavaScript, Python, Swift, Other","Web Development, Database Management, Mobile Development",,not specified
+1725,Other,"Networking, Other",5.0,senior
+1726,,"Data Analytics, Other",,not specified
+1727,"C++, Other",Human-Computer Interaction,,not specified
+1728,,,,senior
+1729,,Other,6.0,senior
+1730,,Other,,not specified
+1731,"Other, C++, C#, Java","Cybersecurity, Networking, Other",2.0,mid
+1732,,Other,20.0,senior
+1733,Other,"Data Analytics, Other",,not specified
+1734,R,"Data Analytics, Other",,not specified
+1735,"Perl, Python, Other",Other,,not specified
+1736,"Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",5.0,mid
+1737,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3.0,not specified
+1738,,,5.0,senior
+1739,Other,Other,15.0,senior
+1740,"Python, R, Other","Data Analytics, Database Management",3.0,mid
+1741,Other,"Human-Computer Interaction, Other, Mobile Development",,not specified
+1742,"Scala, Python","Data Analytics, Database Management, Other",4.0,mid
+1743,Other,"Human-Computer Interaction, Other, Mobile Development",,not specified
+1744,,,,not specified
+1745,,"Other, Mobile Development",4.0,mid
+1746,"JavaScript, Java, Python, Shell, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Networking, Other",,not specified
+1747,Other,Database Management,5.0,senior
+1748,,,,not specified
+1749,,Other,,not specified
+1750,,"Networking, Other",5.0,senior
+1751,,,,not specified
+1752,Java,"Data Analytics, Cloud Computing",5.0,senior
+1753,"Python, C++, Perl, Other",Other,,not specified
+1754,"Python, Java","Software Development, Mobile Development, Other",4.0,senior
+1755,,Other,4.0,mid
+1756,,Other,10.0,senior
+1757,,Machine Learning/Artificial Intelligence,,not specified
+1758,"Python, R",Machine Learning/Artificial Intelligence,,not specified
+1759,,Other,2.0,mid
+1760,"Java, Python, Swift, Go, C++, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Networking, Other",,senior
+1761,,"Networking, Other",,not specified
+1762,"Perl, C++, Python, Other",Other,3.0,mid
+1763,"C++, Java","Data Analytics, Other",,not specified
+1764,,Other,3.0,mid
+1765,Swift,Mobile Development,,not specified
+1766,,"Other, Data Analytics, Software Development, Mobile Development",,not specified
+1767,Ruby,"Database Management, Other",,not specified
+1768,"JavaScript, Other","Web Development, Software Development",,senior
+1769,"Python, R, Other","Data Analytics, DevOps, Database Management",2.0,mid
+1770,,,10.0,senior
+1771,"Swift, C++, Other","Mobile Development, Other",,not specified
+1772,,"Machine Learning/Artificial Intelligence, Other",,senior
+1773,,,7.0,senior
+1774,"Shell, Python, C++, Other","Software Development, Networking, Other",3.0,mid
+1775,,Other,3.0,mid
+1776,Java,"Web Development, Software Development, Database Management",5.0,senior
+1777,,"Web Development, Other",,senior
+1778,,"Software Development, Other",5.0,senior
+1779,,"Data Analytics, Other",5.0,senior
+1780,"Python, C++, Other","Data Analytics, DevOps, Software Development, Other",,not specified
+1781,JavaScript,Web Development,8.0,senior
+1782,Other,Other,3.0,senior
+1783,,"Data Analytics, Other",3.0,mid
+1784,,Other,,not specified
+1785,,"Machine Learning/Artificial Intelligence, Software Development",10.0,senior
+1786,Other,"Data Analytics, Other",5.0,mid
+1787,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",8.0,senior
+1788,,Other,,not specified
+1789,"Python, Shell, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Networking, Other",,mid
+1790,"Scala, Java","Data Analytics, Cloud Computing, Database Management, Other",3.0,mid
+1791,"Perl, C++, Python, Other",Other,1.0,not specified
+1792,"Python, Shell","DevOps, Software Development, Networking, Other",,senior
+1793,,"Web Development, DevOps, Other",5.0,senior
+1794,,"Software Development, Other",,not specified
+1795,"C++, Java","Data Analytics, DevOps, Cloud Computing, Software Development, Other",,senior
+1796,"JavaScript, Python, Other, Java","DevOps, Software Development, Mobile Development, Other",5.0,senior
+1797,"JavaScript, Java, Python, Shell, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Networking, Other",,not specified
+1798,,"Cloud Computing, Software Development, Networking, Cybersecurity",5.0,senior
+1799,"R, Other","Data Analytics, Other",5.0,senior
+1800,"C++, Other","Internet of Things (IoT), Data Analytics, Software Development, Other",4.0,senior
+1801,"JavaScript, Python, Java","DevOps, Software Development, Mobile Development, Other",2.0,mid
+1802,,Machine Learning/Artificial Intelligence,5.0,senior
+1803,,Machine Learning/Artificial Intelligence,10.0,senior
+1804,"Ruby, Python","DevOps, Software Development, Other",,not specified
+1805,,"Software Development, Other",5.0,mid
+1806,"JavaScript, Python, Other","Web Development, Cloud Computing, Database Management, Other",3.0,mid
+1807,,,10.0,senior
+1808,,"Machine Learning/Artificial Intelligence, Software Development, Other",7.0,senior
+1809,,,3.0,not specified
+1810,Java,"Web Development, Software Development, Database Management, Other",5.0,senior
+1811,,"Database Management, Networking, Other",10.0,senior
+1812,"Swift, PHP, Python, Java","Web Development, DevOps, Database Management, Other",5.0,senior
+1813,"Python, Go","Cloud Computing, DevOps, Other",,not specified
+1814,,"Data Analytics, Other",10.0,senior
+1815,"JavaScript, Java","Web Development, Software Development, Database Management, Other",5.0,senior
+1816,"Swift, C++, Other","Other, Mobile Development",,not specified
+1817,,Software Development,1.0,junior
+1818,"JavaScript, PHP, Swift, Python, Ruby, C++, Other","Web Development, Software Development",,not specified
+1819,"Java, Python, Shell, Swift, Other","Web Development, Software Development, Database Management, Other",7.0,senior
+1820,Other,"Data Analytics, Software Development, Other",5.0,senior
+1821,,,3.0,mid
+1822,,"Networking, Other",5.0,senior
+1823,"PHP, Java, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",5.0,senior
+1824,,"Networking, Other",5.0,senior
+1825,"Shell, C++, Other","Data Analytics, Other",5.0,senior
+1826,,"Cybersecurity, Software Development, Web Development, Networking, Other",5.0,senior
+1827,"C++, Other","Software Development, Other",3.0,mid
+1828,"PHP, Java, Perl, Python, Ruby","Cybersecurity, Software Development, Web Development, Networking, Other",,not specified
+1829,"JavaScript, Python, Other","Web Development, Cloud Computing, Database Management, Other",3.0,mid
+1830,"JavaScript, Python, Java","Web Development, Data Analytics, Software Development, Database Management",5.0,senior
+1831,"Kotlin, Java, Python, Swift, Go, C++, Other","DevOps, Database Management, Cybersecurity, Networking, Other",,senior
+1832,,,5.0,senior
+1833,,Other,,senior
+1834,"Ruby, Perl, Shell, Other","Software Development, Other",3.0,mid
+1835,"C++, Other","Data Analytics, Software Development",,mid
+1836,"Python, Java, Other","Database Management, Other",,senior
+1837,,"Data Analytics, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Software Development, Other",5.0,senior
+1838,"Python, C++, Other","Web Development, Internet of Things (IoT), Cloud Computing, Software Development",,not specified
+1839,"Java, Perl, Python, Ruby, Go","Cloud Computing, DevOps, Software Development, Networking",4.0,senior
+1840,"Perl, PHP, Python, Other","Web Development, Software Development",,not specified
+1841,Other,"Cybersecurity, Software Development, Web Development, Networking, Other",5.0,senior
+1842,Other,"Web Development, Software Development, Other",8.0,senior
+1843,Other,"Web Development, Other, Software Development, Mobile Development",8.0,senior
+1844,,Other,3.0,mid
+1845,Other,"Other, Mobile Development",3.0,mid
+1846,Python,"Other, Software Development, Mobile Development",5.0,senior
+1847,"Java, Python, Shell, Perl, Ruby","DevOps, Other",,not specified
+1848,,"DevOps, Cybersecurity, Web Development, Networking, Other",5.0,senior
+1849,"C++, Other",Other,10.0,senior
+1850,Other,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+1851,,,,not specified
+1852,,"Data Analytics, Other",2.0,not specified
+1853,"Python, C++, Perl, Other","Database Management, Other",8.0,senior
+1854,,,3.0,mid
+1855,"Python, Shell, Swift","Mobile Development, Software Development, Other",5.0,senior
+1856,,"Software Development, Other",5.0,senior
+1857,,"Human-Computer Interaction, Data Analytics, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1858,,"Database Management, Mobile Development, Software Development, Web Development, Other",10.0,senior
+1859,,Other,5.0,senior
+1860,,Other,5.0,senior
+1861,"Swift, C++, Other","Database Management, Machine Learning/Artificial Intelligence, Cybersecurity, Mobile Development, Other",6.0,senior
+1862,"Python, C++, Perl, Other","Database Management, Other",8.0,senior
+1863,,Other,,not specified
+1864,,,,not specified
+1865,"Perl, Python, Ruby, C++, Other","Software Development, Other",3.0,mid
+1866,"Scala, R, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1867,"Perl, Shell, PHP, Python","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Software Development, Networking, Other",5.0,senior
+1868,"Ruby, Perl, Python, Java","Data Analytics, DevOps, Database Management, Software Development, Networking, Other",5.0,senior
+1869,,,2.0,not specified
+1870,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+1871,,"Web Development, Networking, Other",,senior
+1872,"C++, Other","Software Development, Other",5.0,senior
+1873,,,3.0,mid
+1874,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",5.0,senior
+1875,,"Data Analytics, Other",3.0,not specified
+1876,"Python, Perl, Other",Other,,not specified
+1877,"C++, Other","Networking, Other",,senior
+1878,,Other,,not specified
+1879,"C++, Other","Software Development, Other",6.0,senior
+1880,"Perl, PHP, Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Software Development",5.0,senior
+1881,,"Machine Learning/Artificial Intelligence, Software Development, Other",5.0,senior
+1882,,Machine Learning/Artificial Intelligence,3.0,mid
+1883,,Machine Learning/Artificial Intelligence,7.0,senior
+1884,R,"Data Analytics, Other",5.0,senior
+1885,,"Internet of Things (IoT), Other",8.0,senior
+1886,,"Data Analytics, Other",2.0,not specified
+1887,,"Software Development, Other",3.0,mid
+1888,"Perl, Python, Other","Web Development, Networking, Other",,not specified
+1889,"Python, Shell, Perl","Cybersecurity, Cloud Computing, Networking, Other",4.0,senior
+1890,,,,senior
+1891,"Python, C++, Other","Networking, Other",5.0,senior
+1892,,"Software Development, Other",5.0,senior
+1893,,"Software Development, Other",5.0,mid
+1894,,"Mobile Development, Other",5.0,senior
+1895,"C++, Other",Other,3.0,senior
+1896,"Perl, C++, C#, Other","Software Development, Other",7.0,senior
+1897,,Other,5.0,senior
+1898,,Other,5.0,senior
+1899,"Perl, Shell, Other",Other,3.0,not specified
+1900,"C++, Other",Other,5.0,senior
+1901,"Python, C++, Java",Machine Learning/Artificial Intelligence,,not specified
+1902,,,5.0,senior
+1903,,,,not specified
+1904,"Perl, C++, Python, Other",Other,5.0,senior
+1905,"JavaScript, Other","Database Management, Other",10.0,senior
+1906,,,,senior
+1907,,Other,5.0,mid
+1908,"C++, Other","Software Development, Networking, Other",,not specified
+1909,"Scala, Java, Python, Shell, Ruby, C++","Web Development, Other",4.0,senior
+1910,,"Networking, Other",8.0,senior
+1911,,"Internet of Things (IoT), Data Analytics, Mobile Development, Other",,not specified
+1912,"Swift, C++, Other",Software Development,,not specified
+1913,,"Machine Learning/Artificial Intelligence, Database Management, Other",3.0,mid
+1914,Java,"Data Analytics, Cloud Computing, Database Management, Other",10.0,senior
+1915,Java,"Web Development, Software Development, Database Management",5.0,senior
+1916,,"Mobile Development, Other",5.0,mid
+1917,,"Machine Learning/Artificial Intelligence, Database Management, Other",3.0,mid
+1918,,"Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development, Web Development",5.0,senior
+1919,,"Data Analytics, Software Development, Other",,mid
+1920,"Java, Perl, Shell, Python, Go, C++","Web Development, DevOps, Software Development, Other",3.0,mid
+1921,Other,Other,,mid
+1922,,"Other, Software Development, Cybersecurity",5.0,senior
+1923,,"Mobile Development, Other",5.0,senior
+1924,"Scala, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence, Cybersecurity, Other",,not specified
+1925,,"Cloud Computing, Other",7.0,senior
+1926,,Other,5.0,senior
+1927,,,5.0,not specified
+1928,Python,Other,1.0,not specified
+1929,"JavaScript, Python, Ruby","Web Development, Data Analytics, Software Development, Other",,not specified
+1930,"Java, Python, Perl, Ruby, Go","Cloud Computing, DevOps, Software Development, Other",5.0,senior
+1931,,Other,10.0,senior
+1932,,Other,,senior
+1933,,"DevOps, Mobile Development, Networking, Other",,not specified
+1934,"C++, Other","Software Development, Other",,not specified
+1935,Other,Other,,senior
+1936,,"Software Development, Other",5.0,mid
+1937,Python,Machine Learning/Artificial Intelligence,,not specified
+1938,"Perl, Other","Software Development, Other",5.0,senior
+1939,"Python, C++, Java, Other","Software Development, Other",,not specified
+1940,"Swift, Other","Database Management, Cybersecurity, Mobile Development, Web Development, Other",8.0,senior
+1941,Java,"Cloud Computing, DevOps, Database Management, Other",10.0,senior
+1942,,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",10.0,senior
+1943,,"Data Analytics, Other",5.0,senior
+1944,,"Machine Learning/Artificial Intelligence, Database Management, Other",10.0,senior
+1945,,"Machine Learning/Artificial Intelligence, Database Management, Other",10.0,senior
+1946,,"Human-Computer Interaction, DevOps, Other",,not specified
+1947,"JavaScript, Other","Web Development, Other",5.0,senior
+1948,"Perl, Other","DevOps, Software Development, Other",2.0,mid
+1949,"Python, Shell, Go, Java","Data Analytics, DevOps, Networking, Other",5.0,senior
+1950,"Python, Other","Human-Computer Interaction, Data Analytics, Machine Learning/Artificial Intelligence, Other",5.0,senior
+1951,,Other,5.0,not specified
+1952,,Other,8.0,senior
+1953,"Python, C++, Java, Other","Software Development, Other",,not specified
+1954,,"DevOps, Cloud Computing, Mobile Development, Software Development, Other",,mid
+1955,,,10.0,senior
+1956,"Other, Java","Data Analytics, Cybersecurity, Web Development, Networking, Other",8.0,senior
+1957,"Python, R, Other","Data Analytics, Other",3.0,mid
+1958,Other,"Mobile Development, Other",2.0,mid
+1959,,Machine Learning/Artificial Intelligence,5.0,senior
+1960,"Swift, Other","Web Development, Other, Database Management, Mobile Development",8.0,senior
+1961,"JavaScript, Other",Web Development,5.0,senior
+1962,,"DevOps, Cloud Computing, Mobile Development, Software Development, Networking, Other",,not specified
+1963,,"Software Development, Other",8.0,senior
+1964,,,4.0,not specified
+1965,,,4.0,mid
+1966,"Python, C++",Machine Learning/Artificial Intelligence,,not specified
+1967,,"Data Analytics, Other",3.0,mid
+1968,,,5.0,not specified
+1969,"C++, Other","Networking, Other",,not specified
+1970,"Ruby, Python, Shell, Other","DevOps, Cloud Computing, Software Development, Web Development, Networking, Other",10.0,senior
+1971,"Python, C++, Other","Internet of Things (IoT), Data Analytics, Other",4.0,not specified
+1972,,Other,7.0,senior
+1973,,"Data Analytics, Database Management, Other",3.0,mid
+1974,,"Web Development, Other",5.0,senior
+1975,,"Software Development, Other",8.0,senior
+1976,,"Data Analytics, Software Development, Other",5.0,not specified
+1977,,"Networking, Other",7.0,senior
+1978,,,4.0,senior
+1979,,,8.0,senior
+1980,,,,not specified
+1981,,,12.0,senior
+1982,"Python, C++","Cloud Computing, Software Development, Database Management, Other",,not specified
+1983,,,,not specified
+1984,"Python, Shell, Perl","Data Analytics, DevOps, Cloud Computing, Software Development, Networking, Other",5.0,not specified
+1985,,"Cybersecurity, Networking, Other",7.0,senior
+1986,"Java, Other",Other,,not specified
+1987,Other,"Networking, Other",5.0,senior
+1988,,Internet of Things (IoT),7.0,senior
+1989,,Data Analytics,,not specified
+1990,,,5.0,senior
+1991,"Swift, Other","Web Development, Mobile Development",,not specified
+1992,Python,"Data Analytics, Database Management",5.0,senior
+1993,"JavaScript, Java, Other","Web Development, Other",,not specified
+1994,"Python, C++","Software Development, Networking, Other",,senior
+1995,,"Software Development, Other",10.0,senior
+1996,,Other,5.0,not specified
+1997,Other,"AR/VR (Augmented Reality/Virtual Reality), Networking, Other",4.0,not specified
+1998,,Data Analytics,,not specified
+1999,"JavaScript, Other","Human-Computer Interaction, Other",5.0,mid
+2000,Java,Data Analytics,,not specified
+2001,Other,"Software Development, Other",,not specified
+2002,,"Mobile Development, Other",,not specified
+2003,Other,"Machine Learning/Artificial Intelligence, Other",5.0,senior
+2004,,"Other, Networking, Cybersecurity",10.0,senior
+2005,,"Web Development, Other",,not specified
+2006,"Python, Shell, Perl, Go","DevOps, Mobile Development, Other",,not specified
+2007,,Other,3.0,mid
+2008,Other,"Data Analytics, Software Development, Database Management, Other",,senior
+2009,Other,"Networking, Other",,senior
+2010,,"Data Analytics, Networking, Other",5.0,senior
+2011,"Python, Perl, Other",Other,,not specified
+2012,"Scala, Python, Java","Data Analytics, Database Management",,not specified
+2013,"Python, Other, Java","Data Analytics, Database Management, Software Development, Web Development, Other",,not specified
+2014,,"Web Development, Data Analytics, Mobile Development, Other",8.0,senior
+2015,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Networking, Other",8.0,senior
+2016,Other,"Software Development, Other",,not specified
+2017,,"Other, Software Development, Mobile Development",,not specified
+2018,Other,"Web Development, Software Development, Other",,not specified
+2019,Java,"Data Analytics, Database Management",5.0,senior
+2020,"JavaScript, Python, Java","Web Development, Data Analytics, Cloud Computing, Database Management",3.0,mid
+2021,,Machine Learning/Artificial Intelligence,7.0,senior
+2022,"Python, Scala, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Other",,senior
+2023,Go,"Data Analytics, DevOps, Networking, Other",,senior
+2024,"Python, Other",Other,2.0,mid
+2025,"Python, Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,mid
+2026,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Software Development, Networking, Other",5.0,senior
+2027,"Python, R, Other","Data Analytics, Machine Learning/Artificial Intelligence, Database Management, Other",,not specified
+2028,,Other,5.0,senior
+2029,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Software Development, Networking, Other",5.0,mid
+2030,"Python, Perl, Other",Other,,not specified
+2031,"Python, Shell, Perl, Go","DevOps, Mobile Development, Other",,not specified
+2032,,"Data Analytics, Other",,not specified
+2033,,Other,3.0,mid
+2034,,"Data Analytics, Other",,senior
+2035,Other,"Software Development, Other",,not specified
+2036,"Java, Python, Swift, Perl, Shell, C++, Other","Data Analytics, DevOps, Machine Learning/Artificial Intelligence, Software Development, Networking, Other",10.0,senior
+2037,"Python, Shell, Perl","DevOps, Database Management, Cloud Computing, Software Development, Networking, Other",,not specified
+2038,,"Other, Software Development, Networking, Mobile Development",10.0,senior
+2039,,"Data Analytics, Other",,senior
+2040,"Ruby, Perl, Go, Python","DevOps, Cloud Computing, Cybersecurity, Software Development, Web Development, Networking, Other",5.0,senior
+2041,"Python, Other, Scala, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Other",,senior
+2042,"Python, Other",Other,5.0,senior
+2043,,"Other, Software Development, Networking, Mobile Development",10.0,senior
+2044,"Python, Shell","Data Analytics, Database Management, Other",2.0,mid
+2045,,Other,3.0,mid
+2046,"C++, Other",Other,,not specified
+2047,"Perl, Python, Other",Other,,not specified
+2048,,Web Development,6.0,senior
+2049,,"Software Development, Database Management, Other",5.0,senior
+2050,,"Software Development, Database Management, Other",5.0,senior
+2051,"Java, Python, Go, C++, Other","DevOps, Database Management, Web Development, Networking, Other",3.0,senior
+2052,,"Other, Software Development, Networking, Mobile Development",10.0,senior
+2053,,Other,3.0,mid
+2054,"Ruby, Perl, Shell, Python","DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",5.0,senior
+2055,Java,Database Management,5.0,senior
+2056,Other,Other,4.0,mid
+2057,"Perl, Python, Other",Other,5.0,senior
+2058,,"Networking, Other",,not specified
+2059,,Other,2.0,mid
+2060,"Perl, Shell, PHP, Other","Database Management, Software Development, Web Development, Networking, Other",5.0,senior
+2061,"Perl, Shell, PHP","Database Management, Software Development, Web Development, Networking, Other",5.0,mid
+2062,"Java, Python, Go, C++, Other","DevOps, Database Management, Web Development, Networking, Other",3.0,mid
+2063,,Other,,senior
+2064,"Perl, Python, Other",Other,5.0,senior
+2065,,"Web Development, Networking, Other",,senior
+2066,Other,"Web Development, Cybersecurity, Networking, Other",,senior
+2067,"Python, Perl, Other","Software Development, Other",5.0,senior
+2068,"Python, Perl, Other","Software Development, Other",5.0,senior
+2069,"JavaScript, Other","Web Development, Other",2.0,not specified
+2070,"Python, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",8.0,senior
+2071,,Other,,not specified
+2072,,"Other, Data Analytics, Mobile Development",,junior
+2073,,Web Development,,senior
+2074,Other,"Other, Software Development, Mobile Development",,senior
+2075,"Scala, Other, Java","Data Analytics, Cloud Computing, Database Management, DevOps",,senior
+2076,"JavaScript, PHP, Other","Data Analytics, Blockchain, Software Development, Web Development, Other",5.0,senior
+2077,,"Software Development, Other",5.0,senior
+2078,Other,Other,,not specified
+2079,"Perl, Other","Software Development, Other",5.0,senior
+2080,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",5.0,senior
+2081,,Other,,not specified
+2082,,"Web Development, Other, Networking, Mobile Development",2.0,not specified
+2083,,"AR/VR (Augmented Reality/Virtual Reality), Other",3.0,mid
+2084,"JavaScript, Perl, Shell, Python, C++, Other","Web Development, Software Development, Networking, Other",,senior
+2085,"JavaScript, Perl, Shell, Python, C++, Other","Web Development, Software Development, Networking, Other",,not specified
+2086,,,,not specified
+2087,,"Data Analytics, DevOps, Other",3.0,mid
+2088,,Other,6.0,senior
+2089,,"Data Analytics, Other",2.0,mid
+2090,"Scala, Shell, Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",3.0,mid
+2091,,"Web Development, Other",,senior
+2092,,"Web Development, Data Analytics, Other",,senior
+2093,,Other,8.0,senior
+2094,,"Cloud Computing, Software Development, Database Management, Other",8.0,senior
+2095,"Ruby, Perl, Shell, Python","DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",5.0,senior
+2096,"JavaScript, Other","Web Development, Other",,not specified
+2097,"Python, Perl, Other",Other,,not specified
+2098,"Python, Perl, Other",Other,,not specified
+2099,Python,"Data Analytics, Software Development, Other",5.0,senior
+2100,,,,mid
+2101,,"Cloud Computing, Mobile Development, Other",2.0,mid
+2102,,Other,3.0,mid
+2103,,Other,10.0,senior
+2104,,,,not specified
+2105,,"DevOps, Mobile Development, Web Development, Internet of Things (IoT), Networking, Other",1.0,mid
+2106,,,5.0,senior
+2107,,"Web Development, Software Development, Mobile Development, Other",15.0,senior
+2108,"Python, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Software Development",5.0,senior
+2109,,"Human-Computer Interaction, Mobile Development, Other",,mid
+2110,"Java, Python, Perl, Ruby, Go","Data Analytics, Cloud Computing, DevOps, Other",5.0,senior
+2111,"Java, Python, Perl, Ruby, Go","Data Analytics, DevOps, Cloud Computing, Software Development, Other",5.0,senior
+2112,,Other,15.0,senior
+2113,,"Human-Computer Interaction, Mobile Development, Other",,senior
+2114,,Cybersecurity,5.0,senior
+2115,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+2116,,"Data Analytics, Database Management, Other",10.0,senior
+2117,"Python, C++, Other","Cloud Computing, Software Development, Database Management, Other",,not specified
+2118,,Mobile Development,,senior
+2119,,"Data Analytics, Other",2.0,mid
+2120,,Other,,not specified
+2121,"JavaScript, TypeScript","Web Development, Cloud Computing, Database Management",15.0,senior
+2122,,,,not specified
+2123,,Data Analytics,5.0,senior
+2124,,"Mobile Development, Other",,senior
+2125,,Other,,not specified
+2126,,,,senior
+2127,,,,not specified
+2128,,,,not specified
+2129,,,,not specified
+2130,,,,not specified
+2131,,,,not specified
+2132,,,,not specified
+2133,,,,not specified
+2134,,,,not specified
+2135,,Other,,senior
+2136,,,,not specified
+2137,,,,not specified
+2138,,,,senior
+2139,,"Data Analytics, Other",5.0,senior
+2140,,,,senior
+2141,,,,senior
+2142,,,8.0,senior
+2143,,,,senior
+2144,,,,not specified
+2145,,,,senior
+2146,,,,not specified
+2147,"Swift, Shell, Python, Other","Other, Software Development, Networking, Cybersecurity",,not specified
