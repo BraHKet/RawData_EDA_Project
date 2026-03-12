@@ -13,6 +13,36 @@ This repository presents a data analysis project, focusing on a raw and challeng
 The dataset used is: 
 [**Raw Data**](https://www.kaggle.com/datasets/aesophor/raw-data/code) - *Note: This dataset was chosen specifically for its raw and uncleaned nature.*
 
+## The Data Challenge
+
+The raw dataset presented significant preprocessing challenges. Each job posting 
+stored all information as unstructured free-form text, with no consistent 
+formatting or separators between fields.
+
+For example, a single `min_qualifications` entry looked like this:
+```
+2-5 years experience supporting or deploying application software for internal 
+and external customers.
+Experience configuring or maintaining commercial enterprise application software 
+packages (for example: inventory systems, manufacturing systems, PDM, ERP, LIMS, etc…)
+Experience providing first level software support to end users and issue triage
+Proven problem solving and debugging skills
+Comfortable with modern IT tech-stack concepts
+Ability to navigate in a Linux/Unix environment
+Able to train small and large groups
+Able to write and execute basic database queries
+You will be self directed, analytical, and work well in a team environment
+Be a strong advocate for improving processes and a clear communicator of new ideas
+Strong verbal interpersonal skills
+Highly organized, ability to juggle multiple priorities at a time
+Ability to quickly learn new software applications
+```
+
+Extracting structured features, programming languages, experience level, tools, 
+job category, from hundreds of entries like this required iterative work involving different mothods.
+
+> The resulting `clean_applejobs.csv` is not a starting point: it is the main output of this project.
+
 ## Methodology
 
 My approach to this project is guided by a systematic EDA process designed to extract maximum value from challenging datasets. The detailed methodological steps are fully documented in the **[Metodology](EDA_Methodology.md)** file.
