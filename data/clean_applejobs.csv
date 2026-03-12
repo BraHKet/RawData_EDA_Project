@@ -1,0 +1,2149 @@
+id,location,programming_languages,tools_and_technologies,years_experience_min,experience_level
+0,North America,,"Software Development, Database Management",2,not specified
+1,North America,Other,"Software Development, Other",,not specified
+2,North America,"Java, Python, Shell, Ruby, Go","Cloud Computing, DevOps, Database Management, Other",3,mid
+3,North America,"Java, Python, Shell, Ruby, Go","Cloud Computing, DevOps, Database Management, Other",3,mid
+4,North America,,"Data Analytics, Cloud Computing, Machine Learning/Artificial Intelligence, Internet of Things (IoT),",,not specified
+5,North America,,,,senior
+6,North America,"Swift, Other","Human-Computer Interaction, Other, Networking, Mobile Development",,not specified
+7,Asia,"JavaScript, Scala, Java, Swift, Other","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+8,North America,"Swift, Other","Human-Computer Interaction, Networking, Other",,not specified
+9,North America,Other,Software Development,2,mid
+10,North America,"Swift, Other",Mobile Development,,not specified
+11,North America,Java,"DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",5,senior
+12,North America,Other,Cloud Computing,,not specified
+13,North America,,Cloud Computing,,not specified
+14,Europe,C++,"Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,not specified
+15,North America,"Ruby, Perl, Shell, Python","DevOps, Software Development, Networking, Other",5,senior
+16,North America,"Swift, Other","Software Development, Database Management, Other",3,not specified
+17,Asia,"C#, Java","Data Analytics, Cloud Computing, Database Management, Other",4,mid
+18,North America,,,,not specified
+19,North America,"JavaScript, PHP, Java, Swift, Python, Ruby, C++, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",7,senior
+20,Asia,"Java, Perl, Shell, Python, Other","Cybersecurity, Software Development, Other",,not specified
+21,North America,"Ruby, Python","Web Development, Other",,not specified
+22,North America,,"Other, Mobile Development",,not specified
+23,North America,Python,"Web Development, Software Development",,not specified
+24,Asia,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",7,senior
+25,North America,"C++, Other","Software Development, Other",3,not specified
+26,Europe,Other,"Other, Cybersecurity, Mobile Development",,senior
+27,North America,"Python, C++","Web Development, Software Development",5,senior
+28,North America,"C++, Other","Software Development, Other",2,mid
+29,North America,"Go, C++, Python","DevOps, Cloud Computing, Software Development, Web Development, Networking, Other",5,senior
+30,North America,"C++, C#, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+31,North America,Python,"Web Development, Cloud Computing",5,senior
+32,North America,"JavaScript, PHP, Other","Web Development, Software Development, Database Management",,not specified
+33,North America,"Swift, C++, Other","Software Development, Mobile Development",3,mid
+34,North America,"Other, C++, Java","Software Development, Database Management, Other",,senior
+35,North America,"JavaScript, Python, C++, Other","DevOps, Database Management, Web Development, Internet of Things (IoT), Networking, Other",,not specified
+36,North America,"Python, C++, Other","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Othe",3,mid
+37,North America,"JavaScript, Swift, Python, Perl, C++, Other","Other, DevOps, Mobile Development",3,mid
+38,North America,Other,"Cybersecurity, Software Development, Other",5,senior
+39,North America,"JavaScript, Swift, Other","Web Development, Software Development, Database Management, Other",3,mid
+40,North America,"JavaScript, Python, Shell, Other","Other, Software Development, Networking, Mobile Development",,not specified
+41,North America,"JavaScript, PHP, Other","Web Development, Data Analytics, Database Management, Other",10,senior
+42,North America,"Swift, Other","Software Development, Database Management, Other",3,mid
+43,Asia,"JavaScript, TypeScript, Other","Web Development, Database Management",,not specified
+44,North America,"Python, Shell, Go, C++, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,not specified
+45,North America,"C++, Other","Mobile Development, Other",,not specified
+46,North America,"Swift, Other","Other, Mobile Development",,senior
+47,North America,,"Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+48,Asia,Python,"Software Development, Networking, Other",3,mid
+49,Asia,Java,"Database Management, Cloud Computing, Software Development, Web Development, Other",4,senior
+50,Asia,"C++, Other","Software Development, Other",5,senior
+51,North America,"Swift, Other","Mobile Development, Other",,senior
+52,North America,"C++, Other","Web Development, Cybersecurity",10,senior
+53,North America,"Swift, Other","Cloud Computing, Software Development, Cybersecurity",4,senior
+54,North America,Other,Web Development,2,not specified
+55,Asia,Other,"Software Development, Other",,not specified
+56,North America,"Shell, Python, C++, Java",Networking,8,senior
+57,North America,"Python, C++, Perl, Other","DevOps, Software Development, Other",3,mid
+58,North America,"Other, C++, Java","Software Development, Database Management, Other",,not specified
+59,North America,"Swift, Other","Software Development, Database Management, Other",3,mid
+60,North America,Java,"Web Development, Data Analytics",5,senior
+61,North America,"Swift, C++, Python, Other","Other, Software Development, Networking, Mobile Development",,not specified
+62,North America,Python,"Data Analytics, Database Management, Other",5,senior
+63,North America,Python,DevOps,,not specified
+64,North America,"JavaScript, Swift, Other","Web Development, Software Development, Database Management, Other",3,mid
+65,Asia,,,,not specified
+66,Asia,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+67,Asia,Java,"Web Development, Software Development, Database Management, Other",,senior
+68,North America,"JavaScript, Python","AR/VR (Augmented Reality/Virtual Reality), Other",5,senior
+69,North America,"Perl, Python, Go, C++, Other","Software Development, Networking, Other",8,senior
+70,North America,"C++, Other","DevOps, Database Management, Software Development, Web Development, Other",3,not specified
+71,North America,"C++, Other","Web Development, Software Development",2,mid
+72,North America,"Perl, Shell, Python, Swift, C++, Other","Internet of Things (IoT), Software Development, Other",5,senior
+73,Asia,"C++, C#","Software Development, Database Management, Other",,not specified
+74,North America,"JavaScript, Python, Perl","Mobile Development, Other",5,senior
+75,North America,"Swift, Other",Other,,not specified
+76,North America,Java,"Web Development, Database Management, Software Development, Networking",5,senior
+77,North America,Other,"Mobile Development, Other",,mid
+78,North America,"Other, C++, Java","Database Management, Other",,not specified
+79,North America,"Python, Shell, Perl, Ruby, Other","Software Development, Other",,not specified
+80,North America,"JavaScript, PHP, Other","Web Development, Software Development, Database Management",,not specified
+81,North America,,"Mobile Development, Software Development, Database Management, Other",,not specified
+82,North America,Java,"Web Development, Database Management, Software Development, Networking",5,senior
+83,Asia,"Python, Shell, Other, Java","Web Development, Human-Computer Interaction, Software Development, Database Management",5,mid
+84,North America,Java,"Web Development, Data Analytics, Networking, Other",,senior
+85,North America,"C++, Other","Software Development, Other",,not specified
+86,North America,,"DevOps, Cloud Computing, Cybersecurity, Software Development, Web Development",,not specified
+87,North America,"C++, Other","Cloud Computing, Software Development, Networking, Other",10,senior
+88,North America,"Python, C++",Machine Learning/Artificial Intelligence,,senior
+89,North America,Other,,5,senior
+90,North America,"C++, Other",Other,3,not specified
+91,North America,,"Networking, Other",4,mid
+92,North America,"Python, Shell, Perl, Java","DevOps, Database Management, Cybersecurity, Web Development, Networking",,not specified
+93,North America,"Python, Shell, Swift, C++, Other","DevOps, Software Development, Mobile Development, Other",,not specified
+94,North America,"C++, Other",Software Development,,not specified
+95,North America,"Python, C++","Web Development, Software Development",5,senior
+96,North America,"Other, C++, Java","Software Development, Database Management, Other",,not specified
+97,North America,Other,,5,senior
+98,North America,"Other, Scala, Java","DevOps, Database Management, Machine Learning/Artificial Intelligence, Software Development, Web Dev",4,senior
+99,North America,"Python, C++, Other",Other,3,mid
+100,North America,C++,"Internet of Things (IoT), Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual",3,mid
+101,North America,"Swift, Other","Other, Mobile Development",,not specified
+102,North America,"Swift, Other","Mobile Development, Other",,not specified
+103,North America,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Database Management",,not specified
+104,North America,,,5,senior
+105,North America,JavaScript,,,not specified
+106,North America,,"Other, Software Development, Mobile Development",,not specified
+107,North America,"Python, Shell, Perl",Software Development,,not specified
+108,North America,"JavaScript, Python, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",10,senior
+109,North America,Java,"Data Analytics, Other",,senior
+110,North America,"Ruby, Python, Swift, JavaScript","Software Development, Other",3,not specified
+111,Asia,"C++, Other","Software Development, Other",7,senior
+112,North America,"Python, C++",Machine Learning/Artificial Intelligence,,not specified
+113,North America,"JavaScript, Python, Swift, Ruby, C++, Other","DevOps, Other",3,mid
+114,Asia,"JavaScript, TypeScript, C++",Web Development,,not specified
+115,North America,"C++, Other","Web Development, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",6,senior
+116,Asia,"C++, C#","Software Development, Database Management, Other",,not specified
+117,North America,"Python, Swift, Java","Other, Cloud Computing, Mobile Development",6,senior
+118,North America,"Python, Shell, Perl, Ruby, C++, Other","Software Development, Other",,not specified
+119,North America,"Python, Shell, Swift, C++, Other","DevOps, Software Development, Mobile Development, Other",,not specified
+120,North America,Other,Software Development,,not specified
+121,Asia,"Python, C++, Other","Cybersecurity, Software Development, Networking, Other",3,mid
+122,North America,"C++, Other","Software Development, Networking, Other",2,mid
+123,North America,C++,Internet of Things (IoT),3,mid
+124,North America,"Shell, Python, C++, Java","Data Analytics, Software Development, Networking, Other",8,senior
+125,North America,"Other, C++, Java","Database Management, Other",,senior
+126,North America,"Python, Java","Data Analytics, Database Management",10,senior
+127,North America,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, AR/VR (Augmented Reality/Virtual Rea",3,mid
+128,North America,,,,not specified
+129,North America,,"Software Development, Other",,senior
+130,Asia,"Java, Perl, Shell, Python, Other","Cybersecurity, Software Development, Other",,not specified
+131,North America,"Swift, Other","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+132,North America,"JavaScript, PHP, Other","Web Development, Software Development, Database Management",,not specified
+133,North America,"JavaScript, Python, C++, Other","Other, Software Development, Networking, Mobile Development",,mid
+134,North America,"Python, Swift, C++, Other","Software Development, Other",,not specified
+135,Asia,,,,not specified
+136,North America,,,,not specified
+137,North America,"C++, Other",Software Development,,not specified
+138,North America,C++,"Internet of Things (IoT), Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual",3,mid
+139,North America,"JavaScript, Swift, Java, Other","Other, Mobile Development",,not specified
+140,North America,"Python, C++, Perl, Other","Software Development, Other",,not specified
+141,Asia,"Python, Other","DevOps, Software Development",3,mid
+142,North America,"Swift, C++, Python, Other","Other, Software Development, Mobile Development",,not specified
+143,North America,Java,"Web Development, Database Management, Other",5,senior
+144,North America,"Other, Java","Web Development, Software Development, Database Management, Other",5,mid
+145,North America,"C++, Other","Internet of Things (IoT), Networking, Other",5,senior
+146,North America,C++,"Web Development, Software Development, Other",,not specified
+147,North America,"Python, C++, Java","Web Development, Cloud Computing",5,senior
+148,North America,"Other, C++, Java","Web Development, Software Development",5,senior
+149,North America,"Python, Other",Other,,not specified
+150,North America,Other,"Cybersecurity, Software Development, Other",,not specified
+151,North America,"Swift, C++, Other","Other, Mobile Development",,not specified
+152,Asia,"JavaScript, Python, Perl, Go, C++, Other","Networking, Software Development, Mobile Development, Other",3,mid
+153,North America,Java,"Web Development, Other",,senior
+154,North America,Other,,,not specified
+155,North America,"C++, Other","Internet of Things (IoT), Networking, Other",5,senior
+156,North America,Java,"Networking, Database Management, Other",,senior
+157,Asia,"Python, C++, Other",,,not specified
+158,North America,,,,not specified
+159,North America,"JavaScript, Java, Swift, Python, Other","Other, Software Development, Mobile Development",3,mid
+160,North America,Other,"Software Development, Other",,not specified
+161,North America,"Python, C++","Software Development, Other",3,senior
+162,North America,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",,senior
+163,North America,Java,"Web Development, Software Development",,not specified
+164,North America,"Swift, C++","Mobile Development, Other",3,mid
+165,North America,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+166,North America,Other,"DevOps, Software Development, Other",5,senior
+167,Asia,Other,"Cloud Computing, Software Development, Other",,not specified
+168,Asia,Other,"Web Development, Software Development, Other",3,mid
+169,North America,"Python, R","Data Analytics, Database Management",2,mid
+170,North America,Java,"Web Development, Software Development, Networking, Other",5,senior
+171,North America,"C++, Other",Other,,not specified
+172,North America,"C++, Other","Internet of Things (IoT), Networking, Other",3,mid
+173,North America,"C++, Other","Networking, Other",,not specified
+174,North America,,"Web Development, Data Analytics, Cloud Computing, Database Management",5,senior
+175,North America,"Swift, Other","Web Development, Software Development, Cybersecurity",2,mid
+176,North America,"JavaScript, TypeScript","Web Development, DevOps, Database Management, Other",3,mid
+177,North America,"C++, Other",Software Development,6,senior
+178,North America,"C++, Other","Internet of Things (IoT), Networking, Other",5,senior
+179,North America,,,,not specified
+180,North America,,"Software Development, Other",5,senior
+181,North America,"Python, Shell, Perl, C++, Other","Software Development, Other",,not specified
+182,North America,"Python, C++, Other","DevOps, Software Development, Machine Learning/Artificial Intelligence, Other",7,senior
+183,North America,"Python, C++, Other","Mobile Development, Software Development, Other",3,mid
+184,Asia,"Shell, Other","Other, Mobile Development",3,not specified
+185,North America,"Python, C++, Perl, Other","Software Development, Other",,not specified
+186,North America,"JavaScript, Python, Shell","Internet of Things (IoT), Software Development",,not specified
+187,North America,"Perl, Shell, Python","Software Development, Other",3,not specified
+188,North America,Java,"Web Development, Software Development",,not specified
+189,North America,"Ruby, Python, PHP","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",5,senior
+190,North America,,"Cloud Computing, Software Development",,mid
+191,North America,"JavaScript, Java, Python, Ruby, C++, Other","Web Development, Database Management",,not specified
+192,North America,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+193,North America,,"Networking, Other",3,not specified
+194,North America,"Ruby, Python, Shell, Java",Software Development,3,mid
+195,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",5,senior
+196,North America,"JavaScript, Python, Shell, Other",Software Development,,not specified
+197,North America,"Python, C++",Software Development,4,mid
+198,Europe,"JavaScript, PHP, Python, Perl, Ruby, Other","Web Development, Cloud Computing, Database Management, Other",3,not specified
+199,Europe,"Python, C++, Swift, Other","Machine Learning/Artificial Intelligence, Software Development, DevOps, Other",,not specified
+200,North America,Other,"Other, Machine Learning/Artificial Intelligence, Networking, Mobile Development",,not specified
+201,North America,"Python, Scala, Java","Data Analytics, Database Management, Cloud Computing, Web Development, Other",3,mid
+202,North America,"C++, Other","Software Development, Mobile Development",,not specified
+203,North America,,Networking,5,senior
+204,North America,"Python, Swift, Other, Java","DevOps, Database Management, Cybersecurity, Software Development, Web Development, Other",5,senior
+205,North America,,"Software Development, Other",7,senior
+206,North America,"C++, Other","Networking, Other",,not specified
+207,North America,"C++, Other",Software Development,6,senior
+208,North America,"Scala, Java, Python, Ruby, C++","Software Development, Other",4,mid
+209,North America,"C++, Other",Other,,not specified
+210,North America,"C++, Other","Other, Mobile Development",6,senior
+211,North America,"C++, Other","Software Development, Networking, Other",3,mid
+212,North America,"C++, Java","Cloud Computing, Software Development, Other",8,senior
+213,North America,"Python, C++","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+214,Europe,"Swift, Python, Perl, Ruby, C++, Other","Mobile Development, Software Development, Other",,not specified
+215,North America,"Python, Scala, Java","Data Analytics, Cloud Computing, Database Management",,not specified
+216,North America,"Perl, Java","Web Development, Software Development, Database Management, Other",,not specified
+217,North America,,,5,senior
+218,North America,Python,"Software Development, Other",,not specified
+219,North America,Java,Web Development,,not specified
+220,Asia,"Perl, Shell, Python, Go, C++, Other","Other, Software Development, Networking, Cybersecurity",8,senior
+221,North America,"Swift, C++, Other","Web Development, Other",,not specified
+222,North America,"Swift, Python, Other","Cloud Computing, Mobile Development, Software Development, Networking, Other",3,mid
+223,North America,C++,"Software Development, Other",3,mid
+224,Asia,Other,"Software Development, Other",3,not specified
+225,North America,"Swift, C++, Other","Software Development, Networking, Other",,not specified
+226,Asia,"Shell, Other","Software Development, Other",3,mid
+227,North America,"JavaScript, Swift, C++, Other","DevOps, Mobile Development, Cybersecurity, Web Development, Other",5,senior
+228,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",5,senior
+229,North America,"C++, Other","Software Development, Other",4,not specified
+230,North America,"C++, Other","Software Development, Other",5,senior
+231,North America,"Swift, Other","Mobile Development, Other",,mid
+232,North America,"C++, Java","Machine Learning/Artificial Intelligence, Software Development",1,junior
+233,North America,"Python, Other",Software Development,,not specified
+234,North America,"JavaScript, Java","Web Development, Software Development, Database Management",,not specified
+235,North America,Other,"Web Development, Software Development, Other",,not specified
+236,Europe,"Swift, Python, Perl, Ruby, C++, Other","Mobile Development, Software Development, Other",,not specified
+237,North America,"Python, Scala, Java","Data Analytics, Cloud Computing, Database Management",,not specified
+238,North America,"Shell, Go, C++, Python","Machine Learning/Artificial Intelligence, Cloud Computing, Software Development, Networking, Other",,not specified
+239,North America,"C++, Other","Networking, Other",,not specified
+240,North America,"Swift, C++, Python, Other","Software Development, Networking, Other",8,senior
+241,North America,"C++, Other",Other,,mid
+242,North America,Other,"Internet of Things (IoT), Software Development, Other",5,senior
+243,North America,"C++, Other","DevOps, Software Development, Cybersecurity",5,senior
+244,North America,"Python, C++, Perl, Other","Data Analytics, Software Development, Database Management, Other",5,senior
+245,North America,"Python, C++, Other",Machine Learning/Artificial Intelligence,4,senior
+246,Europe,"Swift, Other","Software Development, Database Management, Other",,not specified
+247,North America,,"Cloud Computing, Software Development, Other",,not specified
+248,North America,"Python, C++, Other",,,not specified
+249,North America,"Perl, Java","Web Development, Software Development, Database Management, Other",,senior
+250,North America,"Python, C++, Perl, Other","Internet of Things (IoT), DevOps, Software Development, Other",3,mid
+251,North America,Other,"Software Development, Other",,not specified
+252,North America,"Python, Shell, C++, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",3,mid
+253,Asia,Other,"Internet of Things (IoT), Other",3,not specified
+254,Europe,"Ruby, Python, Shell","DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+255,North America,"JavaScript, Swift, C++, Other","DevOps, Mobile Development, Cybersecurity, Web Development, Other",5,senior
+256,Europe,"C++, Other","Cloud Computing, Software Development, Networking, Other",3,not specified
+257,Asia,"C++, Other",Other,2,not specified
+258,North America,"Python, C++, Perl, Other","Software Development, Other",,not specified
+259,North America,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",4,mid
+260,Asia,"Python, Other","DevOps, Software Development",3,not specified
+261,North America,"C++, Java, Other","Software Development, Networking",,not specified
+262,North America,C++,"Software Development, Other",,not specified
+263,Asia,Other,"Web Development, Software Development",5,senior
+264,North America,"JavaScript, C++, Other","Web Development, Other",2,mid
+265,North America,,"Software Development, Other",,not specified
+266,North America,,"Software Development, Other",5,senior
+267,North America,"C++, Other","Networking, Other",2,mid
+268,North America,Other,,5,senior
+269,North America,Other,"Software Development, Other",5,senior
+270,North America,"Shell, Python, C++, Other","Software Development, Networking, Other",5,senior
+271,North America,"C++, Java",Machine Learning/Artificial Intelligence,1,junior
+272,North America,JavaScript,Web Development,,not specified
+273,North America,,,,not specified
+274,North America,"Swift, Other",Software Development,,not specified
+275,North America,Java,Web Development,,senior
+276,North America,"C++, Java",Machine Learning/Artificial Intelligence,3,mid
+277,North America,"Python, C++, Other",Software Development,,not specified
+278,Asia,"Python, C++, Other",Other,,not specified
+279,Europe,"Java, Python, Swift, Go, C++, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Networking, Other",,senior
+280,North America,"Python, Other",Software Development,,not specified
+281,North America,"JavaScript, Swift, Other","Mobile Development, Other",,not specified
+282,North America,"C++, Other",Other,,not specified
+283,North America,"Swift, Other","Web Development, Human-Computer Interaction, Mobile Development, Other",,not specified
+284,North America,"C++, Other","Software Development, Mobile Development, Other",5,senior
+285,Europe,,Software Development,,not specified
+286,North America,Java,"Networking, Database Management, Other",,senior
+287,Europe,"JavaScript, Scala, Java, Python, C++","Cloud Computing, Software Development, Machine Learning/Artificial Intelligence",,not specified
+288,North America,"JavaScript, Java, Swift, TypeScript, C++, Other","Web Development, Mobile Development",,not specified
+289,North America,"Swift, C++, Other","Other, AR/VR (Augmented Reality/Virtual Reality), Mobile Development",5,senior
+290,Europe,"C++, Other",Other,,not specified
+291,Europe,"C++, Other","Cloud Computing, Software Development, Other",5,senior
+292,North America,"Swift, C++, Other","Data Analytics, Software Development, Other",,not specified
+293,North America,"Python, Shell, Perl, C++, Other","DevOps, Software Development, Other",,not specified
+294,North America,"C++, Java","Data Analytics, Cloud Computing, AR/VR (Augmented Reality/Virtual Reality), Software Development, Ot",,not specified
+295,North America,Java,"Web Development, Database Management",7,senior
+296,North America,C++,Other,5,senior
+297,North America,"Python, C++, Swift, Other","Software Development, Networking",,not specified
+298,North America,"Shell, C++, Other","Data Analytics, Software Development, Other",8,senior
+299,North America,"Python, Go","Database Management, Other",,not specified
+300,North America,"Python, C++, R, Other","Software Development, Database Management",,senior
+301,North America,"Java, Python, Shell, Perl, Other","Cybersecurity, Software Development, Database Management, Other",,not specified
+302,North America,"JavaScript, Java, Python, TypeScript, Go","Cloud Computing, Software Development, Networking, Other",,not specified
+303,North America,"JavaScript, Scala, Java, Perl, Shell, Python, Ruby, Other","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",,not specified
+304,North America,"Python, C++, Other","Software Development, Other",,not specified
+305,North America,"JavaScript, Other","Web Development, Software Development, Other",2,mid
+306,Asia,Other,Software Development,3,mid
+307,North America,"C++, Other","Software Development, Other",,not specified
+308,Asia,Java,Web Development,,mid
+309,North America,,Other,,not specified
+310,North America,Java,Web Development,3,mid
+311,North America,"JavaScript, Swift, Other","Mobile Development, Other",,not specified
+312,North America,"C++, Other",Other,,not specified
+313,North America,"Python, C++, Other",DevOps,,mid
+314,North America,"C++, Other",Software Development,,not specified
+315,North America,"JavaScript, Python, Swift","Cloud Computing, Mobile Development, Software Development, Web Development, Other",,not specified
+316,North America,"Swift, C++, Other","Data Analytics, Database Management, Networking, Other",5,senior
+317,North America,C++,"Internet of Things (IoT), Other, Mobile Development",,not specified
+318,North America,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+319,North America,Java,"Web Development, Other, Database Management, Cybersecurity",8,senior
+320,North America,,"Data Analytics, Software Development, Mobile Development",,not specified
+321,Asia,,"Software Development, Other",,senior
+322,North America,"JavaScript, Swift, Shell, Python, Other","Software Development, Other",,not specified
+323,North America,,"Web Development, Cloud Computing, Software Development, Mobile Development",,not specified
+324,North America,"Swift, Other","Software Development, Other",5,senior
+325,North America,"JavaScript, Python","Other, Software Development, Mobile Development",,not specified
+326,North America,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Network",5,senior
+327,North America,"JavaScript, Scala, Java, Other","Web Development, Human-Computer Interaction, Software Development, Other",,not specified
+328,North America,Other,Software Development,3,mid
+329,North America,Java,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",3,mid
+330,North America,"Perl, Shell, Python, Other","Internet of Things (IoT), Software Development, Other",3,mid
+331,North America,Python,Software Development,,not specified
+332,Asia,Other,"Internet of Things (IoT), Data Analytics, Software Development, Other",,senior
+333,Asia,Other,Software Development,3,not specified
+334,North America,Other,"Internet of Things (IoT), Software Development, Other",8,senior
+335,North America,"C++, Other",Other,3,mid
+336,North America,"Java, Python, Perl, C++, Other","Data Analytics, Database Management, Web Development, Networking, Other",,senior
+337,North America,"C++, Java","Web Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+338,Asia,"C++, Other",Software Development,,not specified
+339,North America,"Ruby, Python, JavaScript, Other","Human-Computer Interaction, Software Development",,not specified
+340,North America,"Python, C++, Other","Software Development, Other",3,mid
+341,North America,"Go, Scala, Python, Other","Cloud Computing, Software Development, Other",7,senior
+342,North America,Java,"Data Analytics, Cloud Computing",5,senior
+343,Asia,Other,"Software Development, Other",,senior
+344,North America,"C++, Other",Other,,senior
+345,North America,,Other,7,senior
+346,North America,C++,"Data Analytics, Other",,not specified
+347,North America,"Python, Shell, Perl, C++, Other","Software Development, Other",5,senior
+348,North America,"C++, Other","Software Development, Other",2,mid
+349,North America,"Scala, Other, Java","DevOps, Cybersecurity, Software Development, Web Development, Other",5,senior
+350,Europe,,,,not specified
+351,Europe,"Python, C++, Other","Other, Software Development, Cybersecurity",,not specified
+352,North America,"Swift, Other","Other, Cloud Computing, Mobile Development",,senior
+353,North America,Java,"Data Analytics, Database Management, Cloud Computing, Web Development, Other",5,not specified
+354,North America,Java,"Database Management, Mobile Development, Cybersecurity, Software Development, Web Development, Other",8,senior
+355,North America,Other,"Machine Learning/Artificial Intelligence, Software Development",,not specified
+356,Europe,"Scala, Java",,,senior
+357,North America,"JavaScript, Python, C#, Java","Web Development, Cloud Computing, Other",,not specified
+358,North America,"C++, Other","Cloud Computing, Software Development, Networking, Other",10,senior
+359,North America,"Other, C++, C#, Java","Web Development, Database Management",2,not specified
+360,Asia,"Python, Swift, Other, Java","Web Development, DevOps, Software Development, Cybersecurity",5,senior
+361,North America,"C++, Other","Other, Software Development, Networking, Cybersecurity",,mid
+362,North America,"JavaScript, Scala, PHP, Java, Python, Ruby, C++, Other","Web Development, Data Analytics, Software Development, Database Management",,not specified
+363,North America,"Python, C++","Data Analytics, DevOps, Cloud Computing, Software Development, Other",5,senior
+364,North America,"Swift, Other","Web Development, Networking, Other",5,senior
+365,Europe,Other,"Machine Learning/Artificial Intelligence, Software Development",,not specified
+366,North America,"Python, Shell, Other, Java","Data Analytics, Other",3,mid
+367,North America,"Scala, Java","Data Analytics, Cloud Computing",,not specified
+368,North America,"Python, C++","Cybersecurity, Software Development, Other",3,not specified
+369,North America,"Python, C++","Machine Learning/Artificial Intelligence, Other",3,senior
+370,North America,"Swift, C++, Other","Other, Software Development, Networking, Mobile Development",5,senior
+371,North America,Java,"Web Development, Cybersecurity, Database Management, Other",8,senior
+372,Asia,"C++, Other","Data Analytics, Software Development, Networking, Other",3,mid
+373,North America,,Other,,not specified
+374,North America,"JavaScript, Python, Swift","Web Development, Cloud Computing, Software Development, Mobile Development",,mid
+375,North America,,Software Development,,not specified
+376,North America,,Other,5,senior
+377,North America,Other,Web Development,,not specified
+378,North America,"C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+379,North America,"Java, Swift, Python, Shell, Ruby, C++, Other","DevOps, Cloud Computing, Mobile Development, Software Development, Web Development, Other",3,mid
+380,North America,Python,"Networking, Other",2,mid
+381,North America,"Scala, Java, Perl, Python, Ruby","DevOps, Software Development, Other",4,mid
+382,North America,"JavaScript, Python, Swift","Web Development, Cloud Computing, Software Development, Mobile Development",,not specified
+383,North America,Other,"Software Development, Mobile Development",,not specified
+384,North America,Other,,,not specified
+385,North America,"Java, Python, Shell, Perl, C++, Other","Data Analytics, Database Management, Web Development, Networking, Other",,senior
+386,North America,"Swift, Other","Human-Computer Interaction, Other, Software Development, Mobile Development",,not specified
+387,North America,Swift,"Software Development, Mobile Development",,not specified
+388,North America,"Python, Swift, Other, Java","Web Development, Cybersecurity, DevOps, Other",5,senior
+389,North America,"Ruby, Python, Swift, Other","Web Development, Networking, Other",,not specified
+390,North America,Java,"Database Management, Software Development, Web Development, Networking, Other",,senior
+391,North America,"Java, Python, Ruby, C++, Other","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+392,North America,"JavaScript, Python, Swift","Cloud Computing, Mobile Development, Software Development, Web Development, Other",,not specified
+393,North America,,Other,7,senior
+394,North America,"Python, C++",Other,,not specified
+395,North America,Other,Other,,not specified
+396,North America,"JavaScript, Java, Python, TypeScript, Go","Database Management, Cloud Computing, Networking, Other",,not specified
+397,North America,"Scala, Java","Data Analytics, Cloud Computing",,not specified
+398,North America,"C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+399,North America,"JavaScript, Python, Shell","Internet of Things (IoT), Software Development",,not specified
+400,North America,"JavaScript, Python, Swift","Web Development, Cloud Computing, Software Development, Mobile Development",,not specified
+401,North America,"Python, Other",Software Development,5,senior
+402,North America,"Other, C++, Java","DevOps, Software Development, Mobile Development",3,senior
+403,North America,"Other, Scala, Java","Web Development, DevOps, Software Development, Other",5,senior
+404,North America,"JavaScript, Scala, Java, Python, Shell","DevOps, Software Development",,not specified
+405,North America,"Perl, Shell, Python, C++, Other","DevOps, Software Development, Other",,not specified
+406,Asia,Python,"Software Development, Database Management",3,not specified
+407,North America,,Other,5,senior
+408,North America,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+409,North America,"Swift, C++, Java, Other","Software Development, Networking, Other",,not specified
+410,North America,"Ruby, Python, Scala","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",,not specified
+411,North America,Other,"Mobile Development, Software Development, Other",,not specified
+412,North America,"JavaScript, Java, Python, Ruby, Other","Software Development, Other",,not specified
+413,Europe,,,,not specified
+414,North America,Other,"Software Development, Other",,not specified
+415,North America,"JavaScript, Other",Web Development,,mid
+416,North America,"Scala, Java","Data Analytics, Cloud Computing, Database Management, Other",2,mid
+417,North America,,"Data Analytics, Software Development, Mobile Development",,senior
+418,North America,"Swift, C++, Other","Software Development, Other",,not specified
+419,North America,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5,senior
+420,North America,"Python, C++, Other","DevOps, Software Development",5,senior
+421,North America,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+422,North America,,"Cybersecurity, Software Development, Web Development, Networking, Other",,not specified
+423,North America,"JavaScript, Other, Java","Other, Data Analytics, Software Development, Mobile Development",5,not specified
+424,North America,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+425,North America,"JavaScript, Other, Java","Mobile Development, Software Development, Other",1,not specified
+426,North America,"JavaScript, Swift, Python","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Mobile Developm",3,mid
+427,North America,,,2,mid
+428,North America,"Swift, C++, Java, Other","Software Development, Mobile Development",,not specified
+429,North America,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+430,North America,"JavaScript, Other","Web Development, Other",5,senior
+431,North America,,"Networking, Other",5,senior
+432,North America,"C++, Other","Software Development, Other",,not specified
+433,North America,"Java, Python, Ruby, C++, Other","Web Development, Other",,senior
+434,North America,"JavaScript, Swift, C++, Other",,,not specified
+435,North America,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+436,North America,"Scala, Java, Python, Ruby, Go, C++","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",5,senior
+437,North America,Java,"Data Analytics, Database Management, Cloud Computing, Web Development, Other",5,senior
+438,North America,"Python, Java","Data Analytics, Other",,senior
+439,North America,Java,Web Development,3,mid
+440,North America,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+441,North America,"Swift, Other","Machine Learning/Artificial Intelligence, Software Development, Other",6,senior
+442,Asia,,"Internet of Things (IoT), Software Development, Other",5,senior
+443,North America,Java,"Web Development, Data Analytics, Cloud Computing, Database Management",5,senior
+444,North America,"C++, Other",Other,,not specified
+445,North America,,"Other, Mobile Development",5,senior
+446,North America,"JavaScript, Other, Java","Software Development, Mobile Development, Other",1,mid
+447,North America,"Python, C++, Swift, Other","DevOps, Software Development, Other",,not specified
+448,North America,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+449,North America,Java,"Web Development, Software Development",5,not specified
+450,North America,"Scala, Java, Python, Ruby, C++","Software Development, Other",4,senior
+451,North America,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",3,senior
+452,North America,"JavaScript, Other, Java","Mobile Development, Software Development, Other",4,mid
+453,North America,Java,"DevOps, Database Management, Software Development, Web Development, Other",10,senior
+454,North America,"Other, Java","Cloud Computing, Software Development, Database Management, Other",,not specified
+455,North America,"Python, C++, Swift, Other","Software Development, Other",2,not specified
+456,North America,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",,senior
+457,North America,,"Machine Learning/Artificial Intelligence, Software Development",5,senior
+458,North America,,Other,,senior
+459,North America,"C++, Other",Other,3,mid
+460,North America,,,,mid
+461,North America,"Python, Perl, Shell, Ruby, C++, Other","Software Development, Networking, Other",7,senior
+462,North America,"JavaScript, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+463,North America,"Swift, C++, Other","Other, Mobile Development",,not specified
+464,North America,"Swift, Other",Mobile Development,,not specified
+465,North America,"Java, Other",Mobile Development,,not specified
+466,North America,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5,senior
+467,North America,"Python, Other","Networking, Mobile Development, Database Management, Other",3,mid
+468,North America,Other,Software Development,,not specified
+469,North America,,"Other, Mobile Development",,not specified
+470,North America,Other,"Human-Computer Interaction, Software Development, Networking, Other",1,mid
+471,North America,"Python, Other","Software Development, Other",,not specified
+472,North America,"Python, Shell, Other",Other,5,senior
+473,North America,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,mid
+474,North America,"Python, Shell, Perl, Ruby, Go","DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+475,North America,"Other, C++, Java","Database Management, Other",,senior
+476,North America,Other,"Software Development, Networking, Other",5,senior
+477,North America,"Ruby, Python, C++, Java","DevOps, Mobile Development, Software Development, Other",,not specified
+478,North America,"C++, Other","Other, Mobile Development",,not specified
+479,North America,"Scala, Java, Python, Ruby, C++","Software Development, Other",4,senior
+480,North America,"JavaScript, Swift, Python","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Mobile Developm",3,mid
+481,North America,,"Web Development, Data Analytics, Mobile Development, Other",7,senior
+482,North America,"Python, C++, Other","Software Development, Other",,not specified
+483,North America,"C++, Java, Other","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Web Development, Net",,not specified
+484,North America,"Java, Python, Perl, Go, C++","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+485,North America,"Go, Python, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,not specified
+486,North America,"JavaScript, Other","DevOps, Database Management, Software Development, Web Development, Other",9,senior
+487,North America,Java,"Web Development, Software Development, Mobile Development, Other",5,senior
+488,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5,senior
+489,North America,"Scala, Java, Python, Ruby, Go, C++","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",5,senior
+490,North America,"Scala, Java, Python, Ruby, Go, C++, Other","Data Analytics, Software Development, Database Management, Other",5,senior
+491,North America,"Scala, Swift, Other, Java","Software Development, Other",5,senior
+492,North America,"Python, Perl, Ruby, C++, Other","Software Development, Other",,not specified
+493,North America,"C++, Other","Software Development, Other",,not specified
+494,North America,,,,not specified
+495,North America,"Swift, Other","Software Development, Other",,not specified
+496,North America,"Python, Java","Web Development, Software Development, Mobile Development, Other",,not specified
+497,North America,"JavaScript, Other, Java","Other, Data Analytics, Software Development, Mobile Development",5,mid
+498,North America,"Swift, Other","Human-Computer Interaction, Other, Mobile Development",,not specified
+499,North America,"Python, C++, Java, Other","Web Development, Software Development, Other",,not specified
+500,North America,"C++, Other","Software Development, Networking, Other",4,senior
+501,North America,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+502,North America,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+503,North America,,"Other, Blockchain, Cybersecurity",7,senior
+504,North America,"JavaScript, Other, Java","Other, Data Analytics, Software Development, Mobile Development",5,not specified
+505,North America,,Machine Learning/Artificial Intelligence,5,senior
+506,North America,,,,not specified
+507,North America,"Python, C++, Other","Software Development, Mobile Development, Other",,not specified
+508,North America,"JavaScript, Python, Perl, C++, Other",DevOps,2,mid
+509,North America,"Swift, Other","Data Analytics, Mobile Development, Software Development, Human-Computer Interaction, Other",,not specified
+510,North America,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",5,senior
+511,North America,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",5,senior
+512,North America,C++,"Other, Software Development, Mobile Development",,not specified
+513,North America,"JavaScript, Swift, TypeScript, Other",,,not specified
+514,North America,Other,"Software Development, Networking, Other",5,senior
+515,North America,Java,Web Development,3,mid
+516,North America,"C++, Other","Cybersecurity, Software Development, Other",,not specified
+517,North America,C++,Other,,not specified
+518,North America,"Python, C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+519,Asia,"Python, C++, Other","Cybersecurity, Software Development, Networking, Other",3,not specified
+520,North America,"Scala, Java, Python, Ruby, Go, C++, Other","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",5,senior
+521,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development",5,senior
+522,North America,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",7,senior
+523,North America,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Other",,not specified
+524,North America,"JavaScript, Java, Python, Ruby, C++, Other","Data Analytics, Cloud Computing, Software Development",,not specified
+525,North America,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+526,North America,"Scala, Java, Python, Ruby, C++","Software Development, Other",4,not specified
+527,North America,"JavaScript, Swift, Shell, Python, Other","Software Development, Other",5,senior
+528,North America,Other,"Software Development, Database Management, Mobile Development",2,mid
+529,North America,"Python, C++, Other","Internet of Things (IoT), Software Development, Other",,not specified
+530,North America,"JavaScript, Python, Ruby, C++, Other",Software Development,2,mid
+531,North America,Python,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+532,North America,,"Web Development, Database Management",,not specified
+533,North America,"Swift, Other","Web Development, Cloud Computing, Software Development",5,senior
+534,North America,Java,"Data Analytics, Software Development, Database Management, Other",,senior
+535,North America,"JavaScript, Java","DevOps, Database Management, Software Development, Web Development, Other",,not specified
+536,North America,Other,"Cloud Computing, Database Management, Other",,not specified
+537,North America,Other,"Software Development, Other",,senior
+538,North America,,"Machine Learning/Artificial Intelligence, Software Development, Networking, Other",,senior
+539,North America,"Python, Other","Software Development, Other",,not specified
+540,North America,Java,Web Development,5,senior
+541,North America,Java,"DevOps, Database Management, Cloud Computing, Web Development, Other",,not specified
+542,North America,,"Software Development, Other",,not specified
+543,Asia,"Scala, Python, Java","Data Analytics, Other",6,senior
+544,North America,"Python, C++, Swift, Other","DevOps, Software Development, Other",,not specified
+545,North America,"Scala, Java, Python, Ruby, Go, C++, Other","Data Analytics, Software Development, Database Management, Other",5,senior
+546,North America,"JavaScript, PHP, Python, Perl, Ruby, Other","Web Development, Mobile Development, Other",,not specified
+547,North America,"JavaScript, C++","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",2,mid
+548,North America,,"Machine Learning/Artificial Intelligence, Mobile Development, Other",,not specified
+549,Asia,Other,"Software Development, Other",,senior
+550,North America,"Swift, Java, Scala, Other","Web Development, Other, Software Development, Mobile Development",,mid
+551,North America,"Swift, Other","Software Development, Other",5,senior
+552,North America,Java,"Software Development, Mobile Development",5,senior
+553,North America,,"Machine Learning/Artificial Intelligence, Other",,mid
+554,North America,"Python, Java","Web Development, DevOps, Mobile Development, Other",7,senior
+555,North America,"JavaScript, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Web ",,senior
+556,North America,"C++, Other","Mobile Development, Software Development, Other",,not specified
+557,North America,"JavaScript, Python","Internet of Things (IoT), DevOps, Mobile Development",,not specified
+558,North America,Java,"DevOps, Database Management, Software Development, Web Development, Other",,senior
+559,North America,Java,"DevOps, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+560,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+561,North America,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Other",5,not specified
+562,North America,"Java, Python, Ruby, C++, Other","Web Development, Software Development, Other",,senior
+563,North America,"Scala, Other, Java","Web Development, Data Analytics, DevOps, Database Management",5,senior
+564,North America,"Swift, Java, Scala, Other","Data Analytics, Mobile Development, Software Development, Web Development, Other",,not specified
+565,North America,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+566,North America,,"Data Analytics, Machine Learning/Artificial Intelligence",,senior
+567,North America,"Python, Scala, Other","Data Analytics, Database Management, Cloud Computing, Internet of Things (IoT), Other",,not specified
+568,North America,Java,"Web Development, Cloud Computing, Software Development, Database Management",5,senior
+569,North America,Java,Web Development,10,senior
+570,North America,"Java, Python, Shell, Perl, Other","Software Development, Mobile Development, Other",2,mid
+571,North America,Swift,"Mobile Development, Software Development, Database Management, Other",3,mid
+572,North America,"Scala, Java, Python, Go, C++","Cloud Computing, Software Development",,not specified
+573,North America,"Swift, Other","Web Development, Human-Computer Interaction",,not specified
+574,North America,,,,not specified
+575,North America,,"Web Development, Software Development, Other",5,senior
+576,North America,"C++, Other","Internet of Things (IoT), Data Analytics, Other",,not specified
+577,North America,,"Web Development, Software Development",,not specified
+578,North America,"JavaScript, Swift, TypeScript, Other","Web Development, Software Development",,not specified
+579,North America,"Scala, C#, Other, Java","Database Management, Software Development, Networking",5,senior
+580,North America,"JavaScript, Java, Perl, Shell, Python","DevOps, Database Management, Mobile Development, Software Development, Web Development, Networking, ",5,senior
+581,North America,"C++, Other","Mobile Development, Other",5,senior
+582,North America,,Other,,not specified
+583,North America,JavaScript,"Web Development, Other",,not specified
+584,Asia,Other,Other,,senior
+585,North America,"Scala, Java","Web Development, Software Development",5,senior
+586,Asia,"JavaScript, Java, Python, Shell, Perl","DevOps, Database Management, Mobile Development, Software Development, Web Development, Networking, ",5,senior
+587,North America,"Scala, Python, Java","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",3,mid
+588,North America,"JavaScript, Scala, Other, Java","Web Development, Data Analytics, Software Development, Database Management",5,not specified
+589,North America,,Other,10,senior
+590,North America,"C++, Other","Other, DevOps, Software Development, Mobile Development",,not specified
+591,North America,Other,Cybersecurity,3,mid
+592,North America,"JavaScript, Scala, Java","Web Development, Data Analytics, Software Development, Database Management",5,senior
+593,North America,"Swift, Other","Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,senior
+594,North America,"Go, Other","Cloud Computing, DevOps, Software Development",,senior
+595,North America,"C++, Other","Software Development, Networking, Other",,not specified
+596,North America,"Swift, Other","Web Development, Human-Computer Interaction",,not specified
+597,North America,"Scala, Python, Java","Web Development, Data Analytics, Cloud Computing, Database Management",6,senior
+598,North America,"Java, Python, Shell, Perl, Other","Software Development, Mobile Development, Other",3,not specified
+599,North America,"Python, C++, Other","Other, Mobile Development",,not specified
+600,North America,Other,"Web Development, Database Management, Networking, Other",,not specified
+601,North America,"Scala, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Database Management",5,senior
+602,North America,"Scala, Java","Data Analytics, Software Development, Database Management",5,senior
+603,North America,"Perl, Shell, Python",Software Development,,not specified
+604,Asia,"Scala, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",5,mid
+605,North America,,"Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,mid
+606,North America,Java,"Database Management, Cloud Computing, Software Development, Web Development, Other",5,senior
+607,North America,,"Software Development, Other",,not specified
+608,Asia,,"Software Development, Other",6,senior
+609,North America,"Scala, Java, Python, Ruby, Go, C++","Data Analytics, Software Development, Database Management, Other",5,senior
+610,North America,Java,"Data Analytics, Other",,senior
+611,North America,"Scala, Python, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",3,mid
+612,North America,Java,"Web Development, Software Development",10,senior
+613,North America,C++,"Other, Data Analytics, Software Development, Mobile Development",,not specified
+614,Asia,Java,"Cloud Computing, DevOps, Other",,not specified
+615,Asia,"Python, C++, Java, Other","Mobile Development, Software Development, Networking, Other",5,senior
+616,North America,"Scala, Other, Java","Web Development, Data Analytics, DevOps, Other",5,senior
+617,North America,"JavaScript, Swift, Other","Web Development, Software Development, Database Management, Other",3,mid
+618,North America,"C++, Java","Cybersecurity, Cloud Computing, Database Management, Other",4,senior
+619,North America,"Python, C++, Other","Other, Software Development, Mobile Development",,not specified
+620,North America,"C++, Other","Other, DevOps, Software Development, Mobile Development",,not specified
+621,North America,"C++, Other","Other, Mobile Development",6,senior
+622,North America,"C++, Other","Software Development, Other",,not specified
+623,North America,Other,"Internet of Things (IoT), Software Development, Other",,senior
+624,Europe,"C++, Other","Software Development, Other",,not specified
+625,North America,"Python, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",,senior
+626,North America,"JavaScript, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",,not specified
+627,North America,Java,"Cloud Computing, Database Management, Other",5,senior
+628,North America,"Ruby, Perl, PHP, Python","Web Development, Software Development, Database Management",4,mid
+629,North America,"JavaScript, Java","Web Development, Other",5,senior
+630,North America,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, Other",,not specified
+631,North America,Java,"Web Development, Software Development",,senior
+632,North America,"JavaScript, Python, Java","DevOps, Cloud Computing, Software Development, Web Development, Other",,senior
+633,North America,"Python, Java","Web Development, Software Development, Database Management, Other",5,senior
+634,North America,Java,"Data Analytics, DevOps, Database Management, Software Development, Other",,senior
+635,North America,Java,"Web Development, Software Development, Database Management, Other",,not specified
+636,North America,"C++, Java","Cybersecurity, Cloud Computing, Database Management, Other",4,senior
+637,North America,"Python, Other",Other,,not specified
+638,North America,"C++, Java","Database Management, Cloud Computing, Cybersecurity, Web Development, Other",4,senior
+639,Europe,"Ruby, Python, Shell, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Other",,not specified
+640,North America,"C++, Other","Software Development, Other",5,senior
+641,North America,Java,"Web Development, Data Analytics, Software Development, Database Management",,not specified
+642,Asia,"Python, C++, Other","Software Development, Other",,not specified
+643,Europe,Java,"Web Development, Database Management, Software Development, Networking",,not specified
+644,North America,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",5,senior
+645,North America,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Web Development, Other",,not specified
+646,North America,"Swift, Other",Cybersecurity,,not specified
+647,North America,Other,Software Development,,not specified
+648,North America,Java,Web Development,,not specified
+649,North America,"Scala, Java, Perl, Python, Other","Data Analytics, Other",3,not specified
+650,North America,"JavaScript, Python, Java","Database Management, Cloud Computing, Cybersecurity, Software Development, Web Development, Other",5,mid
+651,North America,Java,"Database Management, Cloud Computing, Software Development, Web Development, Networking, Other",5,senior
+652,Asia,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",8,senior
+653,North America,"Python, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+654,North America,"Scala, Java","Data Analytics, Database Management, Cloud Computing, Web Development, Other",,senior
+655,North America,"C++, Other","Software Development, Other",,not specified
+656,North America,Java,"Database Management, Software Development, Web Development, Networking, Other",5,senior
+657,Europe,"Python, C++, Java, Other","DevOps, Software Development, Other",,not specified
+658,North America,,,5,senior
+659,North America,"JavaScript, Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",3,mid
+660,North America,Java,Web Development,3,mid
+661,Europe,"JavaScript, Swift, C++, Other","Web Development, Other, Mobile Development, Cybersecurity",,not specified
+662,Europe,"JavaScript, Swift, TypeScript, Other","Data Analytics, Other",,senior
+663,North America,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+664,North America,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, Other",,not specified
+665,North America,"Scala, C++, Java","Web Development, DevOps, Software Development, Cloud Computing",10,senior
+666,Asia,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+667,North America,"Scala, Other, Java","Data Analytics, Cloud Computing, Database Management, Other",,senior
+668,North America,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+669,North America,"Java, Python, Ruby, C++, Other","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+670,North America,"Ruby, Python, Shell, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",6,senior
+671,Europe,"Python, C++, Other","Cybersecurity, Other",,not specified
+672,North America,Java,"Database Management, Software Development, Web Development, Networking, Other",5,senior
+673,North America,"JavaScript, Python, Java","Database Management, Cloud Computing, Cybersecurity, Software Development, Web Development, Other",5,senior
+674,North America,Java,"Web Development, Cloud Computing, Database Management",10,senior
+675,North America,"Scala, Python, Java","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",3,mid
+676,North America,,"Web Development, Cloud Computing, Database Management, Networking",5,mid
+677,Europe,"Python, Swift, Perl, Ruby, C++, Other","DevOps, Software Development, Human-Computer Interaction, Networking, Other",,not specified
+678,North America,Java,"Web Development, Data Analytics",5,senior
+679,Asia,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",5,senior
+680,Europe,"Python, Swift, Perl, Ruby, C++, Other","DevOps, Software Development, Human-Computer Interaction, Networking, Other",,not specified
+681,Europe,"Python, Swift, Perl, Ruby, C++, Other","DevOps, Software Development, Web Development, Human-Computer Interaction, Networking, Other",,not specified
+682,North America,Java,"Database Management, Software Development, Web Development, Networking, Other",5,senior
+683,North America,Java,"Database Management, Software Development, Web Development, Networking, Other",5,senior
+684,North America,"Python, Scala, Java","Data Analytics, Cloud Computing, Machine Learning/Artificial Intelligence, Other",,not specified
+685,Asia,"Python, C++, Other",Software Development,2,not specified
+686,Asia,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+687,North America,,"Machine Learning/Artificial Intelligence, Software Development, Other",5,senior
+688,North America,,"Cloud Computing, Software Development, Other",8,senior
+689,Asia,"Scala, Java","Data Analytics, Software Development, Database Management",5,senior
+690,North America,Java,"Web Development, Cloud Computing",10,senior
+691,Europe,"Kotlin, Java","DevOps, Database Management, Software Development, Web Development, Other",,senior
+692,North America,"Scala, Python, Java","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",3,mid
+693,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",5,senior
+694,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+695,Asia,"Python, C++, Other","Software Development, Other",,not specified
+696,North America,"Swift, C++, Other","Other, Software Development, Networking, Mobile Development",,not specified
+697,North America,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Web Development, Other",,senior
+698,Asia,"Scala, Java","Data Analytics, Software Development, Database Management",5,senior
+699,North America,Python,"Software Development, Database Management",,not specified
+700,Asia,Other,"Internet of Things (IoT), Other",3,not specified
+701,North America,,"Web Development, Software Development, Networking, Other",8,senior
+702,North America,"Scala, Java","Web Development, Data Analytics, Database Management, Other",5,senior
+703,North America,"Ruby, JavaScript, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Networking, Othe",7,senior
+704,North America,"Scala, Java","Web Development, Data Analytics, Database Management, Other",5,senior
+705,North America,"Scala, C++, Java",Data Analytics,,senior
+706,North America,"Swift, C++, Other","Other, Software Development, Networking, Mobile Development",,not specified
+707,Asia,"Shell, Python, C++, Other","Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Mobile Development, ",5,senior
+708,North America,Other,"Data Analytics, Software Development, Database Management, Other",10,senior
+709,North America,Java,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+710,North America,,"Database Management, Other",,not specified
+711,Asia,,Machine Learning/Artificial Intelligence,4,not specified
+712,North America,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+713,Europe,"Scala, Java","Data Analytics, Cloud Computing",,not specified
+714,North America,"Other, Java","Web Development, Database Management, Other",,senior
+715,North America,,"Data Analytics, Other",,not specified
+716,Europe,,"Mobile Development, Software Development, Networking, Other",,not specified
+717,North America,,Other,10,senior
+718,North America,"Swift, Other",Software Development,5,senior
+719,North America,"Swift, Other","Software Development, Other",5,senior
+720,North America,,Other,3,mid
+721,North America,"Python, Shell, Other","Software Development, Mobile Development, Other",,not specified
+722,North America,"Ruby, Python, Other",Data Analytics,,not specified
+723,North America,"JavaScript, Python, Scala","Software Development, Mobile Development, Other",,not specified
+724,North America,C++,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+725,Asia,Shell,"Software Development, Other",,not specified
+726,Asia,"Java, Other","Software Development, Other",,not specified
+727,North America,JavaScript,"Web Development, DevOps, Software Development, Other",,not specified
+728,North America,JavaScript,"Web Development, DevOps, Software Development, Other",,not specified
+729,North America,"Python, Shell, Java",Data Analytics,10,senior
+730,North America,Swift,"Web Development, Other, Software Development, Mobile Development",,not specified
+731,Europe,C++,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+732,Asia,"C++, C#, Other","Data Analytics, Other",5,senior
+733,Europe,"Other, Java","Database Management, Cybersecurity, Web Development, Networking, Other",,senior
+734,North America,"Swift, Other","Data Analytics, DevOps, Mobile Development, Cybersecurity, Software Development, Web Development, Ot",6,senior
+735,North America,C++,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+736,North America,,"Networking, Other",6,senior
+737,North America,,Other,,not specified
+738,Asia,"JavaScript, PHP, Perl, Shell, Python, Ruby, Other","Web Development, DevOps, Software Development, Other",5,senior
+739,North America,"JavaScript, Scala, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",,not specified
+740,North America,,,5,senior
+741,North America,,Other,,not specified
+742,North America,"Scala, Other","Web Development, Database Management, Other",,not specified
+743,North America,"C++, Other",,,not specified
+744,Asia,Other,Other,,not specified
+745,North America,"JavaScript, Python, Shell","Internet of Things (IoT), Software Development",,not specified
+746,North America,,"Software Development, Other",5,senior
+747,North America,"JavaScript, Python, Ruby, Other","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Networking, Other",,not specified
+748,North America,"Python, C++, Other","Machine Learning/Artificial Intelligence, Software Development, DevOps, Other",,senior
+749,North America,,"Internet of Things (IoT), Cybersecurity, Blockchain, Other",,senior
+750,North America,"JavaScript, Other","Web Development, Software Development, Other",7,senior
+751,North America,"Python, Other, Scala, Java","Cloud Computing, Database Management, Other",,not specified
+752,Asia,Other,Other,,not specified
+753,North America,"Python, Swift, C++","Software Development, Other",,not specified
+754,North America,"Python, C++, Other","DevOps, Database Management",5,senior
+755,North America,,Other,5,senior
+756,North America,"JavaScript, Scala, R, Java, Perl, Shell, Python, C++","Data Analytics, Database Management",3,not specified
+757,Asia,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+758,North America,"Swift, Other","Other, Software Development, Mobile Development",,not specified
+759,North America,"Python, Other, Scala, Java","Cloud Computing, DevOps, Database Management, Other",,not specified
+760,Europe,"JavaScript, Python, Shell, Swift, Other",Software Development,,not specified
+761,North America,"C++, Other","Web Development, Other",,not specified
+762,North America,"Python, R, Other","Data Analytics, Machine Learning/Artificial Intelligence",2,not specified
+763,North America,"Python, R","Data Analytics, Other",,senior
+764,North America,Other,"Web Development, Data Analytics, Other",5,mid
+765,North America,Other,"Other, Software Development, Cybersecurity",,not specified
+766,North America,"Python, Other",Other,,not specified
+767,North America,"Other, C++, C#, Java","Other, Software Development, Mobile Development",,not specified
+768,Asia,Other,"Internet of Things (IoT), Other",3,not specified
+769,North America,"Other, Java","Software Development, Other",,not specified
+770,North America,"Other, Java","Database Management, Cybersecurity, Software Development, Networking, Other",,not specified
+771,North America,"C++, Other","Internet of Things (IoT), Software Development, Other",,not specified
+772,North America,,Software Development,5,senior
+773,North America,"Python, R","Data Analytics, Cloud Computing, Database Management",,senior
+774,North America,"Perl, Shell","Mobile Development, Software Development, Other",,not specified
+775,North America,"C++, Other","Software Development, Other",,not specified
+776,North America,"C++, Other","Software Development, Other",,not specified
+777,North America,"Python, Other",Other,,not specified
+778,North America,Other,"Software Development, Other",,not specified
+779,North America,"C++, Other","Web Development, Cloud Computing, Other",,not specified
+780,North America,"Ruby, Python, Shell, Go","DevOps, Software Development, Other",,senior
+781,North America,Java,"Cybersecurity, Software Development, Networking, Other",,not specified
+782,North America,,Software Development,5,senior
+783,North America,"Other, Java","DevOps, Database Management, Software Development, Web Development, Other",5,senior
+784,North America,"Python, C++",Other,,not specified
+785,North America,"Python, R","Database Management, Other",,senior
+786,North America,"C++, Other","Internet of Things (IoT), Other",,not specified
+787,North America,,Other,,not specified
+788,Asia,Other,"Internet of Things (IoT), Software Development, Other",3,not specified
+789,North America,"Python, C++, Other","Software Development, Mobile Development, Other",,not specified
+790,North America,"Ruby, Perl, Python","Other, Software Development, Mobile Development",,not specified
+791,North America,"Perl, C++, Python, Other","Cybersecurity, Other",5,senior
+792,North America,Other,"Web Development, Other, Cybersecurity",,not specified
+793,North America,,Other,8,senior
+794,North America,Other,"DevOps, Software Development, Other",,not specified
+795,North America,"C++, Other","Software Development, Other",5,mid
+796,North America,,"Mobile Development, Software Development, Other",1,not specified
+797,North America,,"Software Development, Other",3,senior
+798,North America,"Python, C++, Other","Software Development, Mobile Development, Other",,not specified
+799,North America,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+800,North America,JavaScript,"Web Development, Data Analytics, Cloud Computing, Software Development",,not specified
+801,North America,"Ruby, Python, Shell, Perl","DevOps, Software Development",,not specified
+802,North America,"Python, Java","Data Analytics, Database Management, Software Development, Web Development, Other",,not specified
+803,North America,"C++, Other","Software Development, Other",,not specified
+804,North America,"Perl, Python, Ruby, C++, Other","Web Development, Cybersecurity, Software Development, Other",5,senior
+805,North America,"JavaScript, Java","Data Analytics, Database Management, Cybersecurity, Software Development, Web Development, Other",,senior
+806,North America,,Software Development,5,senior
+807,Europe,Python,Other,,mid
+808,North America,"C++, Other",Other,3,mid
+809,North America,"Python, Java","Data Analytics, DevOps, Database Management, Mobile Development, Software Development, Other",4,senior
+810,North America,"C++, Other","Internet of Things (IoT), Other",3,mid
+811,North America,"Python, C++, Java, Other","Machine Learning/Artificial Intelligence, Networking, Other",5,senior
+812,North America,"JavaScript, Python, Shell, Ruby, C++, Other","DevOps, Software Development, Other",,not specified
+813,North America,"JavaScript, Python, Swift, Ruby, C++, Other",Software Development,,not specified
+814,North America,"Python, C++, Swift, Other","Machine Learning/Artificial Intelligence, Software Development",,not specified
+815,North America,Other,"DevOps, Software Development",,not specified
+816,North America,,Other,5,senior
+817,North America,,"Software Development, Other",,mid
+818,North America,"Python, Shell","DevOps, Software Development, Other",3,mid
+819,North America,Other,"Software Development, Other",,not specified
+820,North America,Other,"Software Development, Other",,not specified
+821,Asia,"JavaScript, Other","Database Management, Cloud Computing, Software Development, Web Development, Other",8,senior
+822,North America,"C++, Other","Software Development, Other",,not specified
+823,North America,Python,"Web Development, Machine Learning/Artificial Intelligence, Software Development",,not specified
+824,North America,Other,"Web Development, Cybersecurity, Other",,not specified
+825,North America,"Python, Shell, Perl, C++, Other","DevOps, Software Development, Other",,not specified
+826,North America,,"DevOps, Software Development, Other",7,senior
+827,North America,"Swift, C++, Java, Other","Other, Cloud Computing, Software Development, Mobile Development",,not specified
+828,North America,Other,Other,5,senior
+829,Asia,,Other,5,senior
+830,North America,,Software Development,,not specified
+831,North America,"Python, C++, Other","Software Development, Other",,not specified
+832,North America,C++,"Cloud Computing, Software Development, Other",,mid
+833,North America,,"Software Development, Other",4,not specified
+834,North America,"C++, Other","Software Development, Other",,not specified
+835,North America,Python,"Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+836,North America,"Python, Java","Data Analytics, Software Development, Database Management, Other",,not specified
+837,North America,"C++, Other",Other,,not specified
+838,North America,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+839,North America,,"Blockchain, Other",,not specified
+840,North America,,"Web Development, Other",6,senior
+841,North America,"Ruby, Python, Shell, Go","DevOps, Other",,senior
+842,North America,"Python, Shell, Other","Data Analytics, DevOps, Cloud Computing, Software Development, Other",,senior
+843,North America,,"Machine Learning/Artificial Intelligence, Other",5,senior
+844,North America,"C++, Other","Mobile Development, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",6,senior
+845,North America,,,,not specified
+846,North America,"PHP, Java, Swift, Python, Perl, Shell, Ruby, C++, Other","Web Development, Other, Cloud Computing, Cybersecurity",10,senior
+847,North America,"Java, Python, Perl, Ruby, Go","Cloud Computing, DevOps, Software Development, Other",5,senior
+848,North America,"C++, Other","Software Development, Other",,senior
+849,Europe,"Python, Other","Other, Software Development, Cybersecurity",,not specified
+850,Europe,"Python, C++",Other,,not specified
+851,North America,"JavaScript, Java","Web Development, Software Development, Database Management, Other",5,senior
+852,Europe,Other,"Cybersecurity, Software Development, Other",,not specified
+853,North America,,"Internet of Things (IoT), Software Development, Other",,not specified
+854,North America,C++,Other,5,senior
+855,Asia,Python,"Software Development, Networking, Other",7,senior
+856,Asia,"Java, Swift, Python, C++, Other","Networking, Other",2,mid
+857,North America,"C++, Other","Software Development, Mobile Development, Other",,not specified
+858,North America,Python,"DevOps, Software Development",,senior
+859,Europe,,"DevOps, Software Development",3,mid
+860,Europe,"Python, C++, Go, Java","Data Analytics, Software Development, Other",,not specified
+861,North America,"Perl, Shell, Python, C++, Other","Software Development, Other",,mid
+862,North America,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+863,North America,"Ruby, Python, JavaScript, Other","Other, Cybersecurity",,not specified
+864,North America,"Swift, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+865,North America,"JavaScript, Python, Java, Other","Web Development, DevOps, Software Development, Other",4,mid
+866,North America,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Software Development, Web Development, O",,senior
+867,North America,"JavaScript, Python, Go","Data Analytics, Database Management, Software Development, Web Development, Other",,senior
+868,North America,Shell,"Cloud Computing, DevOps, Other",5,senior
+869,North America,"Perl, Shell, Python, C++, Other",Other,,not specified
+870,North America,"Python, C++","Data Analytics, Machine Learning/Artificial Intelligence, Other",3,mid
+871,North America,C++,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+872,North America,,"Web Development, Other",4,senior
+873,Asia,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Software Development, Web Development, O",,senior
+874,North America,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development",,senior
+875,North America,"Python, Swift, C++, Other","Software Development, Other",,not specified
+876,North America,"Swift, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+877,North America,"C++, Java","Web Development, Data Analytics, Software Development, Other",,not specified
+878,North America,"C++, Java","Web Development, Data Analytics, Software Development, Other",,senior
+879,North America,"Swift, C++, Other",Machine Learning/Artificial Intelligence,,not specified
+880,North America,"JavaScript, Java, PHP, Other","Web Development, Other",3,mid
+881,North America,Shell,"Cloud Computing, DevOps, Other",5,mid
+882,North America,,"Data Analytics, Other",,not specified
+883,North America,"Python, C++, Other","Software Development, Other",,not specified
+884,North America,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",5,senior
+885,North America,"C++, Other","Software Development, Other",,not specified
+886,North America,"Python, C++, Perl, Java","Data Analytics, Machine Learning/Artificial Intelligence, Database Management, Other",5,senior
+887,Asia,,"Data Analytics, Other",,not specified
+888,North America,"Java, Perl, Shell, Python, C++","Web Development, Other, Software Development, Mobile Development",5,senior
+889,North America,Other,"Software Development, Other",,not specified
+890,North America,"Python, Shell, Perl, C++","DevOps, Software Development, Networking, Other",,senior
+891,North America,,Networking,,senior
+892,North America,"Python, C++, Java","Data Analytics, Other",3,not specified
+893,North America,"C++, Other","Software Development, Other",3,not specified
+894,North America,"JavaScript, Other","Web Development, Other",,not specified
+895,North America,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+896,North America,"C++, Other","Internet of Things (IoT), Cybersecurity, Other",,senior
+897,North America,"Swift, C++, Other","Web Development, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",5,senior
+898,North America,"JavaScript, Python, Ruby, C++, Other","DevOps, Software Development, Networking",,not specified
+899,North America,,Software Development,5,senior
+900,North America,"C++, Other","Software Development, Other",,not specified
+901,North America,"Python, C++, Other","Software Development, Other",,not specified
+902,North America,"Perl, Python, Ruby, C++, Other","Software Development, Other",5,senior
+903,North America,"Swift, C++, Python, Other",Other,,not specified
+904,North America,,,5,senior
+905,North America,,"Cloud Computing, Database Management, Other",5,senior
+906,North America,"C++, Other","Internet of Things (IoT), Other, Software Development, Cybersecurity",,senior
+907,North America,"C++, Other","Software Development, Other",,not specified
+908,North America,"JavaScript, Python","Web Development, DevOps, Software Development, Other",3,mid
+909,North America,"Python, Java","Database Management, Software Development, Networking, Other",,not specified
+910,North America,,"Mobile Development, Software Development, Human-Computer Interaction, Networking, Other",3,senior
+911,North America,"Python, C++, Other","Software Development, Other",5,senior
+912,North America,,,,not specified
+913,North America,"C++, Other","Cybersecurity, Other",3,not specified
+914,Asia,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",3,not specified
+915,North America,,Other,5,senior
+916,North America,,Networking,5,senior
+917,North America,,"Networking, Other",,not specified
+918,Asia,"Python, Perl, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",,not specified
+919,Asia,"Python, Perl, Other, Java","Data Analytics, DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+920,Asia,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",3,not specified
+921,North America,"Swift, Other","Other, AR/VR (Augmented Reality/Virtual Reality), Mobile Development",,not specified
+922,North America,,"Software Development, Other",,senior
+923,North America,,"Software Development, Mobile Development",8,senior
+924,North America,Python,"Software Development, Other",,not specified
+925,North America,,"Human-Computer Interaction, Software Development",,senior
+926,North America,"C++, Other","Software Development, Other",,senior
+927,Asia,"Perl, C++, Python, Other",Other,,not specified
+928,North America,,"Networking, Other",,not specified
+929,North America,Other,"Software Development, Other",,senior
+930,North America,,Networking,,senior
+931,North America,C++,Other,,not specified
+932,Asia,"Perl, Python","Networking, Other",8,senior
+933,North America,,,,not specified
+934,North America,"C++, Other","Software Development, Other",3,mid
+935,North America,Other,Software Development,3,mid
+936,North America,"Swift, Other","Software Development, Other",2,senior
+937,North America,"Java, Perl, Shell, Python, C++","Web Development, Other, Software Development, Mobile Development",2,mid
+938,North America,"Swift, Other","Human-Computer Interaction, Other, Mobile Development",,not specified
+939,North America,"Scala, Java","Data Analytics, Database Management, Other",,not specified
+940,North America,"JavaScript, Python","Software Development, Other",3,mid
+941,North America,"Swift, Shell, Python, Other","DevOps, Software Development",2,mid
+942,North America,Other,Networking,,senior
+943,Europe,,Machine Learning/Artificial Intelligence,,not specified
+944,Asia,"Python, Perl, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+945,North America,Other,"Software Development, Mobile Development",,not specified
+946,North America,"Swift, Other","Other, Machine Learning/Artificial Intelligence, Software Development, Mobile Development",,not specified
+947,North America,,Software Development,3,mid
+948,North America,,"Mobile Development, Other",,not specified
+949,Asia,,,2,mid
+950,Asia,"Perl, C++, Python, Other",Other,,not specified
+951,North America,"C++, Other",Networking,,not specified
+952,Asia,"Python, Perl, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",,senior
+953,Asia,"Python, Perl, Other, Java","Web Development, Data Analytics, DevOps, Other",,not specified
+954,Asia,"Python, Perl, Other, Java","Data Analytics, DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+955,Asia,Python,"Networking, Other",5,senior
+956,North America,"JavaScript, Scala, Java, Python, Go","Web Development, Software Development, Database Management, Other",,mid
+957,North America,"Swift, C++, Python, Other","Other, Software Development, Mobile Development",,not specified
+958,Asia,,"Software Development, Other",,not specified
+959,North America,"C++, C#","Web Development, Database Management, AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+960,North America,"Python, Other","Software Development, Other",,not specified
+961,Europe,,,,not specified
+962,North America,"C++, Other","Internet of Things (IoT), Networking, Other",3,mid
+963,North America,Java,"Web Development, Software Development",,senior
+964,North America,"Python, Other","Software Development, Other",,not specified
+965,North America,"C++, Other",Other,,not specified
+966,North America,"Swift, Other","Software Development, Database Management, Other",3,mid
+967,Asia,,Other,,not specified
+968,North America,"C++, Other","Software Development, Other",,not specified
+969,North America,,"Software Development, Mobile Development, Other",,not specified
+970,North America,Python,"DevOps, Software Development, Mobile Development, Other",2,mid
+971,North America,"Swift, C++, Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+972,North America,"Perl, C++, Python, Other",Other,5,senior
+973,North America,,Other,,not specified
+974,Europe,,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+975,North America,"Perl, C++, Python, Other",Networking,,not specified
+976,North America,"JavaScript, Other",Web Development,,not specified
+977,North America,"C++, Other","Other, Mobile Development",,not specified
+978,North America,,"Software Development, Other",8,senior
+979,North America,,Other,8,senior
+980,North America,"Python, Shell","DevOps, Software Development, Mobile Development, Other",2,mid
+981,Europe,"R, Python, Perl, C++, Other",Other,,not specified
+982,North America,"R, Python, Perl, C++, Other",Other,,not specified
+983,North America,Other,"Web Development, Software Development",,not specified
+984,Asia,,,2,not specified
+985,North America,"Python, Java",Other,7,senior
+986,Europe,,"Other, Mobile Development",,not specified
+987,North America,"C++, Other","Mobile Development, Software Development, Other",8,senior
+988,North America,,Other,,not specified
+989,North America,"C++, Other","Software Development, Mobile Development, Other",,mid
+990,North America,"Python, Shell, Perl","Software Development, Other",,not specified
+991,North America,"PHP, Perl, Shell, Python, Other","Data Analytics, Database Management, Software Development, Web Development, Other",5,senior
+992,Europe,"Python, Scala, Java","Other, Cloud Computing, Software Development, DevOps",,senior
+993,Asia,,,8,senior
+994,North America,"Python, C++, Other",Other,,not specified
+995,North America,"Ruby, Python","Web Development, Software Development, Database Management, Other",,not specified
+996,North America,,Other,8,senior
+997,North America,"Python, Shell, Perl, C++","Data Analytics, Other",,not specified
+998,North America,"Python, C++","Data Analytics, Other",5,senior
+999,Asia,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+1000,Asia,"Python, C++","Software Development, Other",,mid
+1001,North America,"JavaScript, Swift, Other","Other, Mobile Development",,not specified
+1002,Europe,C++,"Software Development, Other",,not specified
+1003,North America,Other,Other,,senior
+1004,North America,,"Networking, Other",5,senior
+1005,North America,,Other,5,senior
+1006,North America,Other,"Data Analytics, Software Development",5,senior
+1007,North America,"Python, Swift, Other, Java","Web Development, DevOps, Database Management, Other",5,senior
+1008,North America,Other,"Mobile Development, Other",,not specified
+1009,North America,,"Web Development, Data Analytics",,not specified
+1010,Asia,"Java, Python, Shell, Perl, Ruby",Software Development,5,senior
+1011,North America,"Perl, Other",Other,,senior
+1012,North America,"C++, Other","Software Development, Other",5,senior
+1013,North America,"C++, Other","Web Development, Software Development, Mobile Development",6,senior
+1014,North America,"Swift, Other","Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Mobile Development",2,mid
+1015,North America,"C++, Other","Web Development, Software Development, Other",,senior
+1016,North America,,"Web Development, Software Development",,not specified
+1017,North America,Other,Mobile Development,5,senior
+1018,Asia,,,6,senior
+1019,North America,,"Human-Computer Interaction, Other",,not specified
+1020,Europe,,"Machine Learning/Artificial Intelligence, Other",,not specified
+1021,North America,"PHP, Perl, Shell, Python, Other","Data Analytics, Database Management, Software Development, Web Development, Other",5,senior
+1022,North America,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1023,North America,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1024,North America,"C++, Other","Internet of Things (IoT), Software Development, Other",3,not specified
+1025,North America,Other,Other,,not specified
+1026,North America,"Swift, C++, Other",,,not specified
+1027,North America,"JavaScript, TypeScript, Other","Web Development, Other",4,mid
+1028,North America,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+1029,Asia,Python,Machine Learning/Artificial Intelligence,,senior
+1030,North America,Python,"Software Development, Other",5,senior
+1031,North America,,Other,,not specified
+1032,North America,,"Software Development, Other",8,senior
+1033,North America,"Python, C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1034,North America,"Swift, C++","Software Development, Other",,not specified
+1035,North America,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, AR/VR (Augmented Reality/Virtual Rea",7,senior
+1036,North America,"C++, Other","Mobile Development, Other",5,senior
+1037,North America,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, AR/VR (Augmented Reality/Virtual Rea",7,senior
+1038,North America,"Python, Other","Networking, Other",,not specified
+1039,North America,"Python, Other",Other,,not specified
+1040,North America,"Java, Python, Perl, C++, Other","Data Analytics, Software Development, Internet of Things (IoT), Networking, Other",5,senior
+1041,North America,,"Networking, Other",,not specified
+1042,North America,"Python, C++","Software Development, Other",,not specified
+1043,North America,"Scala, Python, Java","Data Analytics, Database Management",,not specified
+1044,North America,Python,"Mobile Development, Software Development, Networking, Other",,not specified
+1045,North America,Other,"Software Development, Other",,not specified
+1046,North America,"C++, Other","Mobile Development, Other",,not specified
+1047,North America,,,3,mid
+1048,North America,,"Software Development, Other",15,senior
+1049,North America,"Python, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,mid
+1050,North America,"Ruby, Python, Perl","Other, DevOps, Software Development, Mobile Development",,not specified
+1051,North America,"Python, C++","Machine Learning/Artificial Intelligence, Other",,not specified
+1052,North America,,"Machine Learning/Artificial Intelligence, Software Development, Other",5,senior
+1053,North America,,"Data Analytics, Other",,not specified
+1054,North America,"Python, C++, Perl",Other,7,senior
+1055,North America,Shell,Software Development,2,not specified
+1056,North America,Java,"Cloud Computing, Software Development, Other",,senior
+1057,Asia,"Python, C++, Other",Other,,not specified
+1058,North America,,"Data Analytics, Software Development, Other",7,senior
+1059,North America,"C++, Other","Internet of Things (IoT), Software Development, Other",,mid
+1060,North America,"C++, Other","Internet of Things (IoT), Networking, Other",8,senior
+1061,North America,"C++, Other","Internet of Things (IoT), Mobile Development, Software Development, Other",,not specified
+1062,Asia,,,10,senior
+1063,North America,"Swift, Other",,,senior
+1064,North America,,"Software Development, Other",,senior
+1065,North America,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1066,Asia,,Other,7,senior
+1067,North America,"JavaScript, Ruby, Other","Web Development, Software Development, Other",,not specified
+1068,North America,"Perl, Other","Internet of Things (IoT), Other",,senior
+1069,Asia,,"Internet of Things (IoT), Software Development",5,senior
+1070,Europe,,"Other, Mobile Development",,not specified
+1071,North America,"C++, Other","Networking, Other",8,senior
+1072,North America,"Java, Python, Shell, Perl, Ruby","DevOps, Software Development",7,senior
+1073,Asia,"Python, C++, Other",Other,,not specified
+1074,North America,"Swift, Other","Mobile Development, Software Development, Other",5,senior
+1075,North America,,,5,senior
+1076,North America,"C++, Other","Web Development, Software Development, Networking",,not specified
+1077,North America,"JavaScript, Ruby, Other",Other,3,mid
+1078,North America,"C++, Other","Software Development, Networking",,not specified
+1079,Asia,,"Networking, Other",5,not specified
+1080,Asia,"C++, Other","Data Analytics, Other",5,senior
+1081,North America,"C++, Other","Software Development, Other",,not specified
+1082,North America,"Swift, C++, Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1083,North America,"C++, Other","Web Development, Software Development, Mobile Development",5,senior
+1084,North America,"Swift, Java","Other, Software Development, Mobile Development",,not specified
+1085,North America,"Swift, Other","DevOps, Software Development, Other",3,mid
+1086,North America,"JavaScript, Python","Cloud Computing, Mobile Development, Machine Learning/Artificial Intelligence, Other",4,mid
+1087,Europe,"C++, Other",Other,5,senior
+1088,North America,"JavaScript, Python, Shell",Software Development,,not specified
+1089,North America,,Other,,not specified
+1090,Europe,Other,"Data Analytics, DevOps, Software Development, Other",,not specified
+1091,North America,"JavaScript, Python, Swift, Ruby, C++, Other","Software Development, Other",3,mid
+1092,North America,"Perl, C++, Python, Other","Other, Networking, Cybersecurity",,not specified
+1093,Asia,"Python, Shell",Other,3,mid
+1094,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1095,North America,"Java, Python, Shell, Perl, Ruby","DevOps, Other",,not specified
+1096,North America,"C++, Java","Cloud Computing, Software Development, Other",8,senior
+1097,Asia,,"Data Analytics, Other",,not specified
+1098,North America,"Python, C++","DevOps, Software Development, Other",3,mid
+1099,Asia,"Python, Other",,3,mid
+1100,North America,"Java, Python, Perl, Ruby, Go","Web Development, Cloud Computing, DevOps, Other",,not specified
+1101,North America,"C++, Other","Software Development, Other",,not specified
+1102,North America,"Swift, Other","Other, Software Development, Mobile Development",,not specified
+1103,North America,"Python, Shell, Perl, Other","Data Analytics, Software Development, Database Management, Other",,senior
+1104,North America,"C++, Other","Internet of Things (IoT), Software Development, Other",,not specified
+1105,Asia,,Other,7,senior
+1106,North America,,Other,10,senior
+1107,North America,JavaScript,Web Development,,not specified
+1108,North America,Python,"DevOps, Software Development, Other",6,senior
+1109,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+1110,North America,Other,Other,3,mid
+1111,North America,Other,Other,3,not specified
+1112,North America,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1113,North America,,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+1114,North America,"Python, C++","Software Development, Other",,not specified
+1115,North America,"C++, Other",Machine Learning/Artificial Intelligence,5,senior
+1116,North America,C++,Other,,not specified
+1117,North America,C++,"Software Development, Mobile Development, Other",,mid
+1118,North America,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3,not specified
+1119,North America,,"Machine Learning/Artificial Intelligence, Other",,not specified
+1120,Asia,"Python, C++, Perl, Other","Data Analytics, Other",5,senior
+1121,North America,"Python, C++","Machine Learning/Artificial Intelligence, Other",,not specified
+1122,Asia,Other,Other,3,mid
+1123,North America,,Other,5,senior
+1124,North America,,,,not specified
+1125,Asia,,"Other, Software Development, Mobile Development",7,senior
+1126,North America,,"Networking, Other",,not specified
+1127,North America,"Ruby, Perl, Go, Python","Data Analytics, DevOps, Database Management, Other",10,senior
+1128,North America,"Python, Other",Other,,not specified
+1129,Asia,"C++, Other","Software Development, Networking, Other",3,mid
+1130,North America,"Python, Shell, Swift","Other, Software Development, Mobile Development",2,not specified
+1131,North America,Python,Other,,not specified
+1132,North America,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Cloud Computing, Software Development, Networking, Other",5,senior
+1133,North America,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1134,Asia,"C++, Other","Software Development, Other",,senior
+1135,North America,"JavaScript, Python, Go","Web Development, DevOps, Software Development, Other",,senior
+1136,North America,Other,Data Analytics,,not specified
+1137,North America,,"Data Analytics, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",,not specified
+1138,North America,"Python, C++, Java","Data Analytics, Cloud Computing",3,not specified
+1139,North America,"Java, Python, Shell, Perl, Ruby","DevOps, Other",,not specified
+1140,North America,"C++, Other","Web Development, Software Development, Other",2,mid
+1141,North America,"JavaScript, Perl, Python, Go, Other","DevOps, Cloud Computing, Cybersecurity, Networking, Other",5,senior
+1142,North America,"JavaScript, Perl, Shell, Python, Ruby","Other, Software Development, Networking, Mobile Development",2,mid
+1143,North America,,Other,3,mid
+1144,North America,Python,"Data Analytics, Database Management",,not specified
+1145,North America,,Web Development,,not specified
+1146,Asia,"Python, C++, Other",Other,,not specified
+1147,Asia,"Swift, C++, Other",Other,,not specified
+1148,North America,"C++, Other","Software Development, Other",5,senior
+1149,North America,"JavaScript, Other",Web Development,8,senior
+1150,North America,"C++, Other","DevOps, Software Development",,not specified
+1151,North America,"Swift, Other",Other,,not specified
+1152,North America,"Ruby, Python, JavaScript","DevOps, Software Development",,not specified
+1153,North America,,Machine Learning/Artificial Intelligence,,not specified
+1154,North America,,"Internet of Things (IoT), Data Analytics, Other",10,senior
+1155,North America,"C++, Java, Other","Mobile Development, Software Development, Internet of Things (IoT), Networking, Other",5,senior
+1156,North America,,"Software Development, Other",5,senior
+1157,Asia,Other,Other,,not specified
+1158,North America,Python,"DevOps, Mobile Development, Software Development, Other",4,senior
+1159,North America,Other,"Data Analytics, Other",,not specified
+1160,North America,"C++, Other","Software Development, Other",,senior
+1161,Asia,Python,"Data Analytics, Machine Learning/Artificial Intelligence",2,not specified
+1162,North America,C++,"Data Analytics, Software Development, Other",,mid
+1163,North America,,,5,senior
+1164,North America,"C++, Other","Web Development, Software Development, Other",5,senior
+1165,North America,"C++, Other",Other,5,senior
+1166,North America,"C++, Other","Software Development, Networking",,not specified
+1167,North America,,"Web Development, Other",,not specified
+1168,North America,"C++, Other",Other,8,senior
+1169,North America,,"Data Analytics, Database Management, Other",3,mid
+1170,North America,"Python, Shell, Perl, Ruby, C++, Other","Web Development, DevOps, Software Development, Other",,senior
+1171,North America,"Scala, R, Java, Python, Other","Data Analytics, Machine Learning/Artificial Intelligence, Networking, Other",5,senior
+1172,North America,,"Data Analytics, Database Management, Other",3,mid
+1173,North America,"Python, C++, Other",Other,1,not specified
+1174,North America,"Python, C++, Other",Other,1,junior
+1175,North America,"Scala, Python, Java","Web Development, Data Analytics, DevOps, Software Development",,not specified
+1176,North America,"Swift, Other","Other, Software Development, Mobile Development",3,mid
+1177,North America,"Python, C++, Perl, Other",Other,,not specified
+1178,North America,"Python, C++","Cloud Computing, Data Analytics, Machine Learning/Artificial Intelligence, Other",3,senior
+1179,North America,,Other,3,mid
+1180,Asia,,"Mobile Development, Other",3,mid
+1181,North America,"Ruby, Python, Java","DevOps, Cloud Computing, Software Development, Networking, Other",4,senior
+1182,North America,,Other,,not specified
+1183,North America,"Ruby, Python, Shell, Other","Cloud Computing, Mobile Development, Cybersecurity, Software Development, Web Development, Networkin",5,senior
+1184,North America,,"Internet of Things (IoT), Networking, Other",5,senior
+1185,North America,"Perl, Other",Other,2,not specified
+1186,North America,"Python, Swift, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1187,North America,"Other, C++, Java","Machine Learning/Artificial Intelligence, Mobile Development, Other",3,mid
+1188,North America,,"Software Development, Other",5,mid
+1189,North America,"Go, C++, Python","DevOps, Software Development, Web Development, Networking, Other",5,senior
+1190,North America,,Cybersecurity,,not specified
+1191,North America,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development",,not specified
+1192,Asia,,"Web Development, Software Development, Other",5,senior
+1193,North America,,"Human-Computer Interaction, Internet of Things (IoT), Other",5,senior
+1194,North America,,"Internet of Things (IoT), Data Analytics, Other",10,senior
+1195,North America,,,5,senior
+1196,North America,,,5,senior
+1197,Asia,Other,Other,,not specified
+1198,North America,,"Web Development, Other, Mobile Development",8,senior
+1199,North America,Other,Other,,not specified
+1200,North America,,"Networking, Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",15,senior
+1201,North America,"Python, Other",Data Analytics,3,mid
+1202,North America,,"Networking, Mobile Development",,mid
+1203,North America,,"Networking, Other",8,senior
+1204,North America,"C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",3,not specified
+1205,North America,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Software Development, Web Development, N",,not specified
+1206,North America,Other,Other,,not specified
+1207,North America,"Perl, Shell, Python","Internet of Things (IoT), Other",5,senior
+1208,North America,"Python, Shell, Perl","Other, Software Development, Networking, Mobile Development",3,not specified
+1209,North America,"Python, Shell, Ruby, C++, Other","Web Development, Networking, Other",,not specified
+1210,North America,"Python, Shell, Ruby, C++, Other","Web Development, Networking, Other",,not specified
+1211,North America,,Other,7,senior
+1212,North America,"Python, C++","Software Development, Other",5,senior
+1213,North America,Other,Other,5,senior
+1214,North America,"JavaScript, Swift, Other",Software Development,8,senior
+1215,North America,"Python, Java","DevOps, Software Development, Other",4,mid
+1216,Europe,"C++, Other","AR/VR (Augmented Reality/Virtual Reality), Other",,junior
+1217,Europe,"Python, Java","Machine Learning/Artificial Intelligence, Other",,senior
+1218,North America,"Perl, Shell, Python, Ruby, Go","Data Analytics, DevOps, Database Management, Other",10,senior
+1219,North America,"C++, Other","Software Development, Other",,not specified
+1220,North America,,Other,,not specified
+1221,North America,"JavaScript, Perl, Python, Ruby, Other","DevOps, Mobile Development, Other",5,senior
+1222,North America,"C#, Java, Python, Perl, Other","Software Development, Other",2,mid
+1223,North America,,"Software Development, Other",,not specified
+1224,Europe,C++,Software Development,,not specified
+1225,North America,"C++, Other","Software Development, Other",,not specified
+1226,North America,,,,not specified
+1227,North America,,,5,senior
+1228,Europe,"Swift, Other","Mobile Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1229,North America,"Swift, C++, Other","Mobile Development, Other",,not specified
+1230,North America,"JavaScript, Python, Perl, C++, Other","Machine Learning/Artificial Intelligence, Software Development, Other",5,senior
+1231,Asia,,"Internet of Things (IoT), Cloud Computing, Software Development, Other",10,senior
+1232,North America,Other,,,senior
+1233,North America,"C++, Other","Software Development, Other",,not specified
+1234,North America,,"Software Development, Other",5,senior
+1235,North America,,Other,5,senior
+1236,North America,,"Cybersecurity, Other",,not specified
+1237,North America,"C++, Other","Software Development, Other",,not specified
+1238,North America,"C++, Other","Human-Computer Interaction, Software Development",,not specified
+1239,North America,"Python, C++","Machine Learning/Artificial Intelligence, Software Development, Other",3,mid
+1240,North America,"Python, C++","Software Development, Other",3,mid
+1241,North America,"Python, C++","Software Development, Other",3,senior
+1242,North America,"Python, Perl, Java, Other","Data Analytics, Database Management",8,senior
+1243,North America,,,10,senior
+1244,North America,"C++, Other",,,senior
+1245,North America,,"Cloud Computing, Networking, Other",3,not specified
+1246,Asia,,Other,7,senior
+1247,North America,"Swift, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1248,North America,"Swift, C++, Other",,3,not specified
+1249,North America,,"Data Analytics, Other",3,mid
+1250,North America,"Python, Shell, Perl","Other, Software Development, Networking, Mobile Development",3,mid
+1251,North America,"Python, C++, Other",Other,3,mid
+1252,Europe,,"Other, Mobile Development",,not specified
+1253,North America,"Python, C++","Software Development, Database Management, Other",5,senior
+1254,North America,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",,not specified
+1255,North America,,"Cloud Computing, Other",,senior
+1256,North America,"Java, Python, Perl, Ruby, Go","DevOps, Cloud Computing, Software Development, Web Development, Other",,senior
+1257,Asia,Python,Other,,junior
+1258,North America,"Python, Shell, Perl, Other","Data Analytics, Software Development, Database Management, Other",5,senior
+1259,North America,,Other,,not specified
+1260,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+1261,North America,"JavaScript, Python, Java","Other, Data Analytics, Mobile Development, Cybersecurity",,not specified
+1262,North America,"Ruby, Python, JavaScript",DevOps,,not specified
+1263,North America,"JavaScript, Other",Web Development,3,mid
+1264,North America,Other,Other,4,senior
+1265,North America,"Python, Swift, Other, Java","Software Development, Other",6,senior
+1266,North America,"Python, Shell","Data Analytics, DevOps, Database Management, Cloud Computing, Networking, Other",5,senior
+1267,North America,,"Machine Learning/Artificial Intelligence, Software Development, Other",10,senior
+1268,Europe,"Python, Java","Database Management, Software Development, Networking, Other",,not specified
+1269,North America,,Other,7,senior
+1270,Asia,,Other,7,senior
+1271,North America,"Shell, Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1272,North America,"C++, Other","Web Development, Software Development, Networking, Other",3,mid
+1273,Asia,,,10,senior
+1274,North America,"Ruby, Python, Go, JavaScript","Web Development, Cloud Computing, Database Management, Other",,senior
+1275,North America,"Ruby, Python, Go, JavaScript","Web Development, Software Development, Database Management, Other",,senior
+1276,North America,"Shell, Other","DevOps, Web Development, Internet of Things (IoT), Networking, Other",,not specified
+1277,North America,Other,Cybersecurity,5,senior
+1278,North America,"JavaScript, PHP, Python, Shell, Perl, Ruby","Software Development, Other",2,mid
+1279,North America,,"Networking, Other",,not specified
+1280,Asia,"C++, Other","Machine Learning/Artificial Intelligence, Other",,mid
+1281,Asia,"C++, Other","Machine Learning/Artificial Intelligence, Other",,not specified
+1282,North America,"Swift, C++, Other","Other, Cloud Computing, Software Development, Mobile Development",,not specified
+1283,North America,"C++, Other","Software Development, Networking, Other",,not specified
+1284,North America,,Other,,not specified
+1285,North America,Other,"Data Analytics, Cloud Computing, Database Management, Other",5,senior
+1286,North America,"Java, Python, Perl, Ruby, Other","Cloud Computing, DevOps, Networking, Other",,senior
+1287,North America,,"Internet of Things (IoT), Other",10,senior
+1288,North America,,"Data Analytics, Other",10,senior
+1289,North America,"Python, R","Data Analytics, Machine Learning/Artificial Intelligence, Database Management, Other",3,mid
+1290,North America,"Swift, Other","Cloud Computing, Software Development",,mid
+1291,North America,"C++, Other","Web Development, Software Development, Other",5,not specified
+1292,North America,"C++, Other","Software Development, Other",,not specified
+1293,Asia,,Other,5,senior
+1294,North America,,"Cybersecurity, Cloud Computing, Networking, Other",5,senior
+1295,North America,,"Software Development, Networking, Other",7,senior
+1296,North America,,,,not specified
+1297,North America,,Other,10,senior
+1298,Europe,"C++, Other","DevOps, Software Development, Networking, Other",,senior
+1299,North America,"Python, Other",Other,,mid
+1300,North America,Other,"Mobile Development, Other",,not specified
+1301,North America,"JavaScript, Python, Java","Software Development, Other",3,mid
+1302,North America,,"Other, Cybersecurity",7,senior
+1303,North America,,"Human-Computer Interaction, Software Development, Other",,not specified
+1304,North America,"JavaScript, Other, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development, Other",,mid
+1305,North America,"Python, C++, Java",Cloud Computing,,not specified
+1306,North America,"Perl, Other","Web Development, Other",,not specified
+1307,North America,"Python, Other",Other,,not specified
+1308,North America,Other,Other,8,senior
+1309,North America,Other,Other,8,senior
+1310,North America,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Mobile Developm",,not specified
+1311,Europe,"Perl, C++, Python, Other",Other,,not specified
+1312,North America,"Swift, Other","Other, Software Development, Mobile Development",5,senior
+1313,North America,"Shell, Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1314,North America,"JavaScript, Python, C++, Other","Other, Software Development, Mobile Development",,not specified
+1315,North America,Other,"Software Development, Mobile Development",,not specified
+1316,North America,Other,"DevOps, Database Management, Mobile Development, Software Development, Web Development, Other",3,senior
+1317,North America,Other,"Web Development, DevOps, Database Management, Other",3,mid
+1318,Asia,,,,not specified
+1319,North America,"C++, Other","Internet of Things (IoT), Software Development, Networking, Other",4,mid
+1320,North America,"Perl, Other","Web Development, Other",,senior
+1321,North America,"Python, Shell, Perl","DevOps, Software Development, Other",,not specified
+1322,Europe,"Python, C++, Scala, Java",Machine Learning/Artificial Intelligence,,not specified
+1323,North America,,Software Development,,not specified
+1324,North America,"Perl, C++, Python, Other","Software Development, Other",,not specified
+1325,North America,Python,Other,6,senior
+1326,North America,,"Human-Computer Interaction, Software Development, Networking, Other",5,senior
+1327,North America,"Swift, Other","Human-Computer Interaction, Mobile Development",2,senior
+1328,North America,"Python, Java, PHP, Other","DevOps, Other",,senior
+1329,North America,Other,"Data Analytics, Software Development, Other",,not specified
+1330,North America,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, AR/VR (Augmented Reality/Virtual Reali",,not specified
+1331,Europe,"C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, AR/VR (Augmented Reality/Virtual Reali",,not specified
+1332,Europe,"C++, Other","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",,senior
+1333,North America,"Python, C++, Other","Machine Learning/Artificial Intelligence, Mobile Development, Other",3,senior
+1334,North America,"Java, Python, Perl, Ruby, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,mid
+1335,North America,"Python, C++, Other","Mobile Development, Other",5,senior
+1336,North America,"Java, Python, Perl, Ruby, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,mid
+1337,North America,,"Software Development, Database Management, Other",3,not specified
+1338,North America,,"Database Management, Other",5,senior
+1339,North America,,"DevOps, Other",,not specified
+1340,North America,"C++, Other",Software Development,,not specified
+1341,North America,"Perl, C++, Python, Other",,,not specified
+1342,North America,"Python, Other","Internet of Things (IoT), Data Analytics, Other",,not specified
+1343,Asia,"JavaScript, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",,senior
+1344,North America,,"Software Development, Other",3,not specified
+1345,Asia,"Scala, Java, Python, Shell, Ruby","Data Analytics, Database Management, Cloud Computing, Web Development, Other",,not specified
+1346,North America,"C++, Other","Software Development, Other",,senior
+1347,North America,"Perl, Other",Other,,not specified
+1348,North America,Python,"Data Analytics, Machine Learning/Artificial Intelligence",4,senior
+1349,North America,,"Data Analytics, Database Management, Other",3,mid
+1350,North America,"Swift, Other","Mobile Development, Other",5,mid
+1351,North America,,"Web Development, Database Management",2,mid
+1352,North America,"Perl, Python, Ruby, C++, Other",Other,7,senior
+1353,North America,Other,,2,mid
+1354,North America,,"Data Analytics, Cloud Computing, Database Management, Other",3,mid
+1355,North America,,"Cybersecurity, Other",5,senior
+1356,Asia,"JavaScript, Python, Other, Java","Other, Software Development, Mobile Development",,not specified
+1357,North America,"JavaScript, Python, Perl, Shell, Go, C++, Other","DevOps, Database Management, Other",,mid
+1358,North America,"C++, Other","Internet of Things (IoT), Other",,not specified
+1359,Europe,C++,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1360,North America,,"Software Development, Other",5,senior
+1361,North America,"Python, Shell, Perl, Ruby, Go","DevOps, Cloud Computing, Software Development, Web Development, Other",,not specified
+1362,North America,"Perl, Other","Web Development, Software Development, Other",,not specified
+1363,North America,"JavaScript, C++, Other","Web Development, Software Development",5,senior
+1364,North America,Other,Mobile Development,,not specified
+1365,North America,"Swift, Other","Software Development, Other",,not specified
+1366,North America,"Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development",,not specified
+1367,North America,"Other, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Software Development",,not specified
+1368,North America,"Scala, Java","Data Analytics, Cloud Computing, Database Management, Other",,not specified
+1369,North America,Other,"Machine Learning/Artificial Intelligence, Networking, Other",,not specified
+1370,North America,,"Software Development, Other",3,mid
+1371,North America,Python,"DevOps, Software Development, Other",3,mid
+1372,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1373,North America,,Other,,not specified
+1374,North America,"Python, C++, Perl, Other","Data Analytics, Other",5,senior
+1375,North America,Other,Other,10,senior
+1376,Europe,,"Data Analytics, Machine Learning/Artificial Intelligence, Software Development, Other",,senior
+1377,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",1,junior
+1378,North America,"Python, Other",Other,,not specified
+1379,North America,"Swift, Shell, Python, Other","DevOps, Software Development, Other",,not specified
+1380,North America,Other,"Other, Networking, Mobile Development",,not specified
+1381,North America,"C++, Other",Machine Learning/Artificial Intelligence,,not specified
+1382,North America,Other,"Data Analytics, Database Management, Other",4,senior
+1383,North America,"Python, Other",Other,,not specified
+1384,Asia,,"Internet of Things (IoT), Mobile Development, Other",8,senior
+1385,North America,"C++, Other",Other,,not specified
+1386,North America,"JavaScript, R, PHP, Java, Python, Perl, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",3,mid
+1387,North America,"Python, C++, Other","DevOps, Software Development, Networking, Mobile Development",,not specified
+1388,Asia,,"Data Analytics, Other",,not specified
+1389,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",1,junior
+1390,North America,Other,"Data Analytics, DevOps, Cloud Computing, Cybersecurity, Networking, Other",,senior
+1391,North America,,"Cloud Computing, Software Development, Machine Learning/Artificial Intelligence",,senior
+1392,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1393,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1394,North America,Other,Software Development,,not specified
+1395,North America,"C++, Other","Software Development, Other",,mid
+1396,North America,"C++, Other","Software Development, Other",,not specified
+1397,North America,"JavaScript, Other","Web Development, Other",3,senior
+1398,Europe,"Perl, C++, Python, Other",Other,,not specified
+1399,North America,,"Software Development, Other",5,senior
+1400,North America,,"Data Analytics, Database Management, Other",3,mid
+1401,North America,Other,Mobile Development,,not specified
+1402,North America,"Python, Scala, Java","Data Analytics, Cloud Computing, Software Development, Machine Learning/Artificial Intelligence",,senior
+1403,North America,,"Software Development, Other",5,senior
+1404,North America,"Swift, C++, Other","Human-Computer Interaction, Mobile Development, Software Development, Internet of Things (IoT), Netw",,not specified
+1405,North America,Other,,2,mid
+1406,North America,Python,"DevOps, Software Development, Other",1,not specified
+1407,North America,"C++, Other","Software Development, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1408,North America,,"Data Analytics, Database Management, Other",3,not specified
+1409,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",4,mid
+1410,North America,Other,"Web Development, Software Development, Other",,not specified
+1411,North America,"Perl, Shell, Other",Other,5,senior
+1412,North America,"Perl, Other","Cybersecurity, Software Development, Other",5,mid
+1413,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1414,North America,,,4,mid
+1415,North America,"Perl, Other","Cybersecurity, DevOps, Software Development, Other",5,mid
+1416,North America,"JavaScript, Swift, Other",,,not specified
+1417,North America,,"Web Development, Software Development, Other",4,mid
+1418,North America,"Python, Shell",Software Development,,not specified
+1419,North America,C++,"Machine Learning/Artificial Intelligence, Other",,not specified
+1420,North America,"C++, Other","Software Development, Other",5,senior
+1421,North America,,"Software Development, Other",5,senior
+1422,North America,,"Web Development, Machine Learning/Artificial Intelligence, Other",,not specified
+1423,North America,"Python, C++, Other",Other,1,mid
+1424,Europe,"Python, C++, Perl","Data Analytics, Other",,junior
+1425,North America,"Swift, Other",Other,,not specified
+1426,North America,"Perl, Python, Ruby, C++, Other",Other,7,senior
+1427,North America,Other,"Data Analytics, Software Development, Database Management, Other",4,senior
+1428,North America,Other,"Data Analytics, Database Management, Other",4,senior
+1429,North America,Other,"Data Analytics, Database Management, Networking, Other",4,senior
+1430,Europe,"R, Python, Perl, C++, Other",Other,3,senior
+1431,Asia,,,10,senior
+1432,North America,,"Mobile Development, Software Development, Networking, Other",,senior
+1433,North America,"Swift, Other","Machine Learning/Artificial Intelligence, Software Development",,not specified
+1434,Europe,,Other,,not specified
+1435,North America,"Go, C++, Python, Java",Cloud Computing,5,senior
+1436,North America,"C++, Other","Internet of Things (IoT), Other",,not specified
+1437,North America,,"Software Development, Other",,senior
+1438,North America,"C++, Other","Software Development, Other",,not specified
+1439,North America,"C++, Other","Software Development, Networking, Other",2,mid
+1440,North America,Shell,"Mobile Development, Other",,not specified
+1441,North America,Shell,"Mobile Development, Other",,not specified
+1442,North America,"Swift, Other",Mobile Development,,not specified
+1443,North America,"C++, Other",Networking,,not specified
+1444,Asia,"JavaScript, Python, Other, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Other",4,mid
+1445,North America,"JavaScript, Other","Web Development, Software Development, Other",7,senior
+1446,Asia,Python,"Data Analytics, Machine Learning/Artificial Intelligence, Database Management",,not specified
+1447,North America,,"Internet of Things (IoT), Software Development, Networking",5,senior
+1448,North America,"Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development",,senior
+1449,North America,,"Software Development, Other",,not specified
+1450,North America,"Python, Other",Other,,not specified
+1451,North America,Other,Other,2,mid
+1452,Asia,Java,"Networking, Database Management, Other",,senior
+1453,North America,"JavaScript, Python",Other,3,mid
+1454,North America,Other,"Internet of Things (IoT), Data Analytics, AR/VR (Augmented Reality/Virtual Reality), Other",2,mid
+1455,North America,"Python, C++, Java",Machine Learning/Artificial Intelligence,,not specified
+1456,North America,Python,Data Analytics,,not specified
+1457,North America,"JavaScript, Python, C#, Go","Data Analytics, DevOps, Database Management, Software Development, Other",,not specified
+1458,North America,"C++, Other","Software Development, Networking",,mid
+1459,Europe,Python,"Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",,not specified
+1460,North America,,Other,,not specified
+1461,North America,,Other,5,mid
+1462,North America,,"Cybersecurity, Other",10,senior
+1463,Asia,Other,"Internet of Things (IoT), Software Development, Networking, Other",5,senior
+1464,North America,"R, Other","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Other",2,mid
+1465,North America,Java,"Cloud Computing, Database Management, Other",5,senior
+1466,North America,"Perl, Shell, Python, Java","Data Analytics, DevOps, Database Management, Software Development, Web Development",,not specified
+1467,North America,Swift,Software Development,,not specified
+1468,North America,,"Networking, Other",8,senior
+1469,North America,,"Data Analytics, Software Development, Database Management, Other",3,mid
+1470,North America,,"Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1471,North America,"JavaScript, Python, Shell, Ruby","Web Development, Software Development, Mobile Development, Other",,not specified
+1472,North America,"Swift, Other","Other, Software Development, AR/VR (Augmented Reality/Virtual Reality), Mobile Development",3,mid
+1473,North America,"Other, C++, Java","DevOps, Software Development, Other",,not specified
+1474,North America,"Swift, C++, Java, Other","Web Development, Networking",,not specified
+1475,North America,,Other,5,senior
+1476,North America,"Swift, C++, Other","Human-Computer Interaction, AR/VR (Augmented Reality/Virtual Reality)",,senior
+1477,Asia,Java,"Web Development, Software Development, Database Management",7,senior
+1478,North America,"C++, Other",Other,,senior
+1479,North America,"Scala, C++, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1480,North America,Python,Other,8,senior
+1481,Asia,"JavaScript, Python, Java","Web Development, Database Management, Other",5,senior
+1482,North America,"JavaScript, Other","Web Development, Other",,not specified
+1483,North America,"Python, C++, Java",Machine Learning/Artificial Intelligence,,senior
+1484,North America,Python,"Internet of Things (IoT), Networking, Other",,not specified
+1485,North America,"C++, Other","Internet of Things (IoT), Other",,not specified
+1486,North America,"Python, C++","Web Development, Data Analytics, Machine Learning/Artificial Intelligence, Database Management",,not specified
+1487,North America,"Python, C++",Machine Learning/Artificial Intelligence,,not specified
+1488,Asia,"Java, Python, Shell, Perl, C++","Software Development, Other",6,senior
+1489,North America,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+1490,North America,"Python, C++","Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+1491,North America,"Swift, C++, Java, Other","Web Development, Networking",,not specified
+1492,North America,"Python, Go, Other","Cloud Computing, Database Management, DevOps",,not specified
+1493,Asia,,"Data Analytics, AR/VR (Augmented Reality/Virtual Reality), Other",5,senior
+1494,Asia,,Other,7,senior
+1495,Asia,,"Other, Networking, Mobile Development",,not specified
+1496,North America,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",,not specified
+1497,North America,"Python, Shell","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",,mid
+1498,North America,"C++, Other","Web Development, Machine Learning/Artificial Intelligence, Software Development",5,senior
+1499,North America,,Other,,mid
+1500,North America,"Swift, C++, Other","Internet of Things (IoT), Other",,not specified
+1501,North America,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Networking, Other",3,mid
+1502,North America,,"Software Development, Other",,not specified
+1503,North America,"Swift, C++, Other","Software Development, Other",,not specified
+1504,North America,"Swift, C++, Other","Cloud Computing, Software Development, Other",,not specified
+1505,Asia,,Networking,,not specified
+1506,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1507,North America,"Perl, C++, Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",5,senior
+1508,Europe,"C++, Other","Networking, Other",4,mid
+1509,North America,Other,"Mobile Development, Software Development, Other",4,senior
+1510,North America,Other,"Mobile Development, Other",,not specified
+1511,North America,Java,"Data Analytics, Cloud Computing, Database Management",5,senior
+1512,Asia,"Python, C++, Java","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1513,North America,"Python, Java","Web Development, Software Development, Database Management, Other",,senior
+1514,North America,,"Mobile Development, Other",5,senior
+1515,North America,,"Data Analytics, Other",,not specified
+1516,North America,"JavaScript, Swift, Other","Software Development, Other",,not specified
+1517,North America,"Python, Swift, Other","DevOps, Software Development, Machine Learning/Artificial Intelligence",2,mid
+1518,Europe,"Python, C++, Scala, Java",Data Analytics,,not specified
+1519,North America,"Other, Java","Data Analytics, Software Development",,not specified
+1520,North America,"Scala, Other, Java","Cloud Computing, Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1521,North America,,"Machine Learning/Artificial Intelligence, Software Development",4,not specified
+1522,North America,Java,"Data Analytics, Software Development, Database Management",,not specified
+1523,North America,"C++, Other","Software Development, Networking, Other",,not specified
+1524,North America,,"Software Development, Other",5,senior
+1525,North America,"C++, Other","Internet of Things (IoT), Other",,not specified
+1526,Asia,,,10,senior
+1527,North America,"C++, Other","Web Development, Software Development, Networking",,not specified
+1528,North America,,"Networking, Other",8,senior
+1529,North America,"JavaScript, Python, Java",Web Development,2,mid
+1530,North America,"Swift, C++, Other","Cloud Computing, Software Development, Other",,not specified
+1531,North America,"JavaScript, Python","Data Analytics, Database Management",5,senior
+1532,Asia,,,,senior
+1533,North America,"JavaScript, PHP, Other",Database Management,,not specified
+1534,Europe,"Python, Java","Blockchain, Cloud Computing, Database Management, Other",,not specified
+1535,North America,"Swift, C++, Other","Machine Learning/Artificial Intelligence, Other",5,senior
+1536,North America,"JavaScript, TypeScript, Other",Other,,not specified
+1537,Asia,,,,junior
+1538,Europe,,"Networking, Other",,senior
+1539,North America,,,,not specified
+1540,Asia,,,,not specified
+1541,Asia,"Python, C++, C#, Other","Cloud Computing, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality)",3,mid
+1542,North America,"JavaScript, Python, C++, Other","Mobile Development, Software Development, Networking, Other",,not specified
+1543,North America,Other,"Software Development, Mobile Development, Other",4,senior
+1544,North America,Other,"Data Analytics, Other",3,not specified
+1545,North America,,"Web Development, Cloud Computing, Database Management",8,senior
+1546,Asia,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",3,mid
+1547,North America,Other,"Data Analytics, Other",3,senior
+1548,North America,"Python, Scala","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",5,senior
+1549,North America,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",5,senior
+1550,North America,"Go, Python","DevOps, Database Management, Cloud Computing, Web Development, Networking, Other",,not specified
+1551,Asia,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",3,mid
+1552,North America,"JavaScript, Other, C++, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Web Development, Other",8,senior
+1553,North America,"Python, Perl, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",5,senior
+1554,Europe,"Python, C++, Other","Machine Learning/Artificial Intelligence, Software Development, DevOps, Other",,not specified
+1555,North America,Java,"Web Development, Software Development",,not specified
+1556,Asia,,Software Development,,not specified
+1557,North America,"Other, Java","Web Development, Data Analytics, Database Management, Other",,not specified
+1558,North America,"Perl, Shell, PHP, Python","DevOps, Cloud Computing, Software Development, Web Development, Networking, Other",,senior
+1559,North America,"C++, Other",Other,,not specified
+1560,North America,,"Internet of Things (IoT), Other",,not specified
+1561,North America,,"Cloud Computing, Software Development, Networking, Other",10,senior
+1562,North America,,Machine Learning/Artificial Intelligence,3,senior
+1563,North America,"Perl, Shell, Python, Ruby, Go, C++, Other","Data Analytics, DevOps, Cybersecurity, Software Development, Web Development, Networking, Other",5,senior
+1564,North America,,Other,15,senior
+1565,Asia,,Other,,not specified
+1566,Asia,Other,Web Development,5,senior
+1567,North America,C++,"Software Development, Other",,not specified
+1568,Europe,Java,"Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",4,mid
+1569,North America,"PHP, Java, Swift, Ruby, Other","Web Development, Data Analytics, Software Development, Other",5,senior
+1570,Asia,,Other,,not specified
+1571,North America,"C++, Other","Internet of Things (IoT), Machine Learning/Artificial Intelligence, Other",,not specified
+1572,North America,"JavaScript, Python, Shell","DevOps, Software Development",2,mid
+1573,North America,,Other,10,senior
+1574,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",5,senior
+1575,North America,"Java, Python, Shell, Go, C++, Other","Data Analytics, DevOps, Database Management",,not specified
+1576,North America,"Swift, Other","Software Development, Other",,not specified
+1577,North America,Java,"Data Analytics, DevOps, Cloud Computing, Software Development, Other",,not specified
+1578,North America,"Swift, C++, Other",,,not specified
+1579,North America,,Other,2,mid
+1580,North America,"JavaScript, Python, Shell, Perl, Ruby, C++, Other","Software Development, Networking, Other",2,mid
+1581,North America,,Other,4,mid
+1582,North America,"C++, Other","Internet of Things (IoT), Machine Learning/Artificial Intelligence, Other",,not specified
+1583,Europe,"JavaScript, Other","Web Development, Software Development, Other",,not specified
+1584,Asia,"Python, C++, Other","Software Development, Networking, Other",,not specified
+1585,Asia,"Perl, Shell, Python","Software Development, Other",3,mid
+1586,Asia,"Perl, Shell, Python","Software Development, Networking, Other",3,mid
+1587,North America,"Ruby, Python, Shell, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",5,senior
+1588,Asia,,"Data Analytics, Other",,not specified
+1589,North America,"JavaScript, Swift, Other, Java","Cloud Computing, Database Management",,not specified
+1590,North America,"Perl, Python, Other","Networking, Other",10,senior
+1591,North America,"Java, Python, Perl, Ruby, Other","DevOps, Cloud Computing, Software Development, Networking, Other",,senior
+1592,Europe,,Other,,not specified
+1593,North America,"Perl, C++, Python, Other",Other,10,senior
+1594,North America,,,,not specified
+1595,North America,"Swift, C++, Other",Machine Learning/Artificial Intelligence,5,senior
+1596,North America,,Other,,not specified
+1597,North America,,"Networking, Other",5,senior
+1598,North America,"Swift, C++, Other",,5,senior
+1599,Asia,,Other,,not specified
+1600,North America,"Swift, C++, Other",,2,not specified
+1601,North America,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+1602,North America,,,10,senior
+1603,North America,"Python, Shell, Perl, Other",Other,,not specified
+1604,North America,Other,Other,15,senior
+1605,North America,,,3,not specified
+1606,Asia,,"Data Analytics, Other",,not specified
+1607,North America,"Other, Shell, Scala, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",,not specified
+1608,North America,Python,"Networking, Other",2,junior
+1609,North America,,"Other, Cloud Computing, Software Development, Mobile Development",,not specified
+1610,Asia,Shell,"Data Analytics, DevOps, Software Development, Networking, Other",5,senior
+1611,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+1612,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+1613,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+1614,North America,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, Other",,not specified
+1615,North America,,"Data Analytics, Other",2,mid
+1616,North America,,"Data Analytics, Other",,mid
+1617,North America,,Other,5,senior
+1618,North America,,Other,5,senior
+1619,North America,"JavaScript, Python","Web Development, Software Development, Database Management, Other",,not specified
+1620,Asia,Other,Other,5,senior
+1621,North America,Java,"Data Analytics, Cloud Computing, Database Management",5,senior
+1622,North America,"Python, C++, Java","Web Development, Cloud Computing, Software Development, Networking",,not specified
+1623,North America,"Scala, Other, Java","Data Analytics, DevOps, Software Development, Web Development, Other",4,senior
+1624,North America,,Other,5,senior
+1625,North America,,"Cloud Computing, Other",,not specified
+1626,Europe,,"Data Analytics, Other",,senior
+1627,North America,Python,Other,,not specified
+1628,North America,Python,"Data Analytics, Database Management, Other",3,mid
+1629,North America,"Python, C++",Machine Learning/Artificial Intelligence,3,mid
+1630,North America,"Python, Other","Data Analytics, Other",3,mid
+1631,North America,"JavaScript, TypeScript, C++, Other",Web Development,7,senior
+1632,North America,"JavaScript, Java, Python, C++, Other","Database Management, Machine Learning/Artificial Intelligence, Cloud Computing, Software Development",7,senior
+1633,Europe,,Other,5,senior
+1634,Europe,"Python, C++",Machine Learning/Artificial Intelligence,3,senior
+1635,North America,"Python, Swift, Other","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+1636,North America,"Perl, C++, Python, Other",Other,10,senior
+1637,North America,"Shell, Python, C++","Internet of Things (IoT), Software Development, Networking, Other",,not specified
+1638,North America,JavaScript,"Web Development, Data Analytics, Database Management",5,mid
+1639,North America,"C++, Other","Internet of Things (IoT), Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual",,not specified
+1640,Asia,,"Machine Learning/Artificial Intelligence, Database Management, Other",,not specified
+1641,Asia,"Python, C++, Other","Cybersecurity, Other",,senior
+1642,North America,Java,"Web Development, Software Development, Other",3,mid
+1643,North America,,"Networking, Other",10,senior
+1644,North America,Java,"Web Development, Software Development, Other",3,mid
+1645,North America,,"Data Analytics, Other",5,senior
+1646,North America,"Perl, C++, Python, Other",Other,,not specified
+1647,Asia,"JavaScript, Java, Python, Go, Other","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1648,North America,,AR/VR (Augmented Reality/Virtual Reality),,not specified
+1649,North America,"Python, C++","Software Development, Other",3,not specified
+1650,North America,,Other,3,mid
+1651,North America,"Python, Shell, Perl, C++","DevOps, Software Development, Networking, Other",,senior
+1652,North America,"Swift, C++, Other",Mobile Development,2,mid
+1653,Asia,"Python, Other","Internet of Things (IoT), Other",,not specified
+1654,North America,"C++, Other",Machine Learning/Artificial Intelligence,,not specified
+1655,North America,Python,"Data Analytics, Database Management, Other",3,mid
+1656,North America,Other,"Internet of Things (IoT), Networking, Other",8,senior
+1657,North America,"Swift, Other","Mobile Development, Software Development, Other",,not specified
+1658,North America,,"Networking, Other",5,senior
+1659,North America,,"Cloud Computing, Networking, Other",5,senior
+1660,North America,,"Software Development, Database Management, Other",5,senior
+1661,North America,"JavaScript, Python, Shell, C++","DevOps, Other",,not specified
+1662,Asia,,,,not specified
+1663,North America,Java,"Cybersecurity, Cloud Computing, Networking, Other",3,mid
+1664,North America,,Other,3,not specified
+1665,North America,,,4,mid
+1666,Asia,,"Networking, Other",5,senior
+1667,North America,,Other,4,mid
+1668,North America,,Other,6,senior
+1669,North America,,Machine Learning/Artificial Intelligence,,not specified
+1670,North America,,Machine Learning/Artificial Intelligence,,not specified
+1671,North America,"JavaScript, PHP, Python, Ruby, Other","Data Analytics, Database Management, Software Development, Web Development, Other",,not specified
+1672,North America,,"Software Development, Other",5,senior
+1673,North America,"Ruby, Go, Python, Java","Cloud Computing, DevOps, Software Development, Other",5,senior
+1674,North America,Java,"Software Development, Mobile Development",,not specified
+1675,North America,"Other, Java","Data Analytics, DevOps, Database Management, Other",5,senior
+1676,North America,"Ruby, Python, Shell","DevOps, Networking, Other",8,senior
+1677,North America,,,5,senior
+1678,North America,,"Internet of Things (IoT), Other",5,senior
+1679,North America,,"Data Analytics, Other",5,senior
+1680,Asia,,,2,not specified
+1681,Asia,,"Software Development, Other",4,senior
+1682,North America,,"Database Management, Other",2,mid
+1683,Europe,,"Web Development, Other, Mobile Development",,senior
+1684,North America,,"Software Development, Other",3,mid
+1685,North America,"Python, Go, Scala, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Other",,senior
+1686,Europe,,"Data Analytics, Other",,not specified
+1687,Asia,,Other,2,mid
+1688,North America,,"Networking, Database Management, Other",10,senior
+1689,North America,,Other,,not specified
+1690,Asia,,,7,senior
+1691,North America,"Swift, Other","Mobile Development, Other",,not specified
+1692,North America,Other,Other,4,senior
+1693,Asia,Other,Other,5,senior
+1694,North America,"Python, Shell, Perl, C++, Other","DevOps, Software Development, Other",3,mid
+1695,North America,,"Data Analytics, Database Management, Other",3,mid
+1696,North America,,,5,not specified
+1697,North America,"Go, Python","DevOps, Database Management, Cloud Computing, Software Development, Other",2,senior
+1698,North America,,Other,5,mid
+1699,North America,"Perl, C++, Python, Other","Software Development, Other",,not specified
+1700,North America,"JavaScript, Swift",DevOps,,not specified
+1701,North America,,"Other, Cybersecurity",5,senior
+1702,Europe,"JavaScript, Scala, Python, Java",Data Analytics,,not specified
+1703,North America,,,5,senior
+1704,North America,"Python, Shell","DevOps, Software Development, Other",,not specified
+1705,North America,"Python, Shell","DevOps, Software Development, Other",,not specified
+1706,North America,"TypeScript, C++, Java","Web Development, Other, Software Development, Mobile Development",3,mid
+1707,North America,"Python, Other","Software Development, Other",5,senior
+1708,North America,,Other,5,senior
+1709,North America,"Ruby, JavaScript, Other","Web Development, Software Development, Database Management",3,mid
+1710,North America,"JavaScript, C#, PHP, Java, Python, Swift, Ruby, Other","Data Analytics, DevOps, Database Management, Web Development, Other",3,mid
+1711,Asia,"Perl, C++, Python, Other",Other,5,senior
+1712,North America,"Perl, Shell, Python, Other","Internet of Things (IoT), Data Analytics, Software Development, Other",,not specified
+1713,North America,"JavaScript, Python, Swift, Ruby, C++, Other",Other,3,mid
+1714,Asia,,"Other, Mobile Development",1,junior
+1715,North America,"Perl, Shell, Python, Other","Internet of Things (IoT), Data Analytics, Other",,not specified
+1716,North America,,Machine Learning/Artificial Intelligence,,not specified
+1717,North America,,Machine Learning/Artificial Intelligence,,not specified
+1718,North America,,Other,5,senior
+1719,Asia,Other,"Networking, Other",5,senior
+1720,North America,Java,"DevOps, Database Management, Other",3,mid
+1721,North America,"Python, R, Other",Data Analytics,,not specified
+1722,Asia,"Perl, C++, Python, Other",Other,5,senior
+1723,North America,,"Internet of Things (IoT), Software Development, Other",,not specified
+1724,North America,"JavaScript, Python, Swift, Other","Web Development, Database Management, Mobile Development",,not specified
+1725,North America,Other,"Networking, Other",5,senior
+1726,Asia,,"Data Analytics, Other",,not specified
+1727,North America,"C++, Other",Human-Computer Interaction,,not specified
+1728,North America,,,,senior
+1729,North America,,Other,6,senior
+1730,Europe,,Other,,not specified
+1731,North America,"Other, C++, C#, Java","Cybersecurity, Networking, Other",2,mid
+1732,North America,,Other,20,senior
+1733,North America,Other,"Data Analytics, Other",,not specified
+1734,North America,R,"Data Analytics, Other",,not specified
+1735,North America,"Perl, Python, Other",Other,,not specified
+1736,North America,"Python, Other","AR/VR (Augmented Reality/Virtual Reality), Other",5,mid
+1737,North America,"Python, C++, Other","Data Analytics, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality),",3,not specified
+1738,North America,,,5,senior
+1739,North America,Other,Other,15,senior
+1740,North America,"Python, R, Other","Data Analytics, Database Management",3,mid
+1741,North America,Other,"Human-Computer Interaction, Other, Mobile Development",,not specified
+1742,North America,"Scala, Python","Data Analytics, Database Management, Other",4,mid
+1743,North America,Other,"Human-Computer Interaction, Other, Mobile Development",,not specified
+1744,Europe,,,,not specified
+1745,North America,,"Other, Mobile Development",4,mid
+1746,North America,"JavaScript, Java, Python, Shell, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Networking, Other",,not specified
+1747,North America,Other,Database Management,5,senior
+1748,Asia,,,,not specified
+1749,North America,,Other,,not specified
+1750,North America,,"Networking, Other",5,senior
+1751,North America,,,,not specified
+1752,North America,Java,"Data Analytics, Cloud Computing",5,senior
+1753,North America,"Python, C++, Perl, Other",Other,,not specified
+1754,North America,"Python, Java","Software Development, Mobile Development, Other",4,senior
+1755,North America,,Other,4,mid
+1756,North America,,Other,10,senior
+1757,North America,,Machine Learning/Artificial Intelligence,,not specified
+1758,North America,"Python, R",Machine Learning/Artificial Intelligence,,not specified
+1759,North America,,Other,2,mid
+1760,Europe,"Java, Python, Swift, Go, C++, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Networking, Other",,senior
+1761,Europe,,"Networking, Other",,not specified
+1762,Europe,"Perl, C++, Python, Other",Other,3,mid
+1763,Europe,"C++, Java","Data Analytics, Other",,not specified
+1764,North America,,Other,3,mid
+1765,North America,Swift,Mobile Development,,not specified
+1766,North America,,"Other, Data Analytics, Software Development, Mobile Development",,not specified
+1767,North America,Ruby,"Database Management, Other",,not specified
+1768,North America,"JavaScript, Other","Web Development, Software Development",,senior
+1769,North America,"Python, R, Other","Data Analytics, DevOps, Database Management",2,mid
+1770,North America,,,10,senior
+1771,North America,"Swift, C++, Other","Mobile Development, Other",,not specified
+1772,North America,,"Machine Learning/Artificial Intelligence, Other",,senior
+1773,North America,,,7,senior
+1774,North America,"Shell, Python, C++, Other","Software Development, Networking, Other",3,mid
+1775,Asia,,Other,3,mid
+1776,North America,Java,"Web Development, Software Development, Database Management",5,senior
+1777,North America,,"Web Development, Other",,senior
+1778,North America,,"Software Development, Other",5,senior
+1779,North America,,"Data Analytics, Other",5,senior
+1780,North America,"Python, C++, Other","Data Analytics, DevOps, Software Development, Other",,not specified
+1781,North America,JavaScript,Web Development,8,senior
+1782,North America,Other,Other,3,senior
+1783,North America,,"Data Analytics, Other",3,mid
+1784,Asia,,Other,,not specified
+1785,North America,,"Machine Learning/Artificial Intelligence, Software Development",10,senior
+1786,North America,Other,"Data Analytics, Other",5,mid
+1787,North America,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",8,senior
+1788,Asia,,Other,,not specified
+1789,North America,"Python, Shell, Java","Data Analytics, DevOps, Database Management, Cybersecurity, Networking, Other",,mid
+1790,North America,"Scala, Java","Data Analytics, Cloud Computing, Database Management, Other",3,mid
+1791,North America,"Perl, C++, Python, Other",Other,1,not specified
+1792,North America,"Python, Shell","DevOps, Software Development, Networking, Other",,senior
+1793,North America,,"Web Development, DevOps, Other",5,senior
+1794,North America,,"Software Development, Other",,not specified
+1795,North America,"C++, Java","Data Analytics, DevOps, Cloud Computing, Software Development, Other",,senior
+1796,North America,"JavaScript, Python, Other, Java","DevOps, Software Development, Mobile Development, Other",5,senior
+1797,North America,"JavaScript, Java, Python, Shell, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Networking, Other",,not specified
+1798,North America,,"Cloud Computing, Software Development, Networking, Cybersecurity",5,senior
+1799,North America,"R, Other","Data Analytics, Other",5,senior
+1800,North America,"C++, Other","Internet of Things (IoT), Data Analytics, Software Development, Other",4,senior
+1801,North America,"JavaScript, Python, Java","DevOps, Software Development, Mobile Development, Other",2,mid
+1802,North America,,Machine Learning/Artificial Intelligence,5,senior
+1803,North America,,Machine Learning/Artificial Intelligence,10,senior
+1804,North America,"Ruby, Python","DevOps, Software Development, Other",,not specified
+1805,North America,,"Software Development, Other",5,mid
+1806,North America,"JavaScript, Python, Other","Web Development, Cloud Computing, Database Management, Other",3,mid
+1807,Asia,,,10,senior
+1808,North America,,"Machine Learning/Artificial Intelligence, Software Development, Other",7,senior
+1809,Asia,,,3,not specified
+1810,North America,Java,"Web Development, Software Development, Database Management, Other",5,senior
+1811,North America,,"Database Management, Networking, Other",10,senior
+1812,North America,"Swift, PHP, Python, Java","Web Development, DevOps, Database Management, Other",5,senior
+1813,North America,"Python, Go","Cloud Computing, DevOps, Other",,not specified
+1814,North America,,"Data Analytics, Other",10,senior
+1815,North America,"JavaScript, Java","Web Development, Software Development, Database Management, Other",5,senior
+1816,North America,"Swift, C++, Other","Other, Mobile Development",,not specified
+1817,North America,,Software Development,1,junior
+1818,North America,"JavaScript, PHP, Swift, Python, Ruby, C++, Other","Web Development, Software Development",,not specified
+1819,Asia,"Java, Python, Shell, Swift, Other","Web Development, Software Development, Database Management, Other",7,senior
+1820,North America,Other,"Data Analytics, Software Development, Other",5,senior
+1821,Asia,,,3,mid
+1822,North America,,"Networking, Other",5,senior
+1823,North America,"PHP, Java, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Web Development,",5,senior
+1824,North America,,"Networking, Other",5,senior
+1825,North America,"Shell, C++, Other","Data Analytics, Other",5,senior
+1826,North America,,"Cybersecurity, Software Development, Web Development, Networking, Other",5,senior
+1827,North America,"C++, Other","Software Development, Other",3,mid
+1828,North America,"PHP, Java, Perl, Python, Ruby","Cybersecurity, Software Development, Web Development, Networking, Other",,not specified
+1829,North America,"JavaScript, Python, Other","Web Development, Cloud Computing, Database Management, Other",3,mid
+1830,North America,"JavaScript, Python, Java","Web Development, Data Analytics, Software Development, Database Management",5,senior
+1831,North America,"Kotlin, Java, Python, Swift, Go, C++, Other","DevOps, Database Management, Cybersecurity, Networking, Other",,senior
+1832,North America,,,5,senior
+1833,North America,,Other,,senior
+1834,North America,"Ruby, Perl, Shell, Other","Software Development, Other",3,mid
+1835,North America,"C++, Other","Data Analytics, Software Development",,mid
+1836,Asia,"Python, Java, Other","Database Management, Other",,senior
+1837,North America,,"Data Analytics, Machine Learning/Artificial Intelligence, AR/VR (Augmented Reality/Virtual Reality),",5,senior
+1838,North America,"Python, C++, Other","Web Development, Internet of Things (IoT), Cloud Computing, Software Development",,not specified
+1839,Asia,"Java, Perl, Python, Ruby, Go","Cloud Computing, DevOps, Software Development, Networking",4,senior
+1840,Europe,"Perl, PHP, Python, Other","Web Development, Software Development",,not specified
+1841,North America,Other,"Cybersecurity, Software Development, Web Development, Networking, Other",5,senior
+1842,North America,Other,"Web Development, Software Development, Other",8,senior
+1843,North America,Other,"Web Development, Other, Software Development, Mobile Development",8,senior
+1844,North America,,Other,3,mid
+1845,North America,Other,"Other, Mobile Development",3,mid
+1846,North America,Python,"Other, Software Development, Mobile Development",5,senior
+1847,Asia,"Java, Python, Shell, Perl, Ruby","DevOps, Other",,not specified
+1848,North America,,"DevOps, Cybersecurity, Web Development, Networking, Other",5,senior
+1849,North America,"C++, Other",Other,10,senior
+1850,North America,Other,"Machine Learning/Artificial Intelligence, Software Development, Other",,not specified
+1851,North America,,,,not specified
+1852,North America,,"Data Analytics, Other",2,not specified
+1853,North America,"Python, C++, Perl, Other","Database Management, Other",8,senior
+1854,North America,,,3,mid
+1855,North America,"Python, Shell, Swift","Mobile Development, Software Development, Other",5,senior
+1856,North America,,"Software Development, Other",5,senior
+1857,North America,,"Human-Computer Interaction, Data Analytics, AR/VR (Augmented Reality/Virtual Reality), Other",,not specified
+1858,North America,,"Database Management, Mobile Development, Software Development, Web Development, Other",10,senior
+1859,North America,,Other,5,senior
+1860,North America,,Other,5,senior
+1861,North America,"Swift, C++, Other","Database Management, Machine Learning/Artificial Intelligence, Cybersecurity, Mobile Development, Ot",6,senior
+1862,North America,"Python, C++, Perl, Other","Database Management, Other",8,senior
+1863,Asia,,Other,,not specified
+1864,North America,,,,not specified
+1865,North America,"Perl, Python, Ruby, C++, Other","Software Development, Other",3,mid
+1866,North America,"Scala, R, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence",,not specified
+1867,North America,"Perl, Shell, PHP, Python","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Software Development, N",5,senior
+1868,North America,"Ruby, Perl, Python, Java","Data Analytics, DevOps, Database Management, Software Development, Networking, Other",5,senior
+1869,Asia,,,2,not specified
+1870,North America,"Other, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,not specified
+1871,North America,,"Web Development, Networking, Other",,senior
+1872,North America,"C++, Other","Software Development, Other",5,senior
+1873,North America,,,3,mid
+1874,North America,"Python, C++, Other","Machine Learning/Artificial Intelligence, Other",5,senior
+1875,North America,,"Data Analytics, Other",3,not specified
+1876,North America,"Python, Perl, Other",Other,,not specified
+1877,Europe,"C++, Other","Networking, Other",,senior
+1878,North America,,Other,,not specified
+1879,Asia,"C++, Other","Software Development, Other",6,senior
+1880,North America,"Perl, PHP, Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Cybersecurity, Software Development",5,senior
+1881,North America,,"Machine Learning/Artificial Intelligence, Software Development, Other",5,senior
+1882,North America,,Machine Learning/Artificial Intelligence,3,mid
+1883,North America,,Machine Learning/Artificial Intelligence,7,senior
+1884,North America,R,"Data Analytics, Other",5,senior
+1885,Asia,,"Internet of Things (IoT), Other",8,senior
+1886,North America,,"Data Analytics, Other",2,not specified
+1887,North America,,"Software Development, Other",3,mid
+1888,North America,"Perl, Python, Other","Web Development, Networking, Other",,not specified
+1889,North America,"Python, Shell, Perl","Cybersecurity, Cloud Computing, Networking, Other",4,senior
+1890,Europe,,,,senior
+1891,Asia,"Python, C++, Other","Networking, Other",5,senior
+1892,North America,,"Software Development, Other",5,senior
+1893,North America,,"Software Development, Other",5,mid
+1894,North America,,"Mobile Development, Other",5,senior
+1895,North America,"C++, Other",Other,3,senior
+1896,North America,"Perl, C++, C#, Other","Software Development, Other",7,senior
+1897,North America,,Other,5,senior
+1898,North America,,Other,5,senior
+1899,North America,"Perl, Shell, Other",Other,3,not specified
+1900,North America,"C++, Other",Other,5,senior
+1901,North America,"Python, C++, Java",Machine Learning/Artificial Intelligence,,not specified
+1902,North America,,,5,senior
+1903,North America,,,,not specified
+1904,North America,"Perl, C++, Python, Other",Other,5,senior
+1905,North America,"JavaScript, Other","Database Management, Other",10,senior
+1906,Europe,,,,senior
+1907,North America,,Other,5,mid
+1908,North America,"C++, Other","Software Development, Networking, Other",,not specified
+1909,North America,"Scala, Java, Python, Shell, Ruby, C++","Web Development, Other",4,senior
+1910,Asia,,"Networking, Other",8,senior
+1911,North America,,"Internet of Things (IoT), Data Analytics, Mobile Development, Other",,not specified
+1912,North America,"Swift, C++, Other",Software Development,,not specified
+1913,North America,,"Machine Learning/Artificial Intelligence, Database Management, Other",3,mid
+1914,North America,Java,"Data Analytics, Cloud Computing, Database Management, Other",10,senior
+1915,North America,Java,"Web Development, Software Development, Database Management",5,senior
+1916,North America,,"Mobile Development, Other",5,mid
+1917,North America,,"Machine Learning/Artificial Intelligence, Database Management, Other",3,mid
+1918,North America,,"Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",5,senior
+1919,North America,,"Data Analytics, Software Development, Other",,mid
+1920,North America,"Java, Perl, Shell, Python, Go, C++","Web Development, DevOps, Software Development, Other",3,mid
+1921,Europe,Other,Other,,mid
+1922,Asia,,"Other, Software Development, Cybersecurity",5,senior
+1923,North America,,"Mobile Development, Other",5,senior
+1924,North America,"Scala, Python, Java","Data Analytics, Machine Learning/Artificial Intelligence, Cybersecurity, Other",,not specified
+1925,North America,,"Cloud Computing, Other",7,senior
+1926,Asia,,Other,5,senior
+1927,North America,,,5,not specified
+1928,Europe,Python,Other,1,not specified
+1929,Europe,"JavaScript, Python, Ruby","Web Development, Data Analytics, Software Development, Other",,not specified
+1930,North America,"Java, Python, Perl, Ruby, Go","Cloud Computing, DevOps, Software Development, Other",5,senior
+1931,North America,,Other,10,senior
+1932,North America,,Other,,senior
+1933,Asia,,"DevOps, Mobile Development, Networking, Other",,not specified
+1934,North America,"C++, Other","Software Development, Other",,not specified
+1935,North America,Other,Other,,senior
+1936,North America,,"Software Development, Other",5,mid
+1937,North America,Python,Machine Learning/Artificial Intelligence,,not specified
+1938,North America,"Perl, Other","Software Development, Other",5,senior
+1939,North America,"Python, C++, Java, Other","Software Development, Other",,not specified
+1940,Asia,"Swift, Other","Database Management, Cybersecurity, Mobile Development, Web Development, Other",8,senior
+1941,North America,Java,"Cloud Computing, DevOps, Database Management, Other",10,senior
+1942,North America,,"Data Analytics, Database Management, Cloud Computing, Software Development, Other",10,senior
+1943,Asia,,"Data Analytics, Other",5,senior
+1944,North America,,"Machine Learning/Artificial Intelligence, Database Management, Other",10,senior
+1945,North America,,"Machine Learning/Artificial Intelligence, Database Management, Other",10,senior
+1946,North America,,"Human-Computer Interaction, DevOps, Other",,not specified
+1947,Asia,"JavaScript, Other","Web Development, Other",5,senior
+1948,North America,"Perl, Other","DevOps, Software Development, Other",2,mid
+1949,Asia,"Python, Shell, Go, Java","Data Analytics, DevOps, Networking, Other",5,senior
+1950,North America,"Python, Other","Human-Computer Interaction, Data Analytics, Machine Learning/Artificial Intelligence, Other",5,senior
+1951,North America,,Other,5,not specified
+1952,North America,,Other,8,senior
+1953,North America,"Python, C++, Java, Other","Software Development, Other",,not specified
+1954,North America,,"DevOps, Cloud Computing, Mobile Development, Software Development, Other",,mid
+1955,North America,,,10,senior
+1956,North America,"Other, Java","Data Analytics, Cybersecurity, Web Development, Networking, Other",8,senior
+1957,North America,"Python, R, Other","Data Analytics, Other",3,mid
+1958,North America,Other,"Mobile Development, Other",2,mid
+1959,North America,,Machine Learning/Artificial Intelligence,5,senior
+1960,Asia,"Swift, Other","Web Development, Other, Database Management, Mobile Development",8,senior
+1961,North America,"JavaScript, Other",Web Development,5,senior
+1962,North America,,"DevOps, Cloud Computing, Mobile Development, Software Development, Networking, Other",,not specified
+1963,North America,,"Software Development, Other",8,senior
+1964,North America,,,4,not specified
+1965,North America,,,4,mid
+1966,North America,"Python, C++",Machine Learning/Artificial Intelligence,,not specified
+1967,North America,,"Data Analytics, Other",3,mid
+1968,North America,,,5,not specified
+1969,North America,"C++, Other","Networking, Other",,not specified
+1970,North America,"Ruby, Python, Shell, Other","DevOps, Cloud Computing, Software Development, Web Development, Networking, Other",10,senior
+1971,North America,"Python, C++, Other","Internet of Things (IoT), Data Analytics, Other",4,not specified
+1972,Asia,,Other,7,senior
+1973,North America,,"Data Analytics, Database Management, Other",3,mid
+1974,North America,,"Web Development, Other",5,senior
+1975,North America,,"Software Development, Other",8,senior
+1976,North America,,"Data Analytics, Software Development, Other",5,not specified
+1977,Asia,,"Networking, Other",7,senior
+1978,North America,,,4,senior
+1979,Asia,,,8,senior
+1980,North America,,,,not specified
+1981,North America,,,12,senior
+1982,North America,"Python, C++","Cloud Computing, Software Development, Database Management, Other",,not specified
+1983,North America,,,,not specified
+1984,North America,"Python, Shell, Perl","Data Analytics, DevOps, Cloud Computing, Software Development, Networking, Other",5,not specified
+1985,Asia,,"Cybersecurity, Networking, Other",7,senior
+1986,North America,"Java, Other",Other,,not specified
+1987,North America,Other,"Networking, Other",5,senior
+1988,North America,,Internet of Things (IoT),7,senior
+1989,North America,,Data Analytics,,not specified
+1990,North America,,,5,senior
+1991,Europe,"Swift, Other","Web Development, Mobile Development",,not specified
+1992,North America,Python,"Data Analytics, Database Management",5,senior
+1993,Asia,"JavaScript, Java, Other","Web Development, Other",,not specified
+1994,Europe,"Python, C++","Software Development, Networking, Other",,senior
+1995,Europe,,"Software Development, Other",10,senior
+1996,North America,,Other,5,not specified
+1997,North America,Other,"AR/VR (Augmented Reality/Virtual Reality), Networking, Other",4,not specified
+1998,Europe,,Data Analytics,,not specified
+1999,North America,"JavaScript, Other","Human-Computer Interaction, Other",5,mid
+2000,Europe,Java,Data Analytics,,not specified
+2001,North America,Other,"Software Development, Other",,not specified
+2002,North America,,"Mobile Development, Other",,not specified
+2003,North America,Other,"Machine Learning/Artificial Intelligence, Other",5,senior
+2004,Asia,,"Other, Networking, Cybersecurity",10,senior
+2005,North America,,"Web Development, Other",,not specified
+2006,North America,"Python, Shell, Perl, Go","DevOps, Mobile Development, Other",,not specified
+2007,North America,,Other,3,mid
+2008,North America,Other,"Data Analytics, Software Development, Database Management, Other",,senior
+2009,Asia,Other,"Networking, Other",,senior
+2010,North America,,"Data Analytics, Networking, Other",5,senior
+2011,Asia,"Python, Perl, Other",Other,,not specified
+2012,North America,"Scala, Python, Java","Data Analytics, Database Management",,not specified
+2013,Asia,"Python, Other, Java","Data Analytics, Database Management, Software Development, Web Development, Other",,not specified
+2014,North America,,"Web Development, Data Analytics, Mobile Development, Other",8,senior
+2015,North America,"Other, Java","Database Management, Cybersecurity, Software Development, Web Development, Networking, Other",8,senior
+2016,Europe,Other,"Software Development, Other",,not specified
+2017,North America,,"Other, Software Development, Mobile Development",,not specified
+2018,North America,Other,"Web Development, Software Development, Other",,not specified
+2019,North America,Java,"Data Analytics, Database Management",5,senior
+2020,North America,"JavaScript, Python, Java","Web Development, Data Analytics, Cloud Computing, Database Management",3,mid
+2021,Asia,,Machine Learning/Artificial Intelligence,7,senior
+2022,North America,"Python, Scala, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Othe",,senior
+2023,North America,Go,"Data Analytics, DevOps, Networking, Other",,senior
+2024,North America,"Python, Other",Other,2,mid
+2025,North America,"Python, Scala, Java","Data Analytics, Database Management, Cloud Computing, Software Development, Other",,mid
+2026,North America,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Software Development, Networking, Other",5,senior
+2027,North America,"Python, R, Other","Data Analytics, Machine Learning/Artificial Intelligence, Database Management, Other",,not specified
+2028,North America,,Other,5,senior
+2029,North America,"Ruby, Perl, Shell, Python","Data Analytics, DevOps, Database Management, Software Development, Networking, Other",5,mid
+2030,Asia,"Python, Perl, Other",Other,,not specified
+2031,North America,"Python, Shell, Perl, Go","DevOps, Mobile Development, Other",,not specified
+2032,Asia,,"Data Analytics, Other",,not specified
+2033,Europe,,Other,3,mid
+2034,Asia,,"Data Analytics, Other",,senior
+2035,Asia,Other,"Software Development, Other",,not specified
+2036,North America,"Java, Python, Swift, Perl, Shell, C++, Other","Data Analytics, DevOps, Machine Learning/Artificial Intelligence, Software Development, Networking, ",10,senior
+2037,North America,"Python, Shell, Perl","DevOps, Database Management, Cloud Computing, Software Development, Networking, Other",,not specified
+2038,Europe,,"Other, Software Development, Networking, Mobile Development",10,senior
+2039,Europe,,"Data Analytics, Other",,senior
+2040,North America,"Ruby, Perl, Go, Python","DevOps, Cloud Computing, Cybersecurity, Software Development, Web Development, Networking, Other",5,senior
+2041,North America,"Python, Other, Scala, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Othe",,senior
+2042,North America,"Python, Other",Other,5,senior
+2043,Asia,,"Other, Software Development, Networking, Mobile Development",10,senior
+2044,North America,"Python, Shell","Data Analytics, Database Management, Other",2,mid
+2045,North America,,Other,3,mid
+2046,Europe,"C++, Other",Other,,not specified
+2047,North America,"Perl, Python, Other",Other,,not specified
+2048,North America,,Web Development,6,senior
+2049,North America,,"Software Development, Database Management, Other",5,senior
+2050,North America,,"Software Development, Database Management, Other",5,senior
+2051,North America,"Java, Python, Go, C++, Other","DevOps, Database Management, Web Development, Networking, Other",3,senior
+2052,Europe,,"Other, Software Development, Networking, Mobile Development",10,senior
+2053,North America,,Other,3,mid
+2054,North America,"Ruby, Perl, Shell, Python","DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Oth",5,senior
+2055,North America,Java,Database Management,5,senior
+2056,North America,Other,Other,4,mid
+2057,North America,"Perl, Python, Other",Other,5,senior
+2058,North America,,"Networking, Other",,not specified
+2059,North America,,Other,2,mid
+2060,North America,"Perl, Shell, PHP, Other","Database Management, Software Development, Web Development, Networking, Other",5,senior
+2061,North America,"Perl, Shell, PHP","Database Management, Software Development, Web Development, Networking, Other",5,mid
+2062,North America,"Java, Python, Go, C++, Other","DevOps, Database Management, Web Development, Networking, Other",3,mid
+2063,North America,,Other,,senior
+2064,North America,"Perl, Python, Other",Other,5,senior
+2065,Asia,,"Web Development, Networking, Other",,senior
+2066,Asia,Other,"Web Development, Cybersecurity, Networking, Other",,senior
+2067,North America,"Python, Perl, Other","Software Development, Other",5,senior
+2068,North America,"Python, Perl, Other","Software Development, Other",5,senior
+2069,North America,"JavaScript, Other","Web Development, Other",2,not specified
+2070,North America,"Python, Other","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",8,senior
+2071,Asia,,Other,,not specified
+2072,Europe,,"Other, Data Analytics, Mobile Development",,junior
+2073,Asia,,Web Development,,senior
+2074,North America,Other,"Other, Software Development, Mobile Development",,senior
+2075,Asia,"Scala, Other, Java","Data Analytics, Cloud Computing, Database Management, DevOps",,senior
+2076,North America,"JavaScript, PHP, Other","Data Analytics, Blockchain, Software Development, Web Development, Other",5,senior
+2077,North America,,"Software Development, Other",5,senior
+2078,North America,Other,Other,,not specified
+2079,North America,"Perl, Other","Software Development, Other",5,senior
+2080,North America,"JavaScript, Other, Java","Web Development, Software Development, Database Management, Other",5,senior
+2081,Asia,,Other,,not specified
+2082,Europe,,"Web Development, Other, Networking, Mobile Development",2,not specified
+2083,North America,,"AR/VR (Augmented Reality/Virtual Reality), Other",3,mid
+2084,North America,"JavaScript, Perl, Shell, Python, C++, Other","Web Development, Software Development, Networking, Other",,senior
+2085,North America,"JavaScript, Perl, Shell, Python, C++, Other","Web Development, Software Development, Networking, Other",,not specified
+2086,Asia,,,,not specified
+2087,Asia,,"Data Analytics, DevOps, Other",3,mid
+2088,North America,,Other,6,senior
+2089,North America,,"Data Analytics, Other",2,mid
+2090,North America,"Scala, Shell, Python, Java","Data Analytics, DevOps, Database Management, Cloud Computing, Software Development, Other",3,mid
+2091,Europe,,"Web Development, Other",,senior
+2092,North America,,"Web Development, Data Analytics, Other",,senior
+2093,North America,,Other,8,senior
+2094,North America,,"Cloud Computing, Software Development, Database Management, Other",8,senior
+2095,North America,"Ruby, Perl, Shell, Python","DevOps, Database Management, Cloud Computing, Software Development, Web Development, Networking, Oth",5,senior
+2096,Asia,"JavaScript, Other","Web Development, Other",,not specified
+2097,Asia,"Python, Perl, Other",Other,,not specified
+2098,Asia,"Python, Perl, Other",Other,,not specified
+2099,North America,Python,"Data Analytics, Software Development, Other",5,senior
+2100,North America,,,,mid
+2101,North America,,"Cloud Computing, Mobile Development, Other",2,mid
+2102,North America,,Other,3,mid
+2103,North America,,Other,10,senior
+2104,North America,,,,not specified
+2105,Asia,,"DevOps, Mobile Development, Web Development, Internet of Things (IoT), Networking, Other",1,mid
+2106,Asia,,,5,senior
+2107,North America,,"Web Development, Software Development, Mobile Development, Other",15,senior
+2108,North America,"Python, Java","Data Analytics, Database Management, Cloud Computing, Machine Learning/Artificial Intelligence, Soft",5,senior
+2109,Asia,,"Human-Computer Interaction, Mobile Development, Other",,mid
+2110,North America,"Java, Python, Perl, Ruby, Go","Data Analytics, Cloud Computing, DevOps, Other",5,senior
+2111,North America,"Java, Python, Perl, Ruby, Go","Data Analytics, DevOps, Cloud Computing, Software Development, Other",5,senior
+2112,Asia,,Other,15,senior
+2113,North America,,"Human-Computer Interaction, Mobile Development, Other",,senior
+2114,North America,,Cybersecurity,5,senior
+2115,North America,"Python, C++, Other","Internet of Things (IoT), Other",,not specified
+2116,Europe,,"Data Analytics, Database Management, Other",10,senior
+2117,North America,"Python, C++, Other","Cloud Computing, Software Development, Database Management, Other",,not specified
+2118,Europe,,Mobile Development,,senior
+2119,Asia,,"Data Analytics, Other",2,mid
+2120,North America,,Other,,not specified
+2121,North America,"JavaScript, TypeScript","Web Development, Cloud Computing, Database Management",15,senior
+2122,Europe,,,,not specified
+2123,North America,,Data Analytics,5,senior
+2124,Europe,,"Mobile Development, Other",,senior
+2125,Asia,,Other,,not specified
+2126,Asia,,,,senior
+2127,North America,,,,not specified
+2128,Asia,,,,not specified
+2129,Europe,,,,not specified
+2130,Europe,,,,not specified
+2131,Asia,,,,not specified
+2132,Asia,,,,not specified
+2133,Asia,,,,not specified
+2134,Asia,,,,not specified
+2135,Asia,,Other,,senior
+2136,Asia,,,,not specified
+2137,Asia,,,,not specified
+2138,Europe,,,,senior
+2139,Asia,,"Data Analytics, Other",5,senior
+2140,Europe,,,,senior
+2141,Europe,,,,senior
+2142,North America,,,8,senior
+2143,Asia,,,,senior
+2144,Europe,,,,not specified
+2145,Asia,,,,senior
+2146,Asia,,,,not specified
+2147,North America,"Swift, Shell, Python, Other","Other, Software Development, Networking, Cybersecurity",,not specified
