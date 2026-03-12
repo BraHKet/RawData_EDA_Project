@@ -43,6 +43,16 @@ job category, from hundreds of entries like this required iterative work involvi
 
 > The resulting `clean_applejobs.csv` is not a starting point: it is the main output of this project.
 
+## Current Database Snapshot
+
+Below is a preview of the `clean_applejobs.csv` data after import and cleaning. 
+This illustrates the structured format with columns properly separated and ready for analysis.
+
+<div align="center">
+    <img src="data/other/clean_dataset.png" alt="Clean Apple Jobs Database" width="800" />
+</div>
+
+
 ## Methodology
 
 My approach to this project is guided by a systematic EDA process designed to extract maximum value from challenging datasets. The detailed methodological steps are fully documented in the **[Metodology](EDA_Methodology.md)** file.
