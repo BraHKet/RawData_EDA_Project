@@ -1,14 +1,15 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/960px-Apple_logo_grey.svg.png" alt="NaLA logo" width="175" />
-    <h1>APPLE JOBS ANALYSIS</h1>
-    <h3>Kaggle Raw Data EDA Project</h3>
+    <h1>Apple Jobs Dataset</h1>
+    <h3>Data Cleaning & Preprocessing Pipeline</h3>
+    <h4>Kaggle Raw Data EDA Project</h4>
 
    [Lorenzo Rizzo](https://github.com/BraHKet)
 </div>
 
 ## Project Overview
 
-This repository presents a data analysis project, focusing on a raw and challenging dataset from Kaggle. The primary objective is to demonstrate a structured approach to Exploratory Data Analysis (EDA) and data cleaning, transforming an initial messy dataset into a clean, insightful foundation for potential future machine learning models.
+This repository documents a data engineering project built around a raw, unstructured dataset of Apple job postings from Kaggle. The primary objective is to demonstrate a reproducible preprocessing pipeline capable of transforming free-form text into a clean, structured dataset ready for analysis. This includes LLM-based feature extraction using OpenAI Structured Outputs, multi-step normalization via LLM bucketing, and final storage in a relational database. The resulting dataset, not the raw input, is the main deliverable of this project.
 
 The dataset used is: 
 [**Raw Data**](https://www.kaggle.com/datasets/aesophor/raw-data/code) - *Note: This dataset was chosen specifically for its raw and uncleaned nature.*
@@ -105,12 +106,6 @@ This analysis aims to provide a clear and practical guide for anyone aspiring to
 
 ---
 
-## Future Developments
+## Limitations & Scope
 
-This project lays a solid foundation for understanding job market trends. To further enhance this analysis and extract deeper insights, several future developments are envisioned:
-
-*   **Interactive Dashboards with Tableau:** Leverage business intelligence tools like Tableau to create interactive dashboards.
-
-*   **Advanced Analysis with LLMs:** Future work could involve more sophisticated processing of raw textual data to extract more insights.
-
-These future enhancements would transform the current exploratory analysis into a more comprehensive tool for career planning.
+This project is scoped intentionally as a preprocessing pipeline, not a full analytical study. The dataset presents inherent limitations that constrain deeper analysis: job locations are heavily skewed toward Cupertino, reducing the value of geographic comparisons, and the available structured features are few once free-text fields are parsed. Rather than forcing superficial insights from limited data, the analytical section is kept deliberately concise. The value of this project lies in the pipeline itself, the ability to take genuinely messy, unstructured data and produce something queryable and useful.
